@@ -31,7 +31,6 @@ const LatestAndPopular = () => {
     "EASTERN MEDITERRANEAN",
     "MY TURKEY",
   ];
-  
 
   return (
     <div className="flex flex-col gap-6 overflow-hidden">
@@ -54,7 +53,7 @@ const LatestAndPopular = () => {
       </div>
 
       {/* latest news section */}
-      <div className="flex md:flex-row flex-col gap-6">
+      <div className="flex flex-row screen992:flex-col  gap-6">
         {/* main news */}
         <div className="flex flex-col h-full pb-10">
           <div className="relative w-full max-w-full h-0 pb-[55%] overflow-hidden">
@@ -72,16 +71,19 @@ const LatestAndPopular = () => {
 
           {/* related stories section */}
           <div className="flex flex-col mt-8">
-            <h4 className="text-middleGray roboto flex ">RELATED STORIES</h4>
-            <div className="flex md:flex-row flex-col justify-center items-center gap-2 lg:h-32 h-16 font-bold">
+            <h4 className="text-middleGray roboto">RELATED STORIES</h4>
+            <div className="flex flex-col md:flex-row justify-center items-stretch gap-2 font-bold">
               <div className="cursor-pointer">
                 {data.homepageapi.latest[1].title}
               </div>
-              <div className="border-l-2 border-lightGray h-full mr-4"></div>
+              {/* until mobile screen vertical line display, after mobile screen horizontal screen display */}
+              <div className="hidden md:block border-l-2 border-lightGray h-auto mx-2 mr-4"></div>
+              <div className="block md:hidden border-t-2 border-lightGray w-full my-2"></div>
               <div className="cursor-pointer">
                 {data.homepageapi.latest[2].title}
               </div>
-              <div className="border-l-2 border-lightGray h-full mr-4"></div>
+              <div className="hidden md:block border-l-2 border-lightGray h-auto mx-2 mr-4"></div>
+              <div className="block md:hidden border-t-2 border-lightGray w-full my-2"></div>
               <div className="cursor-pointer">
                 {data.homepageapi.latest[3].title}
               </div>
@@ -90,17 +92,18 @@ const LatestAndPopular = () => {
         </div>
 
         {/* second column */}
-        <div className="flex flex-col md:flex-row w-full justify-between gap-8">
-          <div className="flex flex-col sm:flex-row md:flex-col gap-3 ">
+        <div className="flex screen768:flex-col flex-row w-full justify-between gap-8">
+          <div className="flex flex-col between768and576:flex-row gap-3 ">
             <div className="max-w-sm">
               <a href="#">
-              <div className="relative w-full h-0 pb-[56.25%]"> 
-                <Image
-                  src={data.homepageapi.latest[1].mainImageUrl}
-                  alt=""
-                  layout="fill"
-                  objectFit="cover"
-                /></div>
+                <div className="relative w-full h-0 pb-[56.25%]">
+                  <Image
+                    src={data.homepageapi.latest[1].mainImageUrl}
+                    alt=""
+                    layout="fill"
+                    objectFit="cover"
+                  />
+                </div>
               </a>
               <div className="pt-5">
                 <a href="#">
@@ -114,17 +117,19 @@ const LatestAndPopular = () => {
               </div>
             </div>
 
-            <div className="border-b-2 mb-2 border-lightGray w-[85%] h-1 block sm:hidden md:block"></div>
+            <div className="border-l-2 ml-2 border-lightGray w-1 h-100  between768and576:block hidden"></div>
+            <div className="border-b-2 mb-2 border-lightGray w-full h-1  between768and576:hidden block"></div>
 
             <div className="max-w-sm ">
               <a href="#">
-              <div className="relative w-full h-0 pb-[56.25%]"> 
-                <Image
-                  src={data.homepageapi.latest[2].mainImageUrl}
-                  alt=""
-                  layout="fill"
-                  objectFit="cover"
-                /></div>
+                <div className="relative w-full h-0 pb-[56.25%]">
+                  <Image
+                    src={data.homepageapi.latest[2].mainImageUrl}
+                    alt=""
+                    layout="fill"
+                    objectFit="cover"
+                  />
+                </div>
               </a>
               <div className="pt-5">
                 <a href="#">
@@ -139,9 +144,11 @@ const LatestAndPopular = () => {
             </div>
           </div>
 
+          <div className="border-b-2 mb-2 border-lightGray w-full h-1  screen576:block hidden"></div>
+
           {/* section with writers */}
           {/* I put authors and images randomly because I could not fetch author photo form API */}
-          <div className="flex flex-col gap-3 ">
+          <div className="flex flex-col gap-3  ">
             <div className="flex flex-row items-center">
               <div className="relative w-12 h-10 md:w-20 md:h-14">
                 <Image

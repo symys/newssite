@@ -20,6 +20,14 @@ const config: Config = {
       fontFamily: {
         noto: ['Noto Serif', 'serif'], 
       },
+      screens: {
+        'screen992': {'max': '992px'}, // 992px and smaller than it
+        'screen768' : {'max': '768px'},
+        'screen576' : {'max': '576px'},
+        'between768and992': {'min': '768px', 'max': '992px'}, 
+        'between768and576': {'min': '576px', 'max': '768px'}, 
+
+      },
     },
   },
   plugins: [],
