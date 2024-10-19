@@ -14,7 +14,9 @@ const config: Config = {
         customGray: '#63676C',
         lightGray: '#E1E6EB',
         trtBlue: '#0089CC',
-        middleGray: '#A0A5AA'
+        middleGray: '#A0A5AA',
+        popularGray: '#BFC3C9',
+        popularTitleGray: '#22262A',
 
       },
       fontFamily: {
@@ -24,6 +26,7 @@ const config: Config = {
         'screen992': {'max': '992px'}, // 992px and smaller than it
         'screen768' : {'max': '768px'},
         'screen576' : {'max': '576px'},
+        'screen320' : {'max': '320px'},
         'between768and992': {'min': '768px', 'max': '992px'}, 
         'between768and576': {'min': '576px', 'max': '768px'}, 
 
