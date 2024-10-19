@@ -31,6 +31,7 @@ const LatestAndPopular = () => {
     "EASTERN MEDITERRANEAN",
     "MY TURKEY",
   ];
+  
 
   return (
     <div className="flex flex-col gap-6 overflow-hidden">
