@@ -57,3 +57,6 @@ setInterval(fetchHomepageAndArticles, 12 * 60 * 60 * 1000); // It works each 12 
 
 // it fetch data when script is called
 fetchHomepageAndArticles();
+
+
+//node fetchData.js run command

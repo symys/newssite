@@ -1,0 +1,2209 @@
+{
+    "homepageapi": {
+      "metadata": {
+        "siteUrl": "https://trtworld.com",
+        "pageTitle": "TRT World - Breaking News, Live Coverage, Opinions and Videos",
+        "siteLanguage": "en_US",
+        "pageDescription": "Breaking news, live coverage, opinions, features, in-depth analysis and videos from TRT World, 24/7.",
+        "pageImage": "https://cdn-i.pr.trt.com.tr/trtworld/16275646.png"
+      },
+      "latest": [
+        {
+          "id": 18222215,
+          "type": "article",
+          "title": "China's Xi Jinping calls on troops to boost war preparedness",
+          "description": "Xi has said the military should comprehensively strengthen training and preparation for war, and ensure troops have solid combat capabilities.",
+          "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21060900_0-894-8640-4865.jpeg",
+          "overlayImageUrl": "",
+          "thumbnailSquare": "",
+          "categories": [
+            {
+              "contentId": 12682254,
+              "title": "Home Page"
+            },
+            {
+              "contentId": 12682879,
+              "title": "Asia"
+            }
+          ],
+          "metaTitle": "",
+          "metaDescription": "",
+          "showName": "",
+          "showSlug": "",
+          "path": "/asia/chinas-xi-jinping-calls-on-troops-to-boost-war-preparedness-18222215",
+          "publishedDate": "2024-10-19T09:39:38.746Z",
+          "authors": [],
+          "showAuthor": false,
+          "showByLine": false,
+          "showSparkbox": false
+        },
+        {
+          "id": 18222208,
+          "type": "article",
+          "title": "China's consulate in Myanmar hit with explosives",
+          "description": "A Myanmar official in Mandalay has also confirmed there had been an incident at the Chinese consulate in the Mandalay City office compound.",
+          "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21060871_0-46-1500-844.jpeg",
+          "overlayImageUrl": "",
+          "thumbnailSquare": "",
+          "categories": [
+            {
+              "contentId": 12682254,
+              "title": "Home Page"
+            },
+            {
+              "contentId": 12682879,
+              "title": "Asia"
+            }
+          ],
+          "metaTitle": "",
+          "metaDescription": "",
+          "showName": "",
+          "showSlug": "",
+          "path": "/asia/chinas-consulate-in-myanmar-hit-with-explosives-18222208",
+          "publishedDate": "2024-10-19T09:11:41.635Z",
+          "authors": [],
+          "showAuthor": false,
+          "showByLine": false,
+          "showSparkbox": false
+        },
+        {
+          "id": 18222175,
+          "type": "article",
+          "title": "Ghassan Kanafani, Hanzala: Senegalese artists paint Palestinian struggle",
+          "description": "The artists have said their goal was to draw attention to events in Palestine and Lebanon, raise awareness and make the issue more visible and part of everyday life.",
+          "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21060801_0-0-5253-2958.jpeg",
+          "overlayImageUrl": "",
+          "thumbnailSquare": "",
+          "categories": [
+            {
+              "contentId": 12682254,
+              "title": "Home Page"
+            },
+            {
+              "contentId": 12683247,
+              "title": "Arts & Culture"
+            }
+          ],
+          "metaTitle": "",
+          "metaDescription": "",
+          "showName": "",
+          "showSlug": "",
+          "path": "/arts-and-culture/ghassan-kanafani-hanzala-senegalese-artists-paint-palestinian-struggle-18222175",
+          "publishedDate": "2024-10-19T08:19:56.887Z",
+          "authors": [],
+          "showAuthor": false,
+          "showByLine": false,
+          "showSparkbox": false
+        },
+        {
+          "id": 18222110,
+          "type": "article",
+          "title": "Live blog: Israeli PM Netanyahu’s residence hit by drone — authorities",
+          "description": "Israel's war on Gaza, now in its 379th day, has killed at least 42,500 Palestinians and wounded nearly 100,000, with 10,000+ possibly buried under debris. Israeli has also killed at least 2,411 people in Lebanon since October last year.",
+          "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21060767_0-0-3240-1824.jpeg",
+          "overlayImageUrl": "",
+          "thumbnailSquare": "",
+          "categories": [
+            {
+              "contentId": 12682254,
+              "title": "Home Page"
+            },
+            {
+              "contentId": 12683241,
+              "title": "Middle East"
+            }
+          ],
+          "metaTitle": "",
+          "metaDescription": "",
+          "showName": "",
+          "showSlug": "",
+          "path": "/content/article/live-blog-israeli-pm-netanyahus-residence-hit-by-drone-authorities-18222110",
+          "publishedDate": "2024-10-19T07:48:57.068Z",
+          "authors": [],
+          "showAuthor": false,
+          "showByLine": false,
+          "showSparkbox": false
+        }
+      ],
+      "news": [
+        {
+          "id": 12977396,
+          "type": "article",
+          "title": "South Africa's Ramaposa rows back from pledge to quit ICC",
+          "description": "South African President Cyril Ramaphosa a day earlier said his ANC party had resolved that his country should quit the ICC, which last month issued an arrest warrant against Russian President Vladimir Putin.",
+          "mainImageUrl": "https://cdn-i.pr.trt.com.tr/trtworld/16275004_0-183-4498-2533.jpeg",
+          "overlayImageUrl": "",
+          "thumbnailSquare": "",
+          "categories": [
+            {
+              "contentId": 12682254,
+              "title": "Home Page"
+            },
+            {
+              "contentId": 12682877,
+              "title": "Africa"
+            },
+            {
+              "contentId": 12682883,
+              "title": "Europe"
+            }
+          ],
+          "metaTitle": "",
+          "metaDescription": "",
+          "showName": "",
+          "showSlug": "",
+          "path": "/africa/south-africas-ramaposa-rows-back-from-pledge-to-quit-icc-12977396",
+          "publishedDate": "2023-04-26T10:25:42.760Z",
+          "authors": [
+            {
+              "userName": "meryem.demirhan",
+              "firstName": "Meryem",
+              "lastName": "Demirhan",
+              "path": "/author/meryem-demirhan"
+            }
+          ],
+          "showAuthor": false,
+          "showByLine": false,
+          "showSparkbox": false
+        }
+      ],
+      "headline": [
+        {
+          "id": 13155179,
+          "type": "article",
+          "title": "Türkiye's elections: Polls close in some European countries, US",
+          "description": "Over 1.6 million Turkish citizens living abroad have cast their votes for Türkiye's upcoming presidential and parliamentary elections.",
+          "mainImageUrl": "https://cdn-i.pr.trt.com.tr/trtworld/16358427_0-57-8256-4649.jpeg",
+          "overlayImageUrl": "",
+          "thumbnailSquare": "",
+          "categories": [
+            {
+              "contentId": 12682254,
+              "title": "Home Page"
+            },
+            {
+              "contentId": 12683239,
+              "title": "Turkiye"
+            }
+          ],
+          "metaTitle": "",
+          "metaDescription": "",
+          "showName": "",
+          "showSlug": "",
+          "path": "/turkiye/turkiyes-elections-polls-close-in-some-european-countries-us-13155179",
+          "publishedDate": "2023-05-08T06:12:19.102Z",
+          "authors": [
+            {
+              "userName": "Sara.SLEIMAN",
+              "firstName": "Sara",
+              "lastName": "SLEIMAN",
+              "path": "/author/sara-sleiman"
+            }
+          ],
+          "showAuthor": false,
+          "showByLine": false,
+          "showSparkbox": false
+        }
+      ]
+    },
+    "articlesapi": [
+      {
+        "id": 13155179,
+        "type": "article",
+        "title": "Türkiye's elections: Polls close in some European countries, US",
+        "description": "Over 1.6 million Turkish citizens living abroad have cast their votes for Türkiye's upcoming presidential and parliamentary elections.",
+        "mainImageUrl": "https://cdn-i.pr.trt.com.tr/trtworld/16358427_0-57-8256-4649.jpeg",
+        "overlayImageUrl": "",
+        "thumbnailSquare": "",
+        "categories": [
+          {
+            "contentId": 12682254,
+            "title": "Home Page"
+          },
+          {
+            "contentId": 12683239,
+            "title": "Turkiye"
+          }
+        ],
+        "metaTitle": "",
+        "metaDescription": "",
+        "showName": "",
+        "showSlug": "",
+        "path": "/turkiye/turkiyes-elections-polls-close-in-some-european-countries-us-13155179",
+        "publishedDate": "2023-05-08T06:12:19.102Z",
+        "authors": [
+          {
+            "userName": "Sara.SLEIMAN",
+            "firstName": "Sara",
+            "lastName": "SLEIMAN",
+            "path": "/author/sara-sleiman"
+          }
+        ],
+        "showAuthor": false,
+        "showByLine": false,
+        "showSparkbox": false,
+        "content": {
+          "id": 13155179,
+          "title": "Türkiye's elections: Polls close in some European countries, US",
+          "description": "Over 1.6 million Turkish citizens living abroad have cast their votes for Türkiye's upcoming presidential and parliamentary elections.",
+          "body": [
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>Voting has ended in most European countries, as well as in the US and Canada, for Türkiye's upcoming <a href=\"https://www.trtworld.com/turkey/explained-t%C3%BCrkiye-s-presidential-and-parliamentary-elections-66439\">presidential and parliamentary elections</a>.</p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>Polling stations at <a href=\"https://www.trtworld.com/turkey/how-important-is-the-turkish-diaspora-in-upcoming-elections-66584\">Turkish diplomatic missions</a> in many European countries, and <a href=\"https://www.trtworld.com/turkiye/turkiyes-elections-polls-close-in-some-european-countries-us-13155179\">the US</a> and Canada closed as of 9pm local time (1900GMT) on Sunday, while it will continue in Austria, Denmark, France, Germany, and Luxembourg on Tuesday from 9am to 9pm local time (0700GMT – 1900GMT).</p>"
+            },
+            {
+              "blockType": "image",
+              "metadata": {
+                "url": "https://cdn-i.pr.trt.com.tr/trtworld/16364198_0-0-1920-1080.jpeg",
+                "source": "TRT World",
+                "filename": "16364198_0-0-1920-1080.jpeg",
+                "caption": "On April 27 Turkish expats started to vote and it lasts until May 9. The diaspora voters all around the world has different dates for voting, based on the election schedule arranged for different countries. Here's a look at the changing election dates for the countries."
+              },
+              "value": "<figure class=\"content-image\"><img class=\"content-image\" src=\"https://cdn-i.pr.trt.com.tr/trtworld/16364198_0-0-1920-1080.jpeg\"><figcaption>undefined (TRT World)</figcaption></figure>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>Voting closed in <a href=\"https://www.trtworld.com/turkiye/turkiyes-elections-turkish-expats-in-western-balkans-begin-voting-13135361\">Albania, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria</a>, the Czech Republic, Estonia, Finland, Greece, Hungary, Ireland, Italy, Kosovo, Lithuania, Malta, Moldova, Montenegro, North Macedonia, <a href=\"https://www.trtworld.com/turkiye/turkish-expatriates-in-europe-middle-east-begin-voting-in-may-14-elections-13041965\">the Netherlands</a>, Norway, Poland, Portugal, Romania, Serbia, Slovakia, Spain, Sweden and Switzerland as well as in the UK.</p><p>Around 127,000 voters registered in the UK cast their <a href=\"https://www.trtworld.com/turkiye/early-voting-begins-in-turkiyes-presidential-parliamentary-polls-12989445\">votes</a> at the ballot boxes set up in London, Manchester, Edinburgh, and Leicester on April 29-May 7. </p><p>As many as seven polling stations were set up in the US for <a href=\"https://www.trtworld.com/turkey/from-which-countries-can-the-turkish-diaspora-vote-in-the-may-14-elections-67036\">April 29-May 7</a> at diplomatic missions, including the Turkish Embassy in Washington, and consulates in New York, Boston, Chicago, Houston, Miami, and Los Angeles.</p><p>Also, some 1,392 registered voters in South Africa cast their votes at <a href=\"https://www.trtworld.com/magazine/6-things-to-know-about-t%C3%BCrkiye-s-electoral-system-66437\">the ballot boxes</a> in Pretoria and Cape Town on May 6-7.</p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p> </p>"
+            },
+            {
+              "blockType": "image",
+              "metadata": {
+                "url": "https://cdn-i.pr.trt.com.tr/trtworld/16364210_0-0-1920-1080.jpeg",
+                "source": "TRT World",
+                "filename": "16364210_0-0-1920-1080.jpeg",
+                "caption": "The voting period  starts on 27 April for Germany and Austria and ends on May 9 while Turkish expats in UK votes between April 29 and May 7."
+              },
+              "value": "<figure class=\"content-image\"><img class=\"content-image\" src=\"https://cdn-i.pr.trt.com.tr/trtworld/16364210_0-0-1920-1080.jpeg\"><figcaption>undefined (TRT World)</figcaption></figure>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>As of Sunday, over 1.6 million <a href=\"https://www.trtworld.com/turkiye/turkiye-elections-heres-what-you-need-to-know-about-diaspora-voting-12990458\">Turkish citizens living abroad</a> had cast their votes to elect the country's <a href=\"https://www.trtworld.com/turkiye/how-the-turkish-governance-model-compares-with-other-presidential-systems-13121461\">president </a>and parliamentary representatives, according to <a href=\"https://www.trtworld.com/turkey/turkish-election-board-issues-list-of-parties-contesting-may-election-66073\">the Supreme Election Board (YSK).</a></p><p>However, <a href=\"https://www.trtworld.com/turkiye/the-most-crucial-turkish-elections-you-need-to-know-about-12992846\">voting</a> will continue in Austria, Denmark, France, Germany and Luxembourg until Tuesday from 9am to 9pm local time (0700GMT – 1900GMT).</p>"
+            },
+            {
+              "blockType": "image",
+              "metadata": {
+                "url": "https://cdn-i.pr.trt.com.tr/trtworld/16364216_0-0-1920-1080.jpeg",
+                "source": "TRT World",
+                "filename": "16364216_0-0-1920-1080.jpeg",
+                "caption": "There are 60.904.499 registered voters in Türkiye and 3.286.786 in abroad for Türkiye elections 2023."
+              },
+              "value": "<figure class=\"content-image\"><img class=\"content-image\" src=\"https://cdn-i.pr.trt.com.tr/trtworld/16364216_0-0-1920-1080.jpeg\"><figcaption>undefined (TRT World)</figcaption></figure>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>Voting in Türkiye itself will take place on Sunday, <a href=\"https://www.trtworld.com/magazine/how-will-t%C3%BCrkiye-s-election-calendar-work-66094\">May 14</a>. Voters will choose between four presidential hopefuls: <a href=\"https://www.trtworld.com/magazine/recep-tayyip-erdogan-presidential-candidate-of-t%C3%BCrkiye-s-people-s-alliance-65881\">President Recep Tayyip Erdogan</a>, who is seeking reelection, main opposition leader <a href=\"https://www.trtworld.com/magazine/kemal-kilicdaroglu-the-runner-up-still-in-the-race-65884\">Kemal Kilicdaroglu</a>, <a href=\"https://www.trtworld.com/magazine/muharrem-ince-second-shot-at-the-presidency-65898\">Muharrem Ince</a>, and <a href=\"https://www.trtworld.com/magazine/who-is-sinan-ogan-t%C3%BCrkiye-s-ata-alliance-s-presidential-candidate-66578\">Sinan Ogan</a>.</p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>Meanwhile, 24 <a href=\"https://www.trtworld.com/magazine/what-is-t%C3%BCrkiye-s-political-alliance-law-66438\">political parties</a> and 151 independent candidates are vying for seats in the 600-member Turkish parliament.</p>"
+            },
+            {
+              "id": 12798285,
+              "type": "article",
+              "title": "How important is the Turkish diaspora in upcoming elections?",
+              "description": "A sense of alienation abroad has pushed more and more expats to participate actively in the Turkish election process.",
+              "mainImageUrl": "https://cdn-i.pr.trt.com.tr/trtworld/0m_152848_APNetherlandsTurkeyelections_1680091595588.jpg",
+              "overlayImageUrl": "",
+              "thumbnailSquare": "",
+              "categories": [
+                {
+                  "contentId": 12683239,
+                  "title": "Turkiye"
+                },
+                {
+                  "contentId": 12682254,
+                  "title": "Home Page"
+                }
+              ],
+              "metaTitle": "",
+              "metaDescription": "",
+              "showName": "",
+              "showSlug": "",
+              "path": "/turkiye/how-important-is-the-turkish-diaspora-in-upcoming-elections-12798285",
+              "publishedDate": "2023-04-06T09:52:52.000Z",
+              "authors": [
+                {
+                  "userName": "saadhasan",
+                  "firstName": "Saad",
+                  "lastName": "Hasan",
+                  "bio": "Saad Hasan is a staff writer at TRT World.",
+                  "twitter": "@msaadhasan",
+                  "mainImage": "https://cdn-i.pr.trt.com.tr/trtworld/0u_19.jpg",
+                  "path": "/author/saad-hasan"
+                }
+              ],
+              "showAuthor": false,
+              "showByLine": false,
+              "showSparkbox": false,
+              "blockType": "content"
+            },
+            {
+              "blockType": "youtube",
+              "metadata": {
+                "url": "https://youtu.be/UJ7_OfpOIis"
+              },
+              "value": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/UJ7_OfpOIis?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"Türkiye 2023: presidential and parliamentary elections explained\"></iframe>"
+            }
+          ],
+          "path": "/turkiye/turkiyes-elections-polls-close-in-some-european-countries-us-13155179",
+          "type": "article",
+          "fields": {
+            "search_title": {
+              "text": "Turkey Elections: Polls Close in Some European Countries, and in the | Turkish Elections 2023"
+            },
+            "search_description": {
+              "text": "Turkey Elections: as polls close in certain European countries, the US, and Canada for the Turkish presidential and parliamentary elections."
+            },
+            "topic_slug": {
+              "text": "turkiye"
+            },
+            "mainImage": {
+              "type": "image",
+              "assetId": 16358427,
+              "key": "trtworld/16358427_0-57-8256-4649.jpeg",
+              "bucket": "port-production-asset-public-image",
+              "cdnUrl": "https://cdn-i.pr.trt.com.tr/trtworld/",
+              "fileName": "16358427_0-57-8256-4649.jpeg",
+              "url": "https://cdn-i.pr.trt.com.tr/trtworld/16358427_0-57-8256-4649.jpeg",
+              "title": "Voting ends in the United Kingdome for Turkiye's presidential and 28th parliamentary election. / Photo: AA",
+              "width": 8256,
+              "height": 5504,
+              "source": "AA"
+            },
+            "authors": [
+              {
+                "firstName": {
+                  "text": "Sara"
+                },
+                "lastName": {
+                  "text": "SLEIMAN"
+                },
+                "twitter": {
+                  "text": ""
+                },
+                "bio": {
+                  "text": ""
+                },
+                "path": "/author/sara-sleiman"
+              }
+            ],
+            "sources": [
+              {
+                "key": "aa",
+                "value": "AA",
+                "metadata": {}
+              }
+            ],
+            "topics": [
+              {
+                "contentId": 12682254,
+                "title": "Home Page",
+                "slug": "home-page"
+              },
+              {
+                "contentId": 12683239,
+                "title": "Turkiye",
+                "slug": "turkiye"
+              }
+            ],
+            "team": {
+              "key": "news",
+              "value": "News",
+              "metadata": {}
+            },
+            "contentFormat": {
+              "key": "news",
+              "value": "News",
+              "metadata": {}
+            },
+            "country": {
+              "key": "tur",
+              "value": "Turkey",
+              "metadata": {
+                "code": "TUR",
+                "region": "Asia",
+                "subregion": "Western Asia"
+              }
+            },
+            "relatedStory": {}
+          },
+          "metadata": {
+            "show_sparkbox": "true"
+          },
+          "site": "trtworld",
+          "viewCount": 0,
+          "published": {
+            "date": "2023-05-08T06:12:19.102Z"
+          },
+          "paths": [
+            "/turkiye/turkiyes-elections-polls-close-for-in-some-european-countries-13155179",
+            "/turkiye/turkiyes-elections-polls-close-in-some-european-countries-13155179",
+            "/turkiye/turkiyes-elections-polls-close-in-europe-us-13155179",
+            "/turkiye/turkiyes-elections-polls-close-in-some-european-countries-us-13155179"
+          ]
+        }
+      },
+      {
+        "id": 18222215,
+        "type": "article",
+        "title": "China's Xi Jinping calls on troops to boost war preparedness",
+        "description": "Xi has said the military should comprehensively strengthen training and preparation for war, and ensure troops have solid combat capabilities.",
+        "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21060900_0-894-8640-4865.jpeg",
+        "overlayImageUrl": "",
+        "thumbnailSquare": "",
+        "categories": [
+          {
+            "contentId": 12682254,
+            "title": "Home Page"
+          },
+          {
+            "contentId": 12682879,
+            "title": "Asia"
+          }
+        ],
+        "metaTitle": "",
+        "metaDescription": "",
+        "showName": "",
+        "showSlug": "",
+        "path": "/asia/chinas-xi-jinping-calls-on-troops-to-boost-war-preparedness-18222215",
+        "publishedDate": "2024-10-19T09:39:38.746Z",
+        "authors": [],
+        "showAuthor": false,
+        "showByLine": false,
+        "showSparkbox": false,
+        "content": {
+          "id": 18222215,
+          "title": "China's Xi Jinping calls on troops to boost war preparedness",
+          "description": "Xi has said the military should comprehensively strengthen training and preparation for war, and ensure troops have solid combat capabilities.",
+          "body": [
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>Chinese President Xi Jinping has called this week for troops to strengthen their preparedness for war, state media has reported, just days after Beijing staged large-scale military drills around Taiwan.</p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>Xi made his comments while visiting a brigade of the People's Liberation Army Rocket Force on Thursday, according to state-run broadcaster CCTV on Saturday.</p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>Xi said the military should \"comprehensively strengthen training and preparation for war, (and) ensure troops have solid combat capabilities\", CCTV reported.</p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>Soldiers must \"enhance their strategic deterrent and combat capability,\" Xi said.</p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>China, which claims Taiwan as part of its territory, has stepped up its shows of force around the self-ruled island in recent years. </p>"
+            },
+            {
+              "id": 18221712,
+              "type": "article",
+              "title": "Taiwan's president vows sovereignty defence amid China's military drills",
+              "description": "President Lai Ching-te emphasised that Taiwan's determination to safeguard its sovereignty, national security, and fishing rights remains steadfast, despite China's threats.",
+              "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21055982_0-295-4000-2252.jpeg",
+              "overlayImageUrl": "https://images-cdn.trtworld.com/trtworld/f_article_4b3928c2e1fa0f1f29142de2a8a35dff.jpeg",
+              "thumbnailSquare": "",
+              "categories": [
+                {
+                  "contentId": 12682254,
+                  "title": "Home Page"
+                },
+                {
+                  "contentId": 12682879,
+                  "title": "Asia"
+                }
+              ],
+              "metaTitle": "",
+              "metaDescription": "",
+              "showName": "",
+              "showSlug": "",
+              "path": "/asia/taiwans-president-vows-sovereignty-defence-amid-chinas-military-drills-18221712",
+              "publishedDate": "2024-10-18T07:01:15.300Z",
+              "authors": [
+                {
+                  "userName": "emir.isci",
+                  "firstName": "Emir",
+                  "lastName": "Isci",
+                  "path": "/author/emir-isci"
+                }
+              ],
+              "showAuthor": false,
+              "showByLine": false,
+              "showSparkbox": false,
+              "blockType": "content"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p><strong>The dispute</strong> </p><p>On Monday, Beijing had deployed fighter jets, drones, warships and coast guard vessels to encircle Taiwan - its fourth round of large-scale war games around the democratic island in just over two years.</p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>China's leaders have insisted they will not rule out using force to bring Taiwan under Beijing's control.</p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>Xi on Thursday said the Chinese military must \"strongly safeguard the country's strategic security and core interests\", according to the CCTV report.</p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>The dispute between China and Taiwan dates back to a civil war in which the nationalist forces of Chiang Kai-shek were defeated by Mao Zedong's communist fighters and fled to the island in 1949.</p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>China and Taiwan have been ruled separately since then.</p>"
+            },
+            {
+              "blockType": "youtube",
+              "metadata": {
+                "url": "https://www.youtube.com/watch?v=xSeViNXcc60"
+              },
+              "value": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/xSeViNXcc60?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"China holds 2nd joint-force military drills near Taiwan since May\"></iframe>"
+            }
+          ],
+          "path": "/asia/chinas-xi-jinping-calls-on-troops-to-boost-war-preparedness-18222215",
+          "type": "article",
+          "fields": {
+            "search_title": {
+              "text": ""
+            },
+            "search_description": {
+              "text": ""
+            },
+            "topic_slug": {
+              "text": "asia"
+            },
+            "mainImage": {
+              "type": "image",
+              "assetId": 21060900,
+              "key": "trtworld/21060900_0-894-8640-4865.jpeg",
+              "bucket": "port-prod-asset-public-image-v3",
+              "cdnUrl": "https://images-cdn.trtworld.com/trtworld/",
+              "fileName": "21060900_0-894-8640-4865.jpeg",
+              "url": "https://images-cdn.trtworld.com/trtworld/21060900_0-894-8640-4865.jpeg",
+              "title": "Soldiers must \"enhance their strategic deterrent and combat capability,\" Xi says. / Photo: AP Archive",
+              "width": 8640,
+              "height": 5760,
+              "source": "AP Archive"
+            },
+            "authors": [
+              {
+                "firstName": {
+                  "text": "Rabiul"
+                },
+                "lastName": {
+                  "text": "Islam"
+                },
+                "twitter": {
+                  "text": ""
+                },
+                "bio": {
+                  "text": ""
+                },
+                "path": "/author/rabiul-islam"
+              }
+            ],
+            "relatedStory": {
+              "id": 12709122,
+              "type": "article",
+              "title": "Braving bullets to resist Turkey's July 15 failed coup",
+              "description": "One year after the attempt by a group of putschists to overthrow Turkey's democratically elected government, TRT World tells the story of five Turkish nationals who took to Istanbul's streets to protest. Not all of them survived.",
+              "mainImageUrl": "https://cdn-i.pr.trt.com.tr/trtworld/0m_8728-trtworld-399001-438265.jpg",
+              "overlayImageUrl": "",
+              "thumbnailSquare": "",
+              "categories": [
+                {
+                  "contentId": 12683233,
+                  "title": "Magazine"
+                },
+                {
+                  "contentId": 12682254,
+                  "title": "Home Page"
+                }
+              ],
+              "metaTitle": "",
+              "metaDescription": "",
+              "showName": "",
+              "showSlug": "",
+              "path": "/magazine/braving-bullets-to-resist-turkeys-july-15-failed-coup-12709122",
+              "publishedDate": "2017-07-12T00:00:00.000Z",
+              "authors": [
+                {
+                  "userName": "muratsofuoglu",
+                  "firstName": "Murat",
+                  "lastName": "Sofuoglu",
+                  "bio": "Murat Sofuoglu is a staff writer at TRT World.",
+                  "twitter": "@Readingavenue",
+                  "mainImage": "https://cdn-i.pr.trt.com.tr/trtworld/0u_8.jpg",
+                  "path": "/author/murat-sofuoglu"
+                }
+              ],
+              "showAuthor": false,
+              "showByLine": false,
+              "showSparkbox": false
+            },
+            "sources": [
+              {
+                "key": "trtworld-and-agencies",
+                "value": "TRTWorld and agencies",
+                "metadata": {}
+              }
+            ],
+            "topics": [
+              {
+                "contentId": 12682254,
+                "title": "Home Page",
+                "slug": "home-page"
+              },
+              {
+                "contentId": 12682879,
+                "title": "Asia",
+                "slug": "asia"
+              }
+            ],
+            "team": {
+              "key": "news",
+              "value": "News",
+              "metadata": {}
+            },
+            "contentFormat": {
+              "key": "news",
+              "value": "News",
+              "metadata": {}
+            },
+            "country": {
+              "key": "chn",
+              "value": "China",
+              "metadata": {
+                "code": "CHN",
+                "region": "Asia",
+                "subregion": "Eastern Asia"
+              }
+            },
+            "tags": [
+              {
+                "key": "asia",
+                "value": "Asia",
+                "metadata": {}
+              },
+              {
+                "key": "china",
+                "value": "china",
+                "metadata": {}
+              },
+              {
+                "key": "taiwan",
+                "value": "Taiwan",
+                "metadata": {}
+              },
+              {
+                "key": "conflict",
+                "value": "conflict",
+                "metadata": {}
+              },
+              {
+                "key": "army",
+                "value": "Army",
+                "metadata": {}
+              }
+            ],
+            "overlayImage": {
+              "type": "image",
+              "key": "trtworld/f_article_c4144c6ffb0cf42c06fd2dca214cf4d1.jpeg",
+              "bucket": "port-prod-asset-public-image-v3",
+              "cdnUrl": "https://images-cdn.trtworld.com/trtworld/",
+              "fileName": "f_article_c4144c6ffb0cf42c06fd2dca214cf4d1.jpeg",
+              "url": "https://images-cdn.trtworld.com/trtworld/f_article_c4144c6ffb0cf42c06fd2dca214cf4d1.jpeg",
+              "width": 8640,
+              "height": 5760
+            }
+          },
+          "metadata": {
+            "show_sparkbox": "true"
+          },
+          "site": "trtworld",
+          "viewCount": 0,
+          "published": {
+            "date": "2024-10-19T09:39:38.746Z"
+          },
+          "paths": [
+            "/asia/chinas-xi-jinping-calls-on-troops-to-boost-war-preparedness-18222215"
+          ]
+        }
+      },
+      {
+        "id": 18222208,
+        "type": "article",
+        "title": "China's consulate in Myanmar hit with explosives",
+        "description": "A Myanmar official in Mandalay has also confirmed there had been an incident at the Chinese consulate in the Mandalay City office compound.",
+        "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21060871_0-46-1500-844.jpeg",
+        "overlayImageUrl": "",
+        "thumbnailSquare": "",
+        "categories": [
+          {
+            "contentId": 12682254,
+            "title": "Home Page"
+          },
+          {
+            "contentId": 12682879,
+            "title": "Asia"
+          }
+        ],
+        "metaTitle": "",
+        "metaDescription": "",
+        "showName": "",
+        "showSlug": "",
+        "path": "/asia/chinas-consulate-in-myanmar-hit-with-explosives-18222208",
+        "publishedDate": "2024-10-19T09:11:41.635Z",
+        "authors": [],
+        "showAuthor": false,
+        "showByLine": false,
+        "showSparkbox": false,
+        "content": {
+          "id": 18222208,
+          "title": "China's consulate in Myanmar hit with explosives",
+          "description": "A Myanmar official in Mandalay has also confirmed there had been an incident at the Chinese consulate in the Mandalay City office compound.",
+          "body": [
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>China's consulate in Myanmar's Mandalay City was attacked with an explosive device, local media has said, adding that no deaths or injuries were reported.</p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>The blast occurred at the consulate office in central Mandalay, south of the sprawling Royal Palace, around 1230 GMT Friday, local media said.</p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>China is a major ally and arms supplier to Myanmar's junta, but it also maintains ties with ethnic groups fighting the military in Myanmar's northern Shan state, according to analysts.</p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>Myanmar has been in turmoil since the military deposed the government of Aung San Suu Kyi and seized power in 2021.</p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>A Myanmar official in Mandalay confirmed to <em>AFP</em> there had been \"an incident at the Chinese consulate office compound in Mandalay late evening yesterday\".</p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>\"There was no one injured,\" the official said, without specifying the nature of the incident.</p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p><em>The Irrawaddy outlet </em>reported a grenade had been thrown at the compound, which is usually guarded by members of Myanmar's security forces.</p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>The <em>Voice of Myanmar</em> reported the consulate had been hit by an unidentified \"explosion\" without giving details.</p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>China's embassy in Yangon did not respond to <em>AFP's</em> queries, and a junta spokesman was unreachable for comment.</p>"
+            },
+            {
+              "id": 16237804,
+              "type": "article",
+              "title": "China mediates temporary ceasefire in Myanmar conflict",
+              "description": "China hopes that the involved parties in Myanmar will implement the agreements and consensus reached, exercise maximum restraint, and proactively work to ease the situation on the ground.",
+              "mainImageUrl": "https://cdn-i.pr.trt.com.tr/trtworld/17705884_0-27-3984-2244.jpeg",
+              "overlayImageUrl": "https://cdn-i.pr.trt.com.tr/trtworld/f_article_26adf0564f4e56f393f2cf13ada92671.jpeg",
+              "thumbnailSquare": "",
+              "categories": [
+                {
+                  "contentId": 12682254,
+                  "title": "Home Page"
+                },
+                {
+                  "contentId": 12682879,
+                  "title": "Asia"
+                }
+              ],
+              "metaTitle": "",
+              "metaDescription": "",
+              "showName": "",
+              "showSlug": "",
+              "path": "/asia/china-mediates-temporary-ceasefire-in-myanmar-conflict-16237804",
+              "publishedDate": "2023-12-14T15:48:45.509Z",
+              "authors": [
+                {
+                  "userName": "emir.isci",
+                  "firstName": "Emir",
+                  "lastName": "Isci",
+                  "path": "/author/emir-isci"
+                }
+              ],
+              "showAuthor": false,
+              "showByLine": false,
+              "showSparkbox": false,
+              "blockType": "content"
+            }
+          ],
+          "path": "/asia/chinas-consulate-in-myanmar-hit-with-explosives-18222208",
+          "type": "article",
+          "fields": {
+            "search_title": {
+              "text": ""
+            },
+            "search_description": {
+              "text": ""
+            },
+            "topic_slug": {
+              "text": "asia"
+            },
+            "mainImage": {
+              "type": "image",
+              "assetId": 21060871,
+              "key": "trtworld/21060871_0-46-1500-844.jpeg",
+              "bucket": "port-prod-asset-public-image-v3",
+              "cdnUrl": "https://images-cdn.trtworld.com/trtworld/",
+              "fileName": "21060871_0-46-1500-844.jpeg",
+              "url": "https://images-cdn.trtworld.com/trtworld/21060871_0-46-1500-844.jpeg",
+              "title": "China's consulate in Myanmar attacked by explosives. / AP archive",
+              "width": 1500,
+              "height": 1125,
+              "source": "Others"
+            },
+            "authors": [
+              {
+                "firstName": {
+                  "text": "Staff"
+                },
+                "lastName": {
+                  "text": "Reporter"
+                },
+                "twitter": {
+                  "text": ""
+                },
+                "bio": {
+                  "text": ""
+                },
+                "path": "/author/staff-reporter"
+              }
+            ],
+            "relatedStory": {
+              "id": 12713142,
+              "type": "article",
+              "title": "Mastermind of Chinese Consulate attack in Karachi killed in Afghanistan",
+              "description": "A BLA-claimed attack on the Chinese consulate in Pakistan's port city of Karachi last month had left three assailants, two police officers and two civilians dead.",
+              "mainImageUrl": "https://cdn-i.pr.trt.com.tr/trtworld/0m_47122_PAK181123karachiattackreuters_1545890523007.JPG",
+              "overlayImageUrl": "",
+              "thumbnailSquare": "",
+              "categories": [
+                {
+                  "contentId": 12682879,
+                  "title": "Asia"
+                },
+                {
+                  "contentId": 12682254,
+                  "title": "Home Page"
+                }
+              ],
+              "metaTitle": "",
+              "metaDescription": "",
+              "showName": "",
+              "showSlug": "",
+              "path": "/asia/mastermind-of-chinese-consulate-attack-in-karachi-killed-in-afghanistan-12713142",
+              "publishedDate": "2018-12-27T06:35:00.000Z",
+              "authors": [
+                {
+                  "userName": "hammad.abbasi",
+                  "firstName": "Hammad Ahmed",
+                  "lastName": "ABBASI",
+                  "bio": "Hammad Abbasi is a producer at TRT World.",
+                  "path": "/author/hammad-ahmed-abbasi"
+                }
+              ],
+              "showAuthor": false,
+              "showByLine": false,
+              "showSparkbox": false
+            },
+            "sources": [
+              {
+                "key": "afp",
+                "value": "AFP",
+                "metadata": {}
+              }
+            ],
+            "topics": [
+              {
+                "contentId": 12682254,
+                "title": "Home Page",
+                "slug": "home-page"
+              },
+              {
+                "contentId": 12682879,
+                "title": "Asia",
+                "slug": "asia"
+              }
+            ],
+            "team": {
+              "key": "news",
+              "value": "News",
+              "metadata": {}
+            },
+            "contentFormat": {
+              "key": "news",
+              "value": "News",
+              "metadata": {}
+            },
+            "country": {
+              "key": "chn",
+              "value": "China",
+              "metadata": {
+                "code": "CHN",
+                "region": "Asia",
+                "subregion": "Eastern Asia"
+              }
+            },
+            "tags": [
+              {
+                "key": "chinas-consulate",
+                "value": "China's Consulate",
+                "metadata": {}
+              },
+              {
+                "key": "myanmars-mandalay-city",
+                "value": " Myanmar's Mandalay City ",
+                "metadata": {}
+              },
+              {
+                "key": "myanmars-junta",
+                "value": "Myanmar's Junta",
+                "metadata": {}
+              }
+            ],
+            "overlayImage": {
+              "type": "image",
+              "key": "trtworld/f_article_5a151a25591ea7642440a6dabbbf66df.jpeg",
+              "bucket": "port-prod-asset-public-image-v3",
+              "cdnUrl": "https://images-cdn.trtworld.com/trtworld/",
+              "fileName": "f_article_5a151a25591ea7642440a6dabbbf66df.jpeg",
+              "url": "https://images-cdn.trtworld.com/trtworld/f_article_5a151a25591ea7642440a6dabbbf66df.jpeg",
+              "width": 1500,
+              "height": 1125
+            }
+          },
+          "metadata": {
+            "show_sparkbox": "true"
+          },
+          "site": "trtworld",
+          "viewCount": 0,
+          "published": {
+            "date": "2024-10-19T09:11:41.635Z"
+          },
+          "paths": [
+            "/asia/chinas-consulate-in-myanmar-hit-with-explosives-18222208"
+          ]
+        }
+      },
+      {
+        "id": 18222175,
+        "type": "article",
+        "title": "Ghassan Kanafani, Hanzala: Senegalese artists paint Palestinian struggle",
+        "description": "The artists have said their goal was to draw attention to events in Palestine and Lebanon, raise awareness and make the issue more visible and part of everyday life.",
+        "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21060801_0-0-5253-2958.jpeg",
+        "overlayImageUrl": "",
+        "thumbnailSquare": "",
+        "categories": [
+          {
+            "contentId": 12682254,
+            "title": "Home Page"
+          },
+          {
+            "contentId": 12683247,
+            "title": "Arts & Culture"
+          }
+        ],
+        "metaTitle": "",
+        "metaDescription": "",
+        "showName": "",
+        "showSlug": "",
+        "path": "/arts-and-culture/ghassan-kanafani-hanzala-senegalese-artists-paint-palestinian-struggle-18222175",
+        "publishedDate": "2024-10-19T08:19:56.887Z",
+        "authors": [],
+        "showAuthor": false,
+        "showByLine": false,
+        "showSparkbox": false,
+        "content": {
+          "id": 18222175,
+          "title": "Ghassan Kanafani, Hanzala: Senegalese artists paint Palestinian struggle",
+          "description": "The artists have said their goal was to draw attention to events in Palestine and Lebanon, raise awareness and make the issue more visible and part of everyday life.",
+          "body": [
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>Graffiti artists are raising awareness in Senegal by painting messages of support for Palestine and Lebanon on the walls of Dakar, in response to Israeli attacks.</p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>The Panafrican Graffiti Artists Collective (RBS) and the Anti-Apartheid African Artists group collaborated to create graffiti on the busiest street in the Ouakam neighbourhood to raise awareness about the attacks in Palestine and Lebanon.</p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>The drawings include Hanzala, the iconic character symbolising Palestinian resistance; and Palestinian journalist Bisan Owda, who won an Emmy for her documentary: “I am Bisan from Gaza and I am still alive,” and prominent Palestinian writer and intellectual Ghassan Kanafani.</p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>The graffiti includes messages and drawings that urge a boycott, alongside prominent figures related to the Palestinian cause.</p>"
+            },
+            {
+              "id": 17147047,
+              "type": "article",
+              "title": "Born in tent, died in tent: In memory of Palestinian artist Fathi Ghaben",
+              "description": "The story of the iconic artist who devoted his art to revitalising the resilience of his people encapsulates the experiences shared by his colleagues who bravely created art under occupation.",
+              "mainImageUrl": "https://cdn-i.pr.trt.com.tr/trtworld/18230268_0-0-1115-628.jpeg",
+              "overlayImageUrl": "https://cdn-i.pr.trt.com.tr/trtworld/f_article_f931d4c5b8c64da10fb22c1d2d4a699a.jpeg",
+              "thumbnailSquare": "",
+              "categories": [
+                {
+                  "contentId": 12682254,
+                  "title": "Home Page"
+                },
+                {
+                  "contentId": 12683233,
+                  "title": "Magazine"
+                },
+                {
+                  "contentId": 12683241,
+                  "title": "Middle East"
+                },
+                {
+                  "contentId": 12683247,
+                  "title": "Arts & Culture"
+                }
+              ],
+              "metaTitle": "",
+              "metaDescription": "",
+              "showName": "",
+              "showSlug": "",
+              "path": "/magazine/born-in-tent-died-in-tent-in-memory-of-palestinian-artist-fathi-ghaben-17147047",
+              "publishedDate": "2024-02-27T13:33:50.878Z",
+              "authors": [
+                {
+                  "mainImage": "https://cdn-i.pr.trt.com.tr/trtworld/16831209_0-0-3454-5184.jpeg",
+                  "userName": "aysebetul.aytekin",
+                  "firstName": "Ayse Betul",
+                  "lastName": "Aytekin",
+                  "bio": "Ayse Betul Aytekin is an assistant producer at TRT World.",
+                  "twitter": "@abetulaytekin",
+                  "path": "/author/ayse-betul-aytekin"
+                }
+              ],
+              "showAuthor": false,
+              "showByLine": false,
+              "showSparkbox": false,
+              "blockType": "content"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p><strong>Standing with Palestine</strong></p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>RBS President and graffiti artist Serigne Mansour Fall, also known as \"Madzoo,\" told <em>Anadolu</em> that the drawings were completed in one day by 25 artists, with locals assisting.</p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>Fall said as African artists, they aimed to reflect their stance on the Palestinian issue and raise awareness within the community.</p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>He emphasised their sensitivity to political and geopolitical matters, noting that they closely follow the issues. While having a Pan-African vision, they fundamentally share an anti-imperialist stance.</p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>Artists should be the voice of their communities and provide benefits, raising awareness and guiding when necessary, according to Fall.</p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>He expressed their desire to be the voice of the Senegalese people, who have always stood by Palestine, stating that their goal was to show solidarity with the people of Palestine and Lebanon beyond political decisions.</p>"
+            },
+            {
+              "id": 18176872,
+              "type": "article",
+              "title": "Meet the Irish artists boycotting a Berlin exhibition over Gaza massacre",
+              "description": "The German art scene refuses to acknowledge Israeli atrocities in Gaza.",
+              "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/20226969_0-56-3264-1838.jpeg",
+              "overlayImageUrl": "https://images-cdn.trtworld.com/trtworld/f_article_cfed6c47c238dc281aa091a615ac0c80.jpeg",
+              "thumbnailSquare": "",
+              "categories": [
+                {
+                  "contentId": 12682254,
+                  "title": "Home Page"
+                },
+                {
+                  "contentId": 12683233,
+                  "title": "Magazine"
+                },
+                {
+                  "contentId": 12682883,
+                  "title": "Europe"
+                },
+                {
+                  "contentId": 12683247,
+                  "title": "Arts & Culture"
+                }
+              ],
+              "metaTitle": "",
+              "metaDescription": "",
+              "showName": "",
+              "showSlug": "",
+              "path": "/magazine/meet-the-irish-artists-boycotting-a-berlin-exhibition-over-gaza-massacre-18176872",
+              "publishedDate": "2024-06-25T17:35:57.734Z",
+              "authors": [
+                {
+                  "mainImage": "https://images-cdn.trtworld.com/trtworld/20110614_0-964-3024-3067.jpeg",
+                  "userName": "ayse.kirenci",
+                  "firstName": "Ayse Isin",
+                  "lastName": "Kirenci",
+                  "bio": "Ayse Isin Kirenci is a deputy producer at TRT World.",
+                  "path": "/author/ayse-isin-kirenci"
+                }
+              ],
+              "showAuthor": false,
+              "showByLine": false,
+              "showSparkbox": false,
+              "blockType": "content"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p><strong>Concept of boycott is not yet understood</strong></p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>Fall emphasised that communities in Africa often cannot closely follow international political developments, highlighting the important role artists play.</p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>He pointed out that the significance of boycotts is not fully understood by society.</p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>Fall noted an incident where people were surprised and questioned the meaning of graffiti depicting a soda bottle as a bomb. That demonstrated to him that the concept of boycott remains unclear; many were unaware that their purchases could finance a war.</p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>Throughout the day of the project, they explained the importance of boycotts and discussed other aspects of the Palestinian resistance.</p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>Their goal was to draw attention to events in Palestine and Lebanon, raise awareness and make the issue more visible and part of everyday life, he said. </p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>Fall noted that they plan to implement other projects related to Palestine in the coming days.</p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>Senegal's ties with Palestine date to the 1960s, following its independence from France.</p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>Since 1975, Senegal has continuously presided over the UN Committee on the Exercise of the Inalienable Rights of the Palestinian People.</p>"
+            },
+            {
+              "id": 18222158,
+              "type": "article",
+              "title": "Freedom of expression on Israel's Gaza war crushed harshly: UN",
+              "description": "The UN special rapporteur also pointed to the silencing and sidelining of dissenting voices in academia and the arts even in some of the best academic institutions in the world.",
+              "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21060595_0-677-6541-3683.jpeg",
+              "overlayImageUrl": "https://images-cdn.trtworld.com/trtworld/f_article_1d519d17c18f3056d71182e66166f188.jpeg",
+              "thumbnailSquare": "",
+              "categories": [
+                {
+                  "contentId": 12682254,
+                  "title": "Home Page"
+                },
+                {
+                  "contentId": 12683241,
+                  "title": "Middle East"
+                },
+                {
+                  "contentId": 12683245,
+                  "title": "Discrimination"
+                }
+              ],
+              "metaTitle": "",
+              "metaDescription": "",
+              "showName": "",
+              "showSlug": "",
+              "path": "/middle-east/freedom-of-expression-on-israels-gaza-war-crushed-harshly-un-18222158",
+              "publishedDate": "2024-10-19T06:43:16.134Z",
+              "authors": [
+                {
+                  "userName": "Staff.Reporter",
+                  "firstName": "Staff",
+                  "lastName": "Reporter",
+                  "path": "/author/staff-reporter"
+                }
+              ],
+              "showAuthor": false,
+              "showByLine": false,
+              "showSparkbox": false,
+              "blockType": "content"
+            }
+          ],
+          "path": "/arts-and-culture/ghassan-kanafani-hanzala-senegalese-artists-paint-palestinian-struggle-18222175",
+          "type": "article",
+          "fields": {
+            "search_title": {
+              "text": ""
+            },
+            "search_description": {
+              "text": ""
+            },
+            "topic_slug": {
+              "text": "arts-and-culture"
+            },
+            "mainImage": {
+              "type": "image",
+              "assetId": 21060801,
+              "key": "trtworld/21060801_0-0-5253-2958.jpeg",
+              "bucket": "port-prod-asset-public-image-v3",
+              "cdnUrl": "https://images-cdn.trtworld.com/trtworld/",
+              "fileName": "21060801_0-0-5253-2958.jpeg",
+              "url": "https://images-cdn.trtworld.com/trtworld/21060801_0-0-5253-2958.jpeg",
+              "title": "They plan to implement other projects related to Palestine in the coming days. / Photo: AA",
+              "width": 5253,
+              "height": 3502,
+              "source": "AA"
+            },
+            "authors": [
+              {
+                "firstName": {
+                  "text": "Staff"
+                },
+                "lastName": {
+                  "text": "Reporter"
+                },
+                "twitter": {
+                  "text": ""
+                },
+                "bio": {
+                  "text": ""
+                },
+                "path": "/author/staff-reporter"
+              }
+            ],
+            "relatedStory": {
+              "id": 12716072,
+              "type": "article",
+              "title": "Senegal holds vote with president Sall tipped to win",
+              "description": "Voters are choosing whether to give President Macky Sall a second term in office as critics accused him of having blocked the strongest opposition candidates from running against him.",
+              "mainImageUrl": "https://cdn-i.pr.trt.com.tr/trtworld/0m_50578_SNG190224election_1551004597317.JPG",
+              "overlayImageUrl": "",
+              "thumbnailSquare": "",
+              "categories": [
+                {
+                  "contentId": 12682877,
+                  "title": "Africa"
+                },
+                {
+                  "contentId": 12682254,
+                  "title": "Home Page"
+                }
+              ],
+              "metaTitle": "",
+              "metaDescription": "",
+              "showName": "",
+              "showSlug": "",
+              "path": "/africa/senegal-holds-vote-with-president-sall-tipped-to-win-12716072",
+              "publishedDate": "2019-02-24T14:08:41.000Z",
+              "authors": [
+                {
+                  "userName": "mazharali",
+                  "firstName": "Mazhar",
+                  "lastName": "Ali",
+                  "path": "/author/mazhar-ali"
+                }
+              ],
+              "showAuthor": false,
+              "showByLine": false,
+              "showSparkbox": false
+            },
+            "sources": [
+              {
+                "key": "aa",
+                "value": "AA",
+                "metadata": {}
+              }
+            ],
+            "topics": [
+              {
+                "contentId": 12682254,
+                "title": "Home Page",
+                "slug": "home-page"
+              },
+              {
+                "contentId": 12683247,
+                "title": "Arts & Culture",
+                "slug": "arts-and-culture"
+              }
+            ],
+            "team": {
+              "key": "news",
+              "value": "News",
+              "metadata": {}
+            },
+            "contentFormat": {
+              "key": "news",
+              "value": "News",
+              "metadata": {}
+            },
+            "country": {
+              "key": "pse",
+              "value": "Palestine",
+              "metadata": {
+                "code": "PSE",
+                "region": "Asia",
+                "subregion": "Western Asia"
+              }
+            },
+            "tags": [
+              {
+                "key": "senegal",
+                "value": "Senegal",
+                "metadata": {}
+              },
+              {
+                "key": "graffiti-artists",
+                "value": "Graffiti Artists",
+                "metadata": {}
+              },
+              {
+                "key": "palestine-and-lebanon",
+                "value": " Palestine And Lebanon",
+                "metadata": {}
+              },
+              {
+                "key": "painting-messages",
+                "value": "Painting Messages",
+                "metadata": {}
+              },
+              {
+                "key": "pan-african-vision",
+                "value": "Pan-african Vision",
+                "metadata": {}
+              },
+              {
+                "key": "anti-imperialist-stance",
+                "value": " Anti-imperialist Stance",
+                "metadata": {}
+              }
+            ],
+            "overlayImage": {
+              "type": "image",
+              "key": "trtworld/f_article_912087775da21ab4eb90faad12db3fd0.jpeg",
+              "bucket": "port-prod-asset-public-image-v3",
+              "cdnUrl": "https://images-cdn.trtworld.com/trtworld/",
+              "fileName": "f_article_912087775da21ab4eb90faad12db3fd0.jpeg",
+              "url": "https://images-cdn.trtworld.com/trtworld/f_article_912087775da21ab4eb90faad12db3fd0.jpeg",
+              "width": 5253,
+              "height": 3502
+            }
+          },
+          "metadata": {
+            "show_sparkbox": "true"
+          },
+          "site": "trtworld",
+          "viewCount": 0,
+          "published": {
+            "date": "2024-10-19T08:19:56.887Z"
+          },
+          "paths": [
+            "/arts-and-culture/ghassan-kanafani-hanzala-senegalese-artists-paint-palestinian-struggle-18222175"
+          ]
+        }
+      },
+      {
+        "id": 18222110,
+        "type": "article",
+        "title": "Live blog: Israeli PM Netanyahu’s residence hit by drone — authorities",
+        "description": "Israel's war on Gaza, now in its 379th day, has killed at least 42,500 Palestinians and wounded nearly 100,000, with 10,000+ possibly buried under debris. Israeli has also killed at least 2,411 people in Lebanon since October last year.",
+        "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21060767_0-0-3240-1824.jpeg",
+        "overlayImageUrl": "",
+        "thumbnailSquare": "",
+        "categories": [
+          {
+            "contentId": 12682254,
+            "title": "Home Page"
+          },
+          {
+            "contentId": 12683241,
+            "title": "Middle East"
+          }
+        ],
+        "metaTitle": "",
+        "metaDescription": "",
+        "showName": "",
+        "showSlug": "",
+        "path": "/content/article/live-blog-israeli-pm-netanyahus-residence-hit-by-drone-authorities-18222110",
+        "publishedDate": "2024-10-19T07:48:57.068Z",
+        "authors": [],
+        "showAuthor": false,
+        "showByLine": false,
+        "showSparkbox": false,
+        "content": {
+          "id": 18222110,
+          "title": "Live blog: Israeli PM Netanyahu’s residence hit by drone — authorities",
+          "description": "Israel's war on Gaza, now in its 379th day, has killed at least 42,500 Palestinians and wounded nearly 100,000, with 10,000+ possibly buried under debris. Israeli has also killed at least 2,411 people in Lebanon since October last year.",
+          "body": [
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p><strong>Saturday, October 19, 2024</strong> </p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p><strong>0721 GMT — </strong>A drone was launched towards Israeli Prime Minister Benjamin Netanyahu's home in the northern Israeli town of Caesarea, his spokesperson has said, adding that the premier was not in the vicinity and there were no casualties.</p><p>Earlier, the Israeli military said that a drone was launched from Lebanon and that it had hit a building. It was not immediately clear what the building was.</p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p> <strong>More updates</strong>👇 </p>"
+            },
+            {
+              "blockType": "twitter",
+              "metadata": {
+                "url": "https://x.com/TRTWorldNow/status/1847538157144670407"
+              },
+              "value": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Drone was launched towards Israeli Prime Minister Benjamin Netanyahu&#39;s home in northern Israel town of Caesarea, his spokesperson says, adding that premier was not in vicinity and there were no casualties <a href=\"https://t.co/ClOjInL8HU\">pic.twitter.com/ClOjInL8HU</a></p>&mdash; TRT World Now (@TRTWorldNow) <a href=\"https://twitter.com/TRTWorldNow/status/1847538157144670407?ref_src=twsrc%5Etfw\">October 19, 2024</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p><strong>0720 GMT — </strong><strong>Two killed in Israeli strike north of Lebanon's capital</strong> </p><p>At least two people have been killed in an Israeli strike on a car in Jounieh, north of Beirut, Lebanon's health ministry has said, in the first attack on the area by Israeli forces.<strong> </strong></p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p><strong>0713 GMT — </strong><strong>Malaysian premier condemns killing of Hamas leader Yahya Sinwar</strong> </p><p>Malaysian Prime Minister Anwar Ibrahim has strongly condemned the killing of Hamas leader Yahya Sinwar by Israeli forces.</p><p>In a statement on X, Anwar said Malaysia mourns the loss of a \"fighter and defender of the Palestinian people.\"</p><p>\"Malaysia strongly condemned the killing, and it was clear that the regime's attempt to undermine the demand for release would not succeed. Malaysia insists that the international community reject Israel's barbarity and that the ongoing massacre of Palestinians must be stopped immediately,\" he said in his post written in local language.</p>"
+            },
+            {
+              "blockType": "youtube",
+              "metadata": {
+                "url": "https://www.youtube.com/watch?v=9dF3x-zYNDk"
+              },
+              "value": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/9dF3x-zYNDk?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Hamas announces the death of the leader Yahya Sinwar in combat\"></iframe>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p><strong>0657 GMT — </strong><strong>At least 11 killed in Israeli strike on home in central Gaza, WAFA says</strong> </p><p>At least 11 people have been killed in an Israeli strike on a home in central Gaza's Al Maghazi refugee camp, the Palestinian official news agency <em>WAFA</em> has said, adding that there are still missing people under the rubble.<strong> </strong></p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p><strong>0624 GMT — Israeli </strong><strong>army targets Indonesian Hospital in northern Gaza </strong></p><p>The Palestinian Health Ministry in Gaza has said Israeli artillery targeted the upper floors of the Indonesian Hospital, which housed over 40 patients and injured individuals, as well as medical staff.</p><p>The situation worsened as the hospital lost electricity, further endangering the lives of patients, especially those dependent on oxygen machines.</p><p>Marwan Sultan, the director of the facility, described the dire conditions, saying at least 30 patients were injured, with 10 in urgent need of oxygen support, warning that their lives are at risk if the power outage continues.</p>"
+            },
+            {
+              "blockType": "youtube",
+              "metadata": {
+                "url": "https://www.youtube.com/watch?v=z02pfI8cLQI"
+              },
+              "value": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/z02pfI8cLQI?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Israel expands attacks on Lebanese govt and civilian infrastructure\"></iframe>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p><strong>0600 GMT —</strong><strong> Israel says drone from Lebanon hits town, two others intercepted</strong> </p><p>The Israeli military has said a drone spotted crossing into the country from Lebanon struck the central town of Caesarea, while two others were intercepted.</p><p>The drone \"hit a structure in the area of Caesarea\" without causing any casualties, the military said, without elaborating. It added that two other drones were intercepted.</p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p><strong>0329 GMT — </strong><strong>US destroys 20 Houthi uncrewed aerial systems, missiles: CENTCOM</strong> </p><p>The US military has destroyed 20 one-way attack uncrewed aerial systems and land cruise missiles in Yemen's Houthi-controlled area over several days, according to a statement.</p><p>\"The drones and missiles were downed by a combination of US Air Force and US Navy assets deployed to the region,\" it added.</p>"
+            },
+            {
+              "blockType": "twitter",
+              "metadata": {
+                "url": "https://x.com/TRTWorldNow/status/1847402896486220058"
+              },
+              "value": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Israel&#39;s genocidal war on Gaza, now in its 379th day, has killed at least 42,500 Palestinians and wounded nearly 100,000, with 10,000+ possibly buried under debris. Israeli has also killed at least 2,411 people in Lebanon since October last year<br><br>Follow our live coverage👇 <a href=\"https://t.co/m2cEvuiNo2\">pic.twitter.com/m2cEvuiNo2</a></p>&mdash; TRT World Now (@TRTWorldNow) <a href=\"https://twitter.com/TRTWorldNow/status/1847402896486220058?ref_src=twsrc%5Etfw\">October 18, 2024</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p><strong>0214 GMT — </strong><strong>Gaza facing ‘unprecedented rain of destruction’: UN expert</strong></p><p>Gaza has experienced “a biblical, unprecedented rain of destruction” since Israel launched its military offensive on Oct. 7 last year, the UN housing expert has said.</p><p>Balakrishnan Rajagopal, the UN independent investigator on the right to adequate housing, told reporters that “the ferocity” of destruction in Gaza wasn’t seen in the conflicts in Syria and Ukraine.</p><p>By January 2024, Rajagopal said, 60-70 percent of all homes in Gaza were destroyed, and in northern Gaza, it was 82 percent of homes. “It is far worse than that right now,” particularly in the north which is approaching the 100 percent level, he said.</p><p>Rajagopal said a recent report by the UN Development Program estimated that in May there were over 39 million tons of debris in Gaza, and he said that rubble is mixed with unexploded ordnance, toxic waste, asbestos from collapsed buildings, and other materials.</p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p><strong>2343 GMT — </strong><strong>Iran warns US about potential Israeli attack</strong> </p><p>Iranian Foreign Minister Abbas Araghchi has cautioned the US that it would be held accountable for any losses Iran might suffer if it supports an anticipated Israeli attack.</p><p>Araghchi’s remarks came after US President Joe Biden acknowledged he was aware of Israel’s plans on the timing and nature of possible retaliation against Iran for a missile attack against Israel earlier this month.</p><p>The Iranian minister wrote on X that anyone with knowledge of or involvement in facilitating such an attack by Israel would bear responsibility for any potential consequences in Iran.</p>"
+            },
+            {
+              "id": 18221926,
+              "type": "article",
+              "title": "'Heroic martyr': Hamas confirms Sinwar's death; vows resistance to continue",
+              "description": "Hamas official Khalil al Hayya also stressed that the hostages \"will not be released until the complete cessation of Israeli aggression on Gaza.\"",
+              "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21057418_0-328-6377-3594.jpeg",
+              "overlayImageUrl": "https://images-cdn.trtworld.com/trtworld/f_article_8572c9c00c691a9b826a403d97e84715.jpeg",
+              "thumbnailSquare": "",
+              "categories": [
+                {
+                  "contentId": 12682254,
+                  "title": "Home Page"
+                },
+                {
+                  "contentId": 12683241,
+                  "title": "Middle East"
+                }
+              ],
+              "metaTitle": "",
+              "metaDescription": "",
+              "showName": "",
+              "showSlug": "",
+              "path": "/middle-east/heroic-martyr-hamas-confirms-sinwars-death-vows-resistance-to-continue-18221926",
+              "publishedDate": "2024-10-18T14:13:48.613Z",
+              "authors": [
+                {
+                  "userName": "Staff.Reporter",
+                  "firstName": "Staff",
+                  "lastName": "Reporter",
+                  "path": "/author/staff-reporter"
+                }
+              ],
+              "showAuthor": false,
+              "showByLine": false,
+              "showSparkbox": false,
+              "blockType": "content"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p><strong>2200 GMT —</strong> <strong>Israel kills 33 civilians, including 21 women, in Gaza's Jabalia</strong></p><p>Israel has killed at least 33 Palestinians, including 21 women and many children, and wounded more than 85 others in strikes on homes in Jabalia camp in northern Gaza, the Palestinian Authority's official news agency WAFA reported early on Saturday.</p><p>Mohammad Salha, director of al-Awda Hospital, told Anadolu Agency that the Israeli air strikes targeted a number of Palestinian homes in the Tel al Zaatar area, east of Jabalia camp. </p><p>He noted that there are still missing people under the rubble of the homes, while ambulances are unable to reach the area under fear of being targeted by the Israeli invading army.  </p><p>The Gaza local authorities said among the victims there are 21 women, and that the death toll is expected to rise amid poor health services in northern Gaza under Israeli siege and attacks. </p><p>Northern Gaza, particularly the Jabalia area, is under a suffocating siege and constant Israeli bombardment, with homes being demolished over their inhabitants.  </p>"
+            },
+            {
+              "id": 18221939,
+              "type": "article",
+              "title": "'Source of pride': Palestinians salute Yahya Sinwar’s last act of defiance",
+              "description": "Hamas leader lives and dies by his creed: resisting Israeli occupation and inspiring Palestinians facing one of the most challenging times in history.",
+              "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21056152_0-283-6666-3754.jpeg",
+              "overlayImageUrl": "https://images-cdn.trtworld.com/trtworld/f_article_dad82a3424d1359fd05c977ff76dac80.jpeg",
+              "thumbnailSquare": "",
+              "categories": [
+                {
+                  "contentId": 12682254,
+                  "title": "Home Page"
+                },
+                {
+                  "contentId": 12683233,
+                  "title": "Magazine"
+                },
+                {
+                  "contentId": 12683241,
+                  "title": "Middle East"
+                }
+              ],
+              "metaTitle": "",
+              "metaDescription": "",
+              "showName": "",
+              "showSlug": "",
+              "path": "/magazine/source-of-pride-palestinians-salute-yahya-sinwars-last-act-of-defiance-18221939",
+              "publishedDate": "2024-10-18T14:42:19.494Z",
+              "authors": [
+                {
+                  "mainImage": "https://images-cdn.trtworld.com/trtworld/20411684_0-0-1710-1710.jpeg",
+                  "firstName": "Berra ",
+                  "lastName": "Ince",
+                  "bio": "Berra Ince is a deputy producer at TRT World.",
+                  "path": "/author/berra-ince"
+                }
+              ],
+              "showAuthor": false,
+              "showByLine": false,
+              "showSparkbox": false,
+              "blockType": "content"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p><strong>2140 GMT — UN expert accuses Israel, Western nations of speech breaches </strong></p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>Protest crackdowns, banned marches, media workers at risk — a UN expert has accused Western nations and Israel of freedom of speech violations in the year since the Gaza war broke out.</p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>\"No conflict in recent times has threatened freedom of expression so seriously or so far beyond its borders than Gaza,\" UN special rapporteur Irene Khan told reporters as she presented her report, \"Global threats to freedom of expression arising from the conflict in Gaza.\"</p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>The Bangladeshi human rights lawyer, who has been the special rapporteur on the promotion and protection of the right to freedom of opinion and expression since 2020, notably cited crackdowns on pro-Palestine protests in Western countries in the early months of the war.</p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>On US university campuses, protests were \"harshly\" repressed, she said, alluding to the use of riot police to dislodge encampments.</p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>In Europe, she noted that Germany had imposed a ban on pro-Palestinian demonstrations last October, with some restrictions still in place on such protests in various Germans regions, but \"never on any pro-Israeli\" rallies.</p><p>\"There have been all sorts of other restrictions also made in terms of slogans or scarves and so on,\" she said. </p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p><strong>2130 GMT — Houthi group attacks ship in Arabian Sea for links with Israel</strong></p><p>The Yemeni Houthi group has said it targeted a ship in the Arabian Sea for having links to Israel and reported more US-UK raids on western Yemen.<strong> </strong></p><p>Yahya Saree, the group's military spokesman, said in a statement that the group targeted the Malta-flagged Megalopolis container ship with drones in the Arabian Sea, and achieved direct hits.<strong> </strong></p><p>Saree said the group targeted the ship because the company that owns the ship breached the Houthi's embargo on ships entering Israeli ports. </p><p>He vowed to continue attacking Israeli targets as long as the Israeli aggression on Gaza and Lebanon continues. The Houthis also reported two raids on Hudaida province in western Yemen.</p>"
+            },
+            {
+              "blockType": "youtube",
+              "metadata": {
+                "url": "https://www.youtube.com/watch?v=vqnOcNiD1Eo"
+              },
+              "value": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/vqnOcNiD1Eo?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"UN: 345,000 Gazans could face &#39;catastrophic hunger&#39; this winter\"></iframe>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p><em><strong>For our live updates from Friday, October 18, 2024, click <a href=\"https://www.trtworld.com/middle-east/live-blog-hezbollah-targets-military-base-in-central-israel-with-drones-18221558\">here</a>.</strong></em> </p>"
+            }
+          ],
+          "path": "/content/article/live-blog-israeli-pm-netanyahus-residence-hit-by-drone-authorities-18222110",
+          "type": "article",
+          "fields": {
+            "search_title": {
+              "text": ""
+            },
+            "search_description": {
+              "text": "Israel's war on Gaza, now in its 379th day, has killed at least 42,500 Palestinians and wounded nearly 100,000, with 10,000+ possibly buried under debris. Israeli has also killed at least 2,411 people in Lebanon since October last year."
+            },
+            "topic_slug": {
+              "text": ""
+            },
+            "mainImage": {
+              "type": "image",
+              "assetId": 21060767,
+              "key": "trtworld/21060767_0-0-3240-1824.jpeg",
+              "bucket": "port-prod-asset-public-image-v3",
+              "cdnUrl": "https://images-cdn.trtworld.com/trtworld/",
+              "fileName": "21060767_0-0-3240-1824.jpeg",
+              "url": "https://images-cdn.trtworld.com/trtworld/21060767_0-0-3240-1824.jpeg",
+              "title": "View of destruction after Israeli attacks in Al Fawka town of Nabatieh, Lebanon. / Photo: AA",
+              "width": 3240,
+              "height": 2160,
+              "source": "AA"
+            },
+            "authors": [
+              {
+                "firstName": {
+                  "text": "Baba"
+                },
+                "lastName": {
+                  "text": "Umar"
+                },
+                "twitter": {
+                  "text": "@Babaumarr"
+                },
+                "mainImage": {
+                  "bucket": "port-production-asset-public-image",
+                  "fileName": "0u_28.jpg",
+                  "cdnUrl": "https://cdn-i.pr.trt.com.tr/trtworld/",
+                  "type": "image",
+                  "title": "Baba Umar",
+                  "url": "https://cdn-i.pr.trt.com.tr/trtworld/0u_28.jpg",
+                  "key": "trtworld/0u_28.jpg"
+                },
+                "bio": {
+                  "text": "Baba Umar is an Executive Producer with TRT World "
+                },
+                "path": "/author/baba-umar"
+              },
+              {
+                "firstName": {
+                  "text": "Rabiul"
+                },
+                "lastName": {
+                  "text": "Islam"
+                },
+                "twitter": {
+                  "text": ""
+                },
+                "bio": {
+                  "text": ""
+                },
+                "path": "/author/rabiul-islam"
+              }
+            ],
+            "relatedStory": {
+              "id": 18222032,
+              "type": "article",
+              "title": "Israeli invasion causing 'widespread destruction' in south Lebanon: UNIFIL",
+              "description": "UNIFIL was set up in 1978 to monitor the withdrawal of Israeli forces after they invaded Lebanon, and to help the Lebanese government restore authority over the border region.",
+              "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/17864292_0-0-862-486.jpeg",
+              "overlayImageUrl": "https://images-cdn.trtworld.com/trtworld/f_article_b0c33f6eed10cc2e6d5d282df9675af1.jpeg",
+              "thumbnailSquare": "",
+              "categories": [
+                {
+                  "contentId": 12682254,
+                  "title": "Home Page"
+                },
+                {
+                  "contentId": 12683241,
+                  "title": "Middle East"
+                }
+              ],
+              "metaTitle": "",
+              "metaDescription": "",
+              "showName": "",
+              "showSlug": "",
+              "path": "/middle-east/israeli-invasion-causing-widespread-destruction-in-south-lebanon-unifil-18222032",
+              "publishedDate": "2024-10-18T16:56:26.087Z",
+              "authors": [
+                {
+                  "userName": "Staff.Reporter",
+                  "firstName": "Staff",
+                  "lastName": "Reporter",
+                  "path": "/author/staff-reporter"
+                }
+              ],
+              "showAuthor": false,
+              "showByLine": false,
+              "showSparkbox": false
+            },
+            "sources": [
+              {
+                "key": "trtworld-and-agencies",
+                "value": "TRTWorld and agencies",
+                "metadata": {}
+              }
+            ],
+            "topics": [
+              {
+                "contentId": 12682254,
+                "title": "Home Page",
+                "slug": "home-page"
+              },
+              {
+                "contentId": 12683241,
+                "title": "Middle East",
+                "slug": "middle-east"
+              }
+            ],
+            "team": {
+              "key": "news",
+              "value": "News",
+              "metadata": {}
+            },
+            "contentFormat": {
+              "key": "news",
+              "value": "News",
+              "metadata": {}
+            },
+            "country": {
+              "key": "pse",
+              "value": "Palestine",
+              "metadata": {
+                "code": "PSE",
+                "region": "Asia",
+                "subregion": "Western Asia"
+              }
+            },
+            "tags": [
+              {
+                "key": "palestine",
+                "value": "Palestine",
+                "metadata": {}
+              },
+              {
+                "key": "gaza",
+                "value": "Gaza",
+                "metadata": {}
+              },
+              {
+                "key": "jabalia",
+                "value": "Jabalia",
+                "metadata": {}
+              },
+              {
+                "key": "israel",
+                "value": "Israel",
+                "metadata": {}
+              },
+              {
+                "key": "war-crimes",
+                "value": "War Crimes",
+                "metadata": {}
+              },
+              {
+                "key": "genocide",
+                "value": "genocide",
+                "metadata": {}
+              },
+              {
+                "key": "us",
+                "value": "US",
+                "metadata": {}
+              },
+              {
+                "key": "un",
+                "value": "UN",
+                "metadata": {}
+              },
+              {
+                "key": "yahya-sinwar",
+                "value": "Yahya Sinwar",
+                "metadata": {}
+              }
+            ],
+            "overlayImage": {
+              "type": "image",
+              "key": "trtworld/f_article_45184d0f1ff2401fabe327410ec7d0e1.jpeg",
+              "bucket": "port-prod-asset-public-image-v3",
+              "cdnUrl": "https://images-cdn.trtworld.com/trtworld/",
+              "fileName": "f_article_45184d0f1ff2401fabe327410ec7d0e1.jpeg",
+              "url": "https://images-cdn.trtworld.com/trtworld/f_article_45184d0f1ff2401fabe327410ec7d0e1.jpeg",
+              "width": 3240,
+              "height": 2160
+            }
+          },
+          "metadata": {
+            "show_sparkbox": "true"
+          },
+          "site": "trtworld",
+          "viewCount": 0,
+          "published": {
+            "date": "2024-10-19T07:48:57.068Z"
+          },
+          "paths": [
+            "/content/article/live-blog-israel-kills-33-civilians-including-21-women-in-gazas-jabalia-18222110",
+            "/content/article/live-blog-gaza-facing-unprecedented-rain-of-destruction-un-expert-18222110",
+            "/content/article/live-blog-israeli-pm-netanyahus-residence-hit-by-drone-authorities-18222110"
+          ]
+        }
+      },
+      {
+        "id": 12977396,
+        "type": "article",
+        "title": "South Africa's Ramaposa rows back from pledge to quit ICC",
+        "description": "South African President Cyril Ramaphosa a day earlier said his ANC party had resolved that his country should quit the ICC, which last month issued an arrest warrant against Russian President Vladimir Putin.",
+        "mainImageUrl": "https://cdn-i.pr.trt.com.tr/trtworld/16275004_0-183-4498-2533.jpeg",
+        "overlayImageUrl": "",
+        "thumbnailSquare": "",
+        "categories": [
+          {
+            "contentId": 12682254,
+            "title": "Home Page"
+          },
+          {
+            "contentId": 12682877,
+            "title": "Africa"
+          },
+          {
+            "contentId": 12682883,
+            "title": "Europe"
+          }
+        ],
+        "metaTitle": "",
+        "metaDescription": "",
+        "showName": "",
+        "showSlug": "",
+        "path": "/africa/south-africas-ramaposa-rows-back-from-pledge-to-quit-icc-12977396",
+        "publishedDate": "2023-04-26T10:25:42.760Z",
+        "authors": [
+          {
+            "userName": "meryem.demirhan",
+            "firstName": "Meryem",
+            "lastName": "Demirhan",
+            "path": "/author/meryem-demirhan"
+          }
+        ],
+        "showAuthor": false,
+        "showByLine": false,
+        "showSparkbox": false,
+        "content": {
+          "id": 12977396,
+          "title": "South Africa's Ramaposa rows back from pledge to quit ICC",
+          "description": "South African President Cyril Ramaphosa a day earlier said his ANC party had resolved that his country should quit the ICC, which last month issued an arrest warrant against Russian President Vladimir Putin.",
+          "body": [
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>South African President Cyril Ramaphosa has rowed back from a pledge to quit the International Criminal Court, months before he is due to host Russia's Vladimir Putin who is wanted by the ICC for suspected war crimes.</p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>Ramaphosa had said on Tuesday that the ruling African National Congress would aim to repeal South Africa's membership of the Hague-based court, which hears cases of genocide, war crimes and crimes against humanity. </p><p>But on Wednesday, Ramaphosa's office said he had made a mistake.</p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>\"South Africa remains a signatory to the ICC in line with a resolution of the 55th National Conference of the ANC – held in December 2022 – to rescind an earlier decision to withdraw from the ICC,\" the presidency said in a statement on Wednesday.</p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>\"The December resolution was reaffirmed at a meeting of the National Executive Committee of the ANC during the weekend of 21 to 24 April 2023.\"</p><p>The presidency said that South Africa would work towards establishing an African continental criminal court that would complement the ICC as a court of last resort. </p><p>The ANC decided at its national conference in December that South Africa should abandon a legislative process to pull out of the ICC and try to effect changes to the organisation from within. </p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p><strong>READ MORE:</strong> <em><a href=\"https://www.trtworld.com/europe/icc-issues-arrest-warrant-for-putin-over-alleged-war-crimes-in-ukraine-66231\">ICC issues arrest warrant for Putin over alleged war crimes in Ukraine</a></em> </p><p> </p>"
+            },
+            {
+              "blockType": "youtube",
+              "metadata": {
+                "url": "https://www.youtube.com/watch?v=EUlzBtxBzNE"
+              },
+              "value": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/EUlzBtxBzNE?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"Putin indicted by the ICC: what does that actually mean?\"></iframe>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p><strong>Putin's arrest warrant</strong> </p><p>The ICC issued an arrest warrant in March for Putin, accusing him of the war crime of forcibly deporting children from Russian-occupied territory in Ukraine. Moscow denies committing war crimes including forced deportations of children, and says the ICC has no authority as Russia is not a member.</p><p>Putin is due to visit South Africa in August for a summit of the BRICS group of emerging economies comprising Brazil, Russia, India, China and South Africa. As an ICC member, South Africa would be required to detain him.</p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p>Putin has not travelled abroad since the ICC warrant was issued. He has made only one trip outside the former Soviet Union - to Iran - since launching the attack against Ukraine last year.</p>"
+            },
+            {
+              "blockType": "text",
+              "metadata": {},
+              "value": "<p><strong>READ MORE:</strong> <a href=\"https://www.trtworld.com/europe/live-blog-un-backed-inquiry-accuses-russia-of-war-crimes-in-ukraine-66168\" data-ved=\"2ahUKEwiX94GPruP9AhXeS_EDHSQxCNEQFnoECAgQAQ\"><em>UN-backed inquiry accuses Russia of war crimes in Ukraine</em></a>  </p>"
+            }
+          ],
+          "path": "/africa/south-africas-ramaposa-rows-back-from-pledge-to-quit-icc-12977396",
+          "type": "article",
+          "fields": {
+            "search_title": {
+              "text": "South Africa backs from pledge to quit war crimes court"
+            },
+            "search_description": {
+              "text": "ICC issued arrest warrant against Vladimir Putin who is expected to visit South Africa in August for BRICS conference."
+            },
+            "topic_slug": {
+              "text": "africa"
+            },
+            "mainImage": {
+              "type": "image",
+              "assetId": 16275004,
+              "key": "trtworld/16275004_0-183-4498-2533.jpeg",
+              "bucket": "port-production-asset-public-image",
+              "cdnUrl": "https://cdn-i.pr.trt.com.tr/trtworld/",
+              "fileName": "16275004_0-183-4498-2533.jpeg",
+              "url": "https://cdn-i.pr.trt.com.tr/trtworld/16275004_0-183-4498-2533.jpeg",
+              "title": "South Africa now says it would work towards establishing an African continental criminal court that would complement the ICC as a court of last resort. / Photo: AA",
+              "width": 4500,
+              "height": 2999,
+              "source": "AA"
+            },
+            "authors": [
+              {
+                "firstName": {
+                  "text": "Meryem"
+                },
+                "lastName": {
+                  "text": "Demirhan"
+                },
+                "twitter": {
+                  "text": ""
+                },
+                "bio": {
+                  "text": ""
+                },
+                "path": "/author/meryem-demirhan"
+              }
+            ],
+            "relatedStory": {
+              "id": 12763559,
+              "type": "article",
+              "title": "South Africa's president visits epicentre of unrest, says it was 'planned'",
+              "description": "South African President Cyril Ramaphosa says deadly violence and looting that have shaken the country over the past week were planned as death toll mounts to 212.",
+              "mainImageUrl": "https://cdn-i.pr.trt.com.tr/trtworld/0m_110073_ZAF20210716presidentcyrilramaphosavisitscenterunrestdurbanRTR_1626434603140.jpeg",
+              "overlayImageUrl": "",
+              "thumbnailSquare": "",
+              "categories": [
+                {
+                  "contentId": 12682877,
+                  "title": "Africa"
+                },
+                {
+                  "contentId": 12682254,
+                  "title": "Home Page"
+                }
+              ],
+              "metaTitle": "",
+              "metaDescription": "",
+              "showName": "",
+              "showSlug": "",
+              "path": "/africa/south-africas-president-visits-epicentre-of-unrest-says-it-was-planned-12763559",
+              "publishedDate": "2021-07-16T11:17:24.000Z",
+              "authors": [
+                {
+                  "userName": "ezgi.toper",
+                  "firstName": "Ezgi",
+                  "lastName": "Toper",
+                  "bio": "Ezgi Toper is a digital producer at TRT World.",
+                  "twitter": "Ezgi_Toper",
+                  "mainImage": "https://cdn-i.pr.trt.com.tr/trtworld/0u_1077.jpg",
+                  "path": "/author/ezgi-toper"
+                }
+              ],
+              "showAuthor": false,
+              "showByLine": false,
+              "showSparkbox": false
+            },
+            "sources": [
+              {
+                "key": "trtworld-and-agencies",
+                "value": "TRTWorld and agencies",
+                "metadata": {}
+              }
+            ],
+            "topics": [
+              {
+                "contentId": 12682254,
+                "title": "Home Page",
+                "slug": "home-page"
+              },
+              {
+                "contentId": 12682877,
+                "title": "Africa",
+                "slug": "africa"
+              },
+              {
+                "contentId": 12682883,
+                "title": "Europe",
+                "slug": "europe"
+              }
+            ],
+            "team": {
+              "key": "news",
+              "value": "News",
+              "metadata": {}
+            },
+            "contentFormat": {
+              "key": "news",
+              "value": "News",
+              "metadata": {}
+            },
+            "country": {
+              "key": "zaf",
+              "value": "South Africa",
+              "metadata": {
+                "code": "ZAF",
+                "region": "Africa",
+                "subregion": "Southern Africa"
+              }
+            },
+            "tags": [
+              {
+                "key": "south-africa",
+                "value": "South Africa",
+                "metadata": {}
+              },
+              {
+                "key": "russia",
+                "value": "Russia",
+                "metadata": {}
+              },
+              {
+                "key": "putin",
+                "value": "Putin",
+                "metadata": {}
+              },
+              {
+                "key": "icc",
+                "value": "ICC",
+                "metadata": {}
+              },
+              {
+                "key": "war-crimes",
+                "value": "War Crimes",
+                "metadata": {}
+              },
+              {
+                "key": "international-criminal-court-of-justice",
+                "value": "International Criminal Court Of Justice",
+                "metadata": {}
+              },
+              {
+                "key": "anc",
+                "value": "ANC",
+                "metadata": {}
+              },
+              {
+                "key": "ukraine-war",
+                "value": "Ukraine War",
+                "metadata": {}
+              },
+              {
+                "key": "russia-ukraine-conflict",
+                "value": "Russia Ukraine Conflict",
+                "metadata": {}
+              }
+            ]
+          },
+          "metadata": {
+            "show_sparkbox": "true"
+          },
+          "site": "trtworld",
+          "viewCount": 0,
+          "published": {
+            "date": "2023-04-26T10:25:42.760Z"
+          },
+          "paths": [
+            "/africa/south-africas-ramaposa-rows-back-from-pledge-to-quit-icc-12977396"
+          ]
+        }
+      }
+    ]
+  }

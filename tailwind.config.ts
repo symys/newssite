@@ -12,7 +12,9 @@ const config: Config = {
         background: "var(--background)",
         foreground: "var(--foreground)",
         customGray: '#63676C',
-        lightGray: '#E1E6EB'
+        lightGray: '#E1E6EB',
+        trtBlue: '#0089CC',
+        middleGray: '#A0A5AA'
 
       },
       fontFamily: {
