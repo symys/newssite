@@ -2,24 +2,44 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@100;400;700&display=swap');
+
+
 :root {
   --background: #ffffff;
   --foreground: #171717;
 }
 
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: dark) {
   :root {
     --background: #0a0a0a;
     --foreground: #ededed;
   }
-}
+} */
 
 body {
   color: var(--foreground);
   background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  /* font-family: Arial, Helvetica, sans-serif; */
+  font-family: 'Noto Serif', serif;
 }
 
+.roboto {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}
+
+.white-text {
+  color:#ffffff
+}
+
+.custom-button {
+  @apply bg-red-500 text-black font-bold py-2 px-6 rounded;
+}
+
+.h1 {
+  font-size: 50px;
+}
 @layer utilities {
   .text-balance {
     text-wrap: balance;

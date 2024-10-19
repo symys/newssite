@@ -11,6 +11,12 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        customGray: '#63676C',
+        lightGray: '#E1E6EB'
+
+      },
+      fontFamily: {
+        noto: ['Noto Serif', 'serif'], 
       },
     },
   },
