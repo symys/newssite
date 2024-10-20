@@ -1,5 +1,5 @@
-// components/MyComponent.js
-
+'use client';
+import { useRouter } from "next/navigation";
 import React from "react";
 type PopularNewsCardProps = {
   number: number;
@@ -7,23 +7,33 @@ type PopularNewsCardProps = {
   title: any;
 };
 
-const PopularNewsCard: React.FC<PopularNewsCardProps> = ({
-  number,
-  region,
-  title,
-}) => {
-  return (
-    <div className="flex flex-row gap-4 items-center justify-center">
-      <div className="roboto text-popularGray text-[48px]">{number}</div>
-      <div className="flex flex-col">
-        <div className="text-trtBlue roboto tracking-widest text-[12px] uppercase">{region}</div>
-        <div>{title}</div>
-      </div>
-    </div>
-  );
-};
+
 
 const PopularToday = ({ data }: any) => {
+  const router = useRouter();
+
+  const handleClick = (id: number): void => {
+    const selectedArticle:any= data.articlesapi.find((article:any) => article.id === id)
+    router.push(`/screens/singlearticlepage?id=${selectedArticle.id}&title=${selectedArticle.title}&content=${selectedArticle.content}&authors=${selectedArticle.authors}&description=${selectedArticle.description}&mainImageUrl=${selectedArticle.mainImageUrl}`);
+  };
+
+  const PopularNewsCard: React.FC<PopularNewsCardProps> = ({
+    number,
+    region,
+    title,
+  }) => {
+    return (
+      <div className="flex flex-row gap-4 items-center justify-center">
+        <div className="roboto text-popularGray text-[48px]">{number}</div>
+        <div className="flex flex-col">
+          <div className="text-trtBlue roboto tracking-widest text-[12px] uppercase">{region}</div>
+          <div className="cursor-pointer" onClick={() => handleClick(data.homepageapi.latest[number - 1].id)}>{title}</div>
+        </div>
+      </div>
+    );
+  };
+
+
   const newsArray = [
     {
       region: data.homepageapi.latest[0].categories[1].title,

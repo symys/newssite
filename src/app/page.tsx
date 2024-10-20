@@ -1,4 +1,4 @@
-import HomePage from "./screens/HomePage";
+import HomePage from "./screens/homepage/page";
 
 export default function Home() {
   return (

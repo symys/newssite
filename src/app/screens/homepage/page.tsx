@@ -1,6 +1,4 @@
-import Navbar from "../../components/Navbar";
-import LatestAndPopular from "../../components/LatestAndPopular";
-import Image from "next/image";
+import LatestAndPopular from "../../../components/LatestAndPopular";
 
 export default function HomePage() {
   return (

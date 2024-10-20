@@ -1,12 +1,21 @@
+'use client';
 import Image from 'next/image';
+import { useRouter } from 'next/navigation';
 import React from 'react';
 
 function SecondLevelMainInLatestNews({data} : any) {
+  const router = useRouter();
+
+  const handleClick = (id: number): void => {
+    const selectedArticle:any= data.articlesapi.find((article:any) => article.id === id)
+    router.push(`/screens/singlearticlepage?id=${selectedArticle.id}&title=${selectedArticle.title}&content=${selectedArticle.content}&authors=${selectedArticle.authors}&description=${selectedArticle.description}&mainImageUrl=${selectedArticle.mainImageUrl}`);
+  };
+
   return <div className="flex screen768:flex-col flex-row w-full justify-between gap-8">
   <div className="flex flex-col between768and576:flex-row gap-3 ">
     <div className="max-w-sm">
-      <a href="#">
-        <div className="relative w-full h-0 pb-[56.25%]">
+      
+        <div className="relative w-full h-0 pb-[56.25%] cursor-pointer" onClick={() => handleClick(data.homepageapi.latest[1].id)}>
           <Image
             src={data.homepageapi.latest[1].mainImageUrl}
             alt=""
@@ -14,14 +23,14 @@ function SecondLevelMainInLatestNews({data} : any) {
             objectFit="cover"
           />
         </div>
-      </a>
+   
       <div className="pt-5">
-        <a href="#">
-          <h5 class="mb-2 text-lg font-bold tracking-tight">
+   
+          <h5 className="mb-2 text-lg font-bold tracking-tight cursor-pointer" onClick={() => handleClick(data.homepageapi.latest[1].id)}>
             {data.homepageapi.latest[1].title}
           </h5>
-        </a>
-        <p className="mb-2 text-sm">
+
+        <p className="mb-2 text-sm cursor-pointer" onClick={() => handleClick(data.homepageapi.latest[1].id)}>
           {data.homepageapi.latest[1].description}
         </p>
       </div>
@@ -31,8 +40,8 @@ function SecondLevelMainInLatestNews({data} : any) {
     <div className="border-b-2 mb-2 border-lightGray w-full h-1  between768and576:hidden block"></div>
 
     <div className="max-w-sm ">
-      <a href="#">
-        <div className="relative w-full h-0 pb-[56.25%]">
+  
+        <div className="relative w-full h-0 pb-[56.25%] cursor-pointer" onClick={() => handleClick(data.homepageapi.latest[2].id)}>
           <Image
             src={data.homepageapi.latest[2].mainImageUrl}
             alt=""
@@ -40,14 +49,14 @@ function SecondLevelMainInLatestNews({data} : any) {
             objectFit="cover"
           />
         </div>
-      </a>
+ 
       <div className="pt-5">
-        <a href="#">
-          <h5 class="mb-2 text-lg font-bold tracking-tight">
+   
+          <h5 className="mb-2 text-lg font-bold tracking-tight cursor-pointer" onClick={() => handleClick(data.homepageapi.latest[2].id)}>
             {data.homepageapi.latest[2].title}
           </h5>
-        </a>
-        <p className="mb-2 text-sm">
+   
+        <p className="mb-2 text-sm cursor-pointer" onClick={() => handleClick(data.homepageapi.latest[2].id)}>
           {data.homepageapi.latest[2].description}
         </p>
       </div>
@@ -77,7 +86,7 @@ function SecondLevelMainInLatestNews({data} : any) {
             " " +
             data.homepageapi.news[0].authors[0].lastName}
         </div>
-        <div className="sm:text-xs">
+        <div className="sm:text-xs cursor-pointer" onClick={() => handleClick(data.homepageapi.latest[0].id)}>
           {data.homepageapi.latest[0].title}
         </div>
       </div>
@@ -99,7 +108,7 @@ function SecondLevelMainInLatestNews({data} : any) {
             " " +
             data.homepageapi.headline[0].authors[0].lastName}
         </div>
-        <div className="sm:text-xs">
+        <div className="sm:text-xs cursor-pointer" onClick={() => handleClick(data.homepageapi.latest[0].id)}>
           {data.homepageapi.latest[0].title}
         </div>
       </div>
@@ -121,7 +130,7 @@ function SecondLevelMainInLatestNews({data} : any) {
             " " +
             data.homepageapi.news[0].authors[0].lastName}
         </div>
-        <div className="sm:text-xs">
+        <div className="sm:text-xs cursor-pointer" onClick={() => handleClick(data.homepageapi.latest[0].id)}>
           {data.homepageapi.latest[0].title}
         </div>
       </div>
@@ -133,7 +142,7 @@ function SecondLevelMainInLatestNews({data} : any) {
         <div className="roboto text-xs tracking-widest text-trtBlue uppercase">
           {data.homepageapi.latest[0].categories[1].title}
         </div>
-        <div className="font-bold text-sm mt-2">
+        <div className="font-bold text-sm mt-2 cursor-pointer" onClick={() => handleClick(data.homepageapi.latest[0].id)}>
           {data.homepageapi.latest[0].title}
         </div>
       </div>
@@ -142,7 +151,7 @@ function SecondLevelMainInLatestNews({data} : any) {
         <div className="roboto text-xs tracking-widest text-trtBlue uppercase">
           {data.homepageapi.latest[2].categories[1].title}
         </div>
-        <div className="font-bold text-sm mt-2">
+        <div className="font-bold text-sm mt-2 cursor-pointer" onClick={() => handleClick(data.homepageapi.latest[2].id)}>
           {data.homepageapi.latest[2].title}
         </div>
       </div>
@@ -151,7 +160,7 @@ function SecondLevelMainInLatestNews({data} : any) {
         <div className="roboto text-xs tracking-widest text-trtBlue uppercase">
           {data.homepageapi.latest[3].categories[1].title}
         </div>
-        <div className="font-bold text-sm mt-2">
+        <div className="font-bold text-sm mt-2 cursor-pointer" onClick={() => handleClick(data.homepageapi.latest[3].id)}>
           {data.homepageapi.latest[3].title}
         </div>
       </div>
