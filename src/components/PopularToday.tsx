@@ -1,4 +1,5 @@
 'use client';
+import { useArticle } from "@/app/context/ArticleContext";
 import { useRouter } from "next/navigation";
 import React from "react";
 type PopularNewsCardProps = {
@@ -7,14 +8,14 @@ type PopularNewsCardProps = {
   title: any;
 };
 
-
-
 const PopularToday = ({ data }: any) => {
   const router = useRouter();
+  const {setArticle} = useArticle();
 
   const handleClick = (id: number): void => {
-    const selectedArticle:any= data.articlesapi.find((article:any) => article.id === id)
-    router.push(`/screens/singlearticlepage?id=${selectedArticle.id}&title=${selectedArticle.title}&content=${selectedArticle.content}&authors=${selectedArticle.authors}&description=${selectedArticle.description}&mainImageUrl=${selectedArticle.mainImageUrl}`);
+    const selectedArticle:any= data.articlesapi.find((article:any) => article.id === id);
+    setArticle(selectedArticle);
+    router.push('screens/singlearticlepage')
   };
 
   const PopularNewsCard: React.FC<PopularNewsCardProps> = ({

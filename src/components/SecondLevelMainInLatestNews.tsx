@@ -1,14 +1,17 @@
 'use client';
+import { useArticle } from '@/app/context/ArticleContext';
 import Image from 'next/image';
 import { useRouter } from 'next/navigation';
 import React from 'react';
 
 function SecondLevelMainInLatestNews({data} : any) {
+  const { setArticle } = useArticle();
   const router = useRouter();
 
   const handleClick = (id: number): void => {
-    const selectedArticle:any= data.articlesapi.find((article:any) => article.id === id)
-    router.push(`/screens/singlearticlepage?id=${selectedArticle.id}&title=${selectedArticle.title}&content=${selectedArticle.content}&authors=${selectedArticle.authors}&description=${selectedArticle.description}&mainImageUrl=${selectedArticle.mainImageUrl}`);
+    const selectedArticle:any= data.articlesapi.find((article:any) => article.id === id);
+    setArticle(selectedArticle);
+    router.push('screens/singlearticlepage')
   };
 
   return <div className="flex screen768:flex-col flex-row w-full justify-between gap-8">

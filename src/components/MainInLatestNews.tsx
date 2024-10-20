@@ -2,13 +2,16 @@
 ;import Image from "next/image";
 import { useRouter } from "next/navigation";
 import React from "react";
+import { useArticle } from '../app/context/ArticleContext';
 
 function MainInLatestNews({ data }: any) {
+  const { setArticle } = useArticle();
   const router = useRouter();
 
   const handleClick = (id: number): void => {
     const selectedArticle:any= data.articlesapi.find((article:any) => article.id === id)
-    router.push(`/screens/singlearticlepage?id=${selectedArticle.id}&title=${selectedArticle.title}&content=${selectedArticle.content}&authors=${selectedArticle.authors}&description=${selectedArticle.description}&mainImageUrl=${selectedArticle.mainImageUrl}`);
+    setArticle(selectedArticle);
+    router.push('screens/singlearticlepage')
   };
 
   return (
