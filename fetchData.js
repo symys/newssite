@@ -5,7 +5,7 @@ const fs = require('fs'); // it's a node.js feature, provides to write new datas
 
 const HOME_API_URL = 'https://www.trtworld.com/api/homepage';
 const ARTICLE_API_BASE_URL = 'https://www.trtworld.com/api/content?path=';
-const DB_FILE_PATH = './db.json';
+const DB_FILE_PATH = './public/db.json';
 
 async function fetchHomepageAndArticles() {
   try {

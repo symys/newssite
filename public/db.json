@@ -9,11 +9,69 @@
     },
     "latest": [
       {
-        "id": 18221558,
+        "id": 18222381,
         "type": "article",
-        "title": "Live blog: Israel sends more troops to Gaza, intensifies raids on civilians",
-        "description": "Israel's year-long war on Gaza has killed at least 42,438 Palestinians. Separately, Tel Aviv attacks across Lebanon since October 2023 have killed at least 2,411 people and displaced another 1.2 million.",
-        "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21056965_0-659-5593-3150.jpeg",
+        "title": "Moldovans vote in presidential election, EU membership referendum",
+        "description": "The presidential election and referendum are being held under the shadow of the ongoing struggle between the West and Russia over Moldova.",
+        "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21066486_0-31-5509-3102.jpeg",
+        "overlayImageUrl": "",
+        "thumbnailSquare": "",
+        "categories": [
+          {
+            "contentId": 12682254,
+            "title": "Home Page"
+          },
+          {
+            "contentId": 12682883,
+            "title": "Europe"
+          }
+        ],
+        "metaTitle": "",
+        "metaDescription": "",
+        "showName": "",
+        "showSlug": "",
+        "path": "/europe/moldovans-vote-in-presidential-election-eu-membership-referendum-18222381",
+        "publishedDate": "2024-10-20T06:45:20.557Z",
+        "authors": [],
+        "showAuthor": false,
+        "showByLine": false,
+        "showSparkbox": false
+      },
+      {
+        "id": 18222373,
+        "type": "article",
+        "title": "Prabowo Subianto sworn in as Indonesia's eighth president",
+        "description": "Prabowo won the February 14 election with nearly 60 percent of the vote.",
+        "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21065874_0-187-5500-3100.jpeg",
+        "overlayImageUrl": "",
+        "thumbnailSquare": "",
+        "categories": [
+          {
+            "contentId": 12682254,
+            "title": "Home Page"
+          },
+          {
+            "contentId": 12682879,
+            "title": "Asia"
+          }
+        ],
+        "metaTitle": "",
+        "metaDescription": "",
+        "showName": "",
+        "showSlug": "",
+        "path": "/asia/prabowo-subianto-sworn-in-as-indonesias-eighth-president-18222373",
+        "publishedDate": "2024-10-20T04:11:11.170Z",
+        "authors": [],
+        "showAuthor": false,
+        "showByLine": false,
+        "showSparkbox": false
+      },
+      {
+        "id": 18222345,
+        "type": "article",
+        "title": "Live blog: Israeli strikes kill 73 Palestinians in Gaza's Beit Lahia",
+        "description": "Israel's war on Gaza, now in its 380th day, has killed at least 42,519 Palestinians and wounded nearly 100,000, with 10,000+ possibly buried under debris. Israel has also killed at least 2,448 people in Lebanon since October last year.",
+        "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21064273_0-76-2048-1153.jpeg",
         "overlayImageUrl": "",
         "thumbnailSquare": "",
         "categories": [
@@ -30,52 +88,19 @@
         "metaDescription": "",
         "showName": "",
         "showSlug": "",
-        "path": "/middle-east/live-blog-israel-sends-more-troops-to-gaza-intensifies-raids-on-civilians-18221558",
-        "publishedDate": "2024-10-18T11:11:33.107Z",
+        "path": "/middle-east/live-blog-israeli-strikes-kill-73-palestinians-in-gazas-beit-lahia-18222345",
+        "publishedDate": "2024-10-20T03:25:28.998Z",
         "authors": [],
         "showAuthor": false,
         "showByLine": false,
         "showSparkbox": false
       },
       {
-        "id": 18221830,
+        "id": 18222372,
         "type": "article",
-        "title": "Water crisis threatens global food supply within 25 years, report warns",
-        "description": "The escalating water crisis, if left unchecked, could undermine not only food security but also global stability, putting millions of lives at risk, a new report suggests.",
-        "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21056775_0-227-5472-3081.jpeg",
-        "overlayImageUrl": "",
-        "thumbnailSquare": "",
-        "categories": [
-          {
-            "contentId": 12682254,
-            "title": "Home Page"
-          },
-          {
-            "contentId": 12683233,
-            "title": "Magazine"
-          },
-          {
-            "contentId": 12683253,
-            "title": "Climate"
-          }
-        ],
-        "metaTitle": "",
-        "metaDescription": "",
-        "showName": "",
-        "showSlug": "",
-        "path": "/magazine/water-crisis-threatens-global-food-supply-within-25-years-report-warns-18221830",
-        "publishedDate": "2024-10-18T10:40:18.126Z",
-        "authors": [],
-        "showAuthor": false,
-        "showByLine": false,
-        "showSparkbox": false
-      },
-      {
-        "id": 18221792,
-        "type": "article",
-        "title": "Chinese, Indian leaders to attend BRICS summit in Russia next week",
-        "description": "Amid growing criticism over the war in Ukraine, Russian President Putin has framed the summit as a key opportunity to bolster BRICS' role as a counterbalance to Western influence on the global stage.",
-        "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21056609_733-63-2478-1395.jpeg",
+        "title": "US-led sanctions monitoring team unlawful: North Korea",
+        "description": "Tensions on the Korean peninsula have intensified in recent years.",
+        "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21065695_0-375-5246-2954.jpeg",
         "overlayImageUrl": "",
         "thumbnailSquare": "",
         "categories": [
@@ -92,41 +117,8 @@
         "metaDescription": "",
         "showName": "",
         "showSlug": "",
-        "path": "/asia/chinese-indian-leaders-to-attend-brics-summit-in-russia-next-week-18221792",
-        "publishedDate": "2024-10-18T10:36:12.291Z",
-        "authors": [],
-        "showAuthor": false,
-        "showByLine": false,
-        "showSparkbox": false
-      },
-      {
-        "id": 18221808,
-        "type": "article",
-        "title": "Gold hits record as China's economic growth beats forecasts",
-        "description": "The central bank's hints of further reserve requirement cuts and banks reducing yuan deposit rates further boosted market optimism.",
-        "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21056623_0-144-4572-2574.jpeg",
-        "overlayImageUrl": "",
-        "thumbnailSquare": "",
-        "categories": [
-          {
-            "contentId": 12682254,
-            "title": "Home Page"
-          },
-          {
-            "contentId": 12683237,
-            "title": "Business"
-          },
-          {
-            "contentId": 12682879,
-            "title": "Asia"
-          }
-        ],
-        "metaTitle": "",
-        "metaDescription": "",
-        "showName": "",
-        "showSlug": "",
-        "path": "/business/gold-hits-record-as-chinas-economic-growth-beats-forecasts-18221808",
-        "publishedDate": "2024-10-18T10:16:20.566Z",
+        "path": "/asia/us-led-sanctions-monitoring-team-unlawful-north-korea-18222372",
+        "publishedDate": "2024-10-20T03:17:29.634Z",
         "authors": [],
         "showAuthor": false,
         "showByLine": false,
@@ -467,11 +459,11 @@
       }
     },
     {
-      "id": 18221558,
+      "id": 18222381,
       "type": "article",
-      "title": "Live blog: Israel sends more troops to Gaza, intensifies raids on civilians",
-      "description": "Israel's year-long war on Gaza has killed at least 42,438 Palestinians. Separately, Tel Aviv attacks across Lebanon since October 2023 have killed at least 2,411 people and displaced another 1.2 million.",
-      "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21056965_0-659-5593-3150.jpeg",
+      "title": "Moldovans vote in presidential election, EU membership referendum",
+      "description": "The presidential election and referendum are being held under the shadow of the ongoing struggle between the West and Russia over Moldova.",
+      "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21066486_0-31-5509-3102.jpeg",
       "overlayImageUrl": "",
       "thumbnailSquare": "",
       "categories": [
@@ -480,111 +472,92 @@
           "title": "Home Page"
         },
         {
-          "contentId": 12683241,
-          "title": "Middle East"
+          "contentId": 12682883,
+          "title": "Europe"
         }
       ],
       "metaTitle": "",
       "metaDescription": "",
       "showName": "",
       "showSlug": "",
-      "path": "/middle-east/live-blog-israel-sends-more-troops-to-gaza-intensifies-raids-on-civilians-18221558",
-      "publishedDate": "2024-10-18T11:11:33.107Z",
+      "path": "/europe/moldovans-vote-in-presidential-election-eu-membership-referendum-18222381",
+      "publishedDate": "2024-10-20T06:45:20.557Z",
       "authors": [],
       "showAuthor": false,
       "showByLine": false,
       "showSparkbox": false,
       "content": {
-        "id": 18221558,
-        "title": "Live blog: Israel sends more troops to Gaza, intensifies raids on civilians",
-        "description": "Israel's year-long war on Gaza has killed at least 42,438 Palestinians. Separately, Tel Aviv attacks across Lebanon since October 2023 have killed at least 2,411 people and displaced another 1.2 million.",
+        "id": 18222381,
+        "title": "Moldovans vote in presidential election, EU membership referendum",
+        "description": "The presidential election and referendum are being held under the shadow of the ongoing struggle between the West and Russia over Moldova.",
         "body": [
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p><strong>Friday, October 18, 2024</strong></p>"
+            "value": "<p>The citizens of Moldova are heading to the polls for presidential election and a referendum on EU membership.</p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p><strong>1020 GMT — </strong>The Israeli military said it sent another army unit to support its forces operating in Jabalia, the largest of Gaza's eight historic refugee camps, where residents said tanks blew up roads and houses as they thrust further into the enclave.</p><p>Residents of Jabalia in northern Gaza said Israeli tanks had reached the heart of the camp, using heavy air and ground fire, after pushing through suburbs and residential districts.</p><p>They added that the Israeli army was destroying dozens of houses on a daily basis, sometimes from the air and the ground and by placing bombs in buildings then detonating them remotely. </p><p></p><p></p><p></p><p>Residents said Israeli forces had isolated the far northern Gazan towns of Beit Hanoun, Jabalia, and Beit Lahiya from Gaza City. </p><p>Health officials appealed for fuel, medical supplies and food to be sent immediately to three northern Gaza hospitals overwhelmed by the number of patients and injuries. </p>"
+            "value": "<p>Voting begins at 0400 GMT local time on Sunday and will end at 1600GMT.</p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p><em><strong>More updates</strong> 👇</em> </p>"
+            "value": "<p>The process is being monitored by more than 1,100 local and 280 foreign observers.</p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p><strong>1050 GMT — Jordan denies Israeli reports of its soldiers crossing border</strong></p><p>Jordan's military dismissed Israeli media reports alleging that military personnel from the kingdom had crossed its western borders into Israel.</p><p>In an official statement, the Jordanian army urged the public to “rely on official sources for accurate information and to avoid spreading rumours and misinformation.”</p><p>Earlier, two Israeli soldiers were reported injured in a shooting incident by armed individuals who allegedly infiltrated from Jordan near the southern Dead Sea region.</p><p>The Israeli army announced that two of the infiltrators were \"neutralised\" and that a potential third suspect might be at large. </p><p>According to the Israeli Public Broadcasting Corporation, the armed individuals reportedly crossed the border on foot, dressed in military uniforms. </p>"
+            "value": "<p>The presidential election and referendum are being held under the shadow of the ongoing struggle between the West and Russia over Moldova.</p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p><strong>1030 GMT — Belgium opens war crimes probe into soldier fighting for Israel in Gaza</strong></p><p>Belgian authorities said they have launched an investigation into possible war crimes committed by a Belgian-Israeli soldier fighting for Israel in Gaza.</p><p>The federal prosecutor's office said the probe focuses on a Belgian member of an elite unit of the Israeli military comprising several other dual passport holders.</p><p>\"We have opened a file on possible war crimes,\" a spokesperson for the prosecutor's office told AFP.</p><p>The suspect, who has not been named, is said to be a man in his 20s from Brussels' upmarket suburb of Uccle.</p>"
+            "value": "<p>The people of Moldova, which has become a battleground between the West and Russia since it declared independence, are making choices about integration with Europe and rapprochement with Russia.</p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p><strong>1002 GMT — China calls for Gaza ceasefire after death of Hamas leader </strong></p><p>China reiterated the call for an “immediate” ceasefire in Gaza, a day after Israel claimed the death of Yahya Sinwar, the leader of the Palestinian resistance group Hamas.</p><p>“The pressing priority is to immediately reach a ceasefire in Gaza, protect civilians, ensure humanitarian aid and avoid further escalation of the conflict and confrontation,” Foreign Ministry spokeswoman Mao Ning told reporters in Beijing.</p><p>Mao was reacting to claims made by Israel that Hamas political bureau chief Sinwar was killed in Gaza on Wednesday, Chinese state media reported.</p>"
+            "value": "<p>Before the election, Chisinau accused Moscow of attempting to destabilise the country by providing education in Russia to Moldovan citizens and trying to hinder rapprochement with the EU.</p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p><strong>0942 GMT — Kremlin concerned about 'human catastrophe' in Gaza, Lebanon after Sinwar killing</strong></p><p>The Kremlin said it was more concerned about the \"humanitarian catastrophe\" in Gaza and Lebanon, when asked about Israel's killing of Hamas chief Yahya Sinwar.</p><p>\"For us, the main thing is the consequences for civilians that we are seeing... The humanitarian catastrophe that is observed both in Gaza and in Lebanon is the subject of our serious concern,\" Kremlin spokesman Dmitry Peskov said.</p>"
-          },
-          {
-            "blockType": "twitter",
-            "metadata": {
-              "url": "https://x.com/TRTWorldNow/status/1847226115544260706"
-            },
-            "value": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">The size and scope of Israel&#39;s military attacks are expanding quickly in Lebanon as Israel says it&#39;s attacking civilians, entire villages, and even government buildings.⁩ <a href=\"https://t.co/jHMC0gAL9l\">pic.twitter.com/jHMC0gAL9l</a></p>&mdash; TRT World Now (@TRTWorldNow) <a href=\"https://twitter.com/TRTWorldNow/status/1847226115544260706?ref_src=twsrc%5Etfw\">October 18, 2024</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+            "value": "<p>Russia, on the other hand, claimed that Moldova had taken \"unfriendly\" steps against it and was blocking the use of the Russian language. Moscow urged Chisinau to remain neutral, as required by the Constitution.</p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p><strong>0735 GMT — Hezbollah launches missile attack on northern Israel</strong></p><p>Hezbollah claimed responsibility for a major missile barrage targeting the Zevulun settlement near Haifa in northern Israel. </p><p>According to Hezbollah, the strike involved a “large salvo of missiles” launched from Lebanon.</p><p>The Israeli army also reported that 15 rockets were fired from the Lebanese territory into the Galilee region of northern Israel. </p><p>The extent of the damage and casualties remains unclear.</p><p>Separately, the Lebanese National News Agency reported that the Israeli army bombed the Old Mosque in the Majdal Selm town in the Tyre district in southern Lebanon.</p>"
+            "value": "<p>The Russian-backed \"Victory\" group is opposing the current government.</p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p><strong>0723 GMT — Almost everyone in Gaza going hungry — WHO</strong></p><p>The World Health Organization (WHO) chief said that almost everyone in Gaza is going hungry, calling this situation \"inhumane.\"</p><p>\"@WHO calls for immediate access for all humanitarian aid, starting with food and medicine for severely malnourished children, who need to be treated urgently,\" Tedros Adhanom Ghebreyesus wrote on X.</p><p>WHO continues to call for a cease-fire as \"best medicine is peace,\" he said.</p>"
+            "value": "<p>Voters will be asked: “Are you for the accession of the Republic of Moldova to the European Union?”</p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p><strong>0725 GMT — Italian defence chief calls for strengthening UN peacekeepers in Lebanon</strong></p><p>Italy’s defence minister raised concerns over Israeli strikes against the UN peacekeeping mission in Lebanon, UNIFIL, calling for a bolstering of the UN forces in the country with updated rules of engagement.</p><p>“UNIFIL must be strengthened, and Lebanese forces made more credible … New rules of engagement are needed,” Italian news agency ANSA quoted Defense Minister Guido Crosetto as telling the Senate on Thursday. </p><p>Crosetto stressed that Israel should play a role in strengthening the UN peacekeepers, which need real deterrence capability to prevent the use of force. </p>"
+            "value": "<p>The outcome of the referendum will determine if EU accession becomes a constitutional goal.</p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p><strong>0655 GMT — South Africa still considering cutting ties with Israel: Ramaphosa</strong></p><p>South Africa is still considering cutting diplomatic ties with Israel, President Cyril Ramaphosa said.</p><p>Ramaphosa, however, stressed South Africa’s support for the Palestinian cause was “irrevocable.”</p><p>“This matter (cutting ties with Israel) is being considered in a very active manner and in due course will be able to articulate precisely what the executive’s response is to the resolution that was taken by the National Assembly,” Ramaphosa told lawmakers.</p><p>The South African president was asked about a non-binding resolution passed by the parliament last November urging the government to cut ties with Tel Aviv in the wake of the Israeli war on the besieged Palestinian enclave of Gaza. </p>"
+            "value": "<p>In the referendum, 12 parties are supporting the \"YES\" option, while two are backing the \"NO\" option. A \"YES\" vote will amend the Constitution.</p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p><strong>0044 GMT — ‘By chance, during routine sweep’: Israeli media reveals circumstances of Sinwar's killing</strong></p><p>Israeli media revealed that the Israeli army killed Yahya Sinwar, the political leader of Hamas, “by chance” and during “routine sweeps,” without relying on intelligence information.</p><p>Reports indicated that Sinwar, Israel's top target, was killed during a field confrontation, where he was dressed in full military uniform, contradicting previous Israeli claims that he had been hiding among Israeli prisoners in tunnels for months in tunnels in the Gaza Strip.</p><p>Earlier Thursday, the army said, in cooperation with the Shin Bet security agency, it carried out dozens of operations in recent months, which restricted Sinwar's movements and eventually led to his death. </p>"
+            "value": "<p>Turnout must exceed 33 percent for the referendum to be considered valid.</p>"
           },
           {
-            "blockType": "twitter",
-            "metadata": {
-              "url": "https://x.com/TRTWorldNow/status/1847185858669302061"
-            },
-            "value": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Ashraf Shannon reports from Khan Younis on how Hamas leader Sinwar is remembered in Gaza <a href=\"https://t.co/YKeoQwZMcS\">pic.twitter.com/YKeoQwZMcS</a></p>&mdash; TRT World Now (@TRTWorldNow) <a href=\"https://twitter.com/TRTWorldNow/status/1847185858669302061?ref_src=twsrc%5Etfw\">October 18, 2024</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p><strong>2210 GMT — US 'not directly involved' in Sinwar's killing, Pentagon says</strong> </p><p>The US forces were \"not directly involved\" in Israel's killing of Hamas leader Yahya Sinwar, the Pentagon said. </p><p>\"This was an Israeli operation. US forces were not directly involved,\" Press Secretary Air Force Major General Pat Ryder told reporters. </p>"
-          },
-          {
-            "id": 18221509,
+            "id": 18183167,
             "type": "article",
-            "title": "Yahya Sinwar: A refugee, novelist, strategist, and fighter",
-            "description": "Seen as the brainchild behind the October 7 attack, the Hamas political leader has fought against Israeli occupation and aggression from his teenage years.",
-            "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21054310_0-355-6867-3867.jpeg",
-            "overlayImageUrl": "https://images-cdn.trtworld.com/trtworld/f_article_5263c53ecf7a1b42d78332561cbeb117.jpeg",
+            "title": "Why tiny Moldova’s presidential elections are important for Russia, West?",
+            "description": "The Eastern European nation is getting closer to entering the EU after prolonged negotiations, but not all Moldavians are on the same page.",
+            "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/20356369_0-139-4430-2495.jpeg",
+            "overlayImageUrl": "https://images-cdn.trtworld.com/trtworld/f_article_ba9de181b31c77cd3b17933e71be8f14.jpeg",
             "thumbnailSquare": "",
             "categories": [
               {
@@ -594,18 +567,14 @@
               {
                 "contentId": 12683233,
                 "title": "Magazine"
-              },
-              {
-                "contentId": 12683241,
-                "title": "Middle East"
               }
             ],
             "metaTitle": "",
             "metaDescription": "",
             "showName": "",
             "showSlug": "",
-            "path": "/magazine/yahya-sinwar-a-refugee-novelist-strategist-and-fighter-18221509",
-            "publishedDate": "2024-10-17T17:02:52.764Z",
+            "path": "/magazine/why-tiny-moldovas-presidential-elections-are-important-for-russia-west-18183167",
+            "publishedDate": "2024-07-12T14:35:15.518Z",
             "authors": [
               {
                 "userName": "muratsofuoglu",
@@ -625,30 +594,284 @@
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p><strong>0258 GMT — US reiterates call for Israel's full withdrawal from Gaza after war ends </strong></p><p>The US \"ultimately\" wants to see Israel fully withdrawn from besieged Gaza, the State Department reiterated. </p><p>That was after remarks by Israeli opposition leader Benny Gantz, who suggested the Israeli military would remain active in Gaza for years. </p><p>\"We ultimately want to see Israel fully withdrawn from Gaza,\" State Department spokesman Matthew Miller said when asked by Anadolu about Gantz's comment. </p>"
+            "value": "<p><strong>Irreversible goal</strong> </p><p>Meanwhile, voters are also electing a president for a four-year term, following economic hardships caused by the Russia-Ukraine War and issues with natural gas supplies.</p><p>A total of 11 candidates, six representing parties and five running independently, are vying for the presidency. </p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p><strong>2127 GMT — Hezbollah announces new, 'escalating' phase in war with Israel </strong></p><p>Lebanese Hezbollah has announced \"the transition to a new and escalating phase in the confrontation with Israel\". </p><p>In a statement, the group said Israel's military losses had totalled 55 dead and more than 500 wounded soldiers and officers since October 1. </p>"
+            "value": "<p>Pro-Western President Maja Sandu is seeking a second term and hopes to secure a \"YES\" vote in the referendum, which would enshrine Moldova's EU accession as an \"irreversible\" goal in the Constitution.</p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p><strong>2130 GMT —</strong> <strong>Biden, Harris react on Sinwar killing</strong> <br><br>US President Joe Biden has described Israel's killing of Hamas leader Yahya Sinwar as a significant step, saying it removed a key obstacle to a Gaza ceasefire and a hostage deal. </p><p>Vice President Kamala Harris, the Democratic presidential nominee in November's US election, added it was a chance to \"finally end the war in Gaza.\" <br><br><strong>2100 GMT — Israel's Netanyahu says Sinwar killing 'beginning of the end' of Gaza war</strong></p><p>Israeli Prime Minister Benjamin Netanyahu said late on Thursday that the killing of Hamas chief Yahya Sinwar was the \"beginning of the end\" of the war in Gaza.</p><p>In an English-language video statement released by his office, Netanyahu said, \"While this is not the end of the war in Gaza, it's the beginning of the end.\"</p>"
+            "value": "<p>According to data from the Moldovan Central Election Commission, voting is taking place in 36 regions and at embassies abroad for more than 3 million eligible voters, including those living overseas.</p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p><strong>2024 GMT — EU chief says Sinwar's death 'significantly' weakens Hamas </strong></p><p>The death of Hamas leader Yahya Sinwar \"significantly\" weakens Hamas, EU chief Ursula von der Leyen said. </p><p>\"(Sinwar's) death is certainly significantly weakening Hamas, \" von der Leyen told reporters in Brussels.</p>"
+            "value": "<p>Thirty ballot boxes have also been set up in settlements within the Moscow-leaning breakaway region of Transnistria, which has declared unilateral independence from Moldova.</p>"
           },
           {
-            "id": 18221439,
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>Around 2,000 Russian soldiers remain stationed in Transnistria.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>Under Moldovan electoral law, the presidential election is valid if at least one-third of voters participate, and a candidate is elected if more than half of the votes are cast in their favour. If no candidate receives more than 50 percent of the vote, a second round will be held.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>Since the collapse of the erstwhile Soviet Union, Moldova has fluctuated between pro-Western and pro-Russian influences, but during Sandu's tenure, the country has accelerated its push to distance itself from Moscow, especially amid the war in neighbouring Ukraine.</p>"
+          },
+          {
+            "blockType": "youtube",
+            "metadata": {
+              "url": "https://www.youtube.com/watch?v=2gcEl9oRRSA"
+            },
+            "value": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/2gcEl9oRRSA?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Moldova PM Says He Wants a Peaceful Solution for Transnistria\"></iframe>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p> </p>"
+          }
+        ],
+        "path": "/europe/moldovans-vote-in-presidential-election-eu-membership-referendum-18222381",
+        "type": "article",
+        "fields": {
+          "search_title": {
+            "text": ""
+          },
+          "search_description": {
+            "text": ""
+          },
+          "topic_slug": {
+            "text": "europe"
+          },
+          "mainImage": {
+            "type": "image",
+            "assetId": 21066486,
+            "key": "trtworld/21066486_0-31-5509-3102.jpeg",
+            "bucket": "port-prod-asset-public-image-v3",
+            "cdnUrl": "https://images-cdn.trtworld.com/trtworld/",
+            "fileName": "21066486_0-31-5509-3102.jpeg",
+            "url": "https://images-cdn.trtworld.com/trtworld/21066486_0-31-5509-3102.jpeg",
+            "title": "Voting begins at 7 am local time on Sunday and will end at 7 pm / Photo: Reuters",
+            "width": 5509,
+            "height": 3564,
+            "source": "Reuters"
+          },
+          "authors": [
+            {
+              "firstName": {
+                "text": "Rabiul"
+              },
+              "lastName": {
+                "text": "Islam"
+              },
+              "twitter": {
+                "text": ""
+              },
+              "bio": {
+                "text": ""
+              },
+              "path": "/author/rabiul-islam"
+            }
+          ],
+          "relatedStory": {
+            "id": 12709136,
             "type": "article",
-            "title": "Israel officially announces killing of Hamas leader Yahya Sinwar in Gaza",
-            "description": "Sinwar was a target by Israel, with Tel Aviv accusing him of masterminding the October 7 cross-border blitz.",
-            "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/3784227_0-400-4300-2421.jpeg",
-            "overlayImageUrl": "https://images-cdn.trtworld.com/trtworld/f_article_eac6475c9ed6fcd1151733b7f0015351.jpeg",
+            "title": "Turks mark 567th anniversary of conquering the 'Queen of Cities'",
+            "description": "On May 29, 1453, the ancient Roman city of Constantinople was conquered by the Ottoman Turks. Many historians consider the event – and this day –  as marking the end of the Middle Ages and the beginning of Europe's early modern period.",
+            "mainImageUrl": "https://cdn-i.pr.trt.com.tr/trtworld/0m_1564-trtworld-115005-145642.jpg",
+            "overlayImageUrl": "",
+            "thumbnailSquare": "",
+            "categories": [
+              {
+                "contentId": 12683233,
+                "title": "Magazine"
+              },
+              {
+                "contentId": 12682254,
+                "title": "Home Page"
+              }
+            ],
+            "metaTitle": "",
+            "metaDescription": "",
+            "showName": "",
+            "showSlug": "",
+            "path": "/magazine/turks-mark-567th-anniversary-of-conquering-the-queen-of-cities-12709136",
+            "publishedDate": "2020-05-29T15:06:00.000Z",
+            "authors": [
+              {
+                "mainImage": "https://images-cdn.trtworld.com/trtworld/20860616_0-0-414-414.jpeg",
+                "userName": "emreiren",
+                "firstName": "Emre",
+                "lastName": "İren",
+                "path": "/author/emre-iren"
+              }
+            ],
+            "showAuthor": false,
+            "showByLine": false,
+            "showSparkbox": false
+          },
+          "sources": [
+            {
+              "key": "trtworld-and-agencies",
+              "value": "TRTWorld and agencies",
+              "metadata": {}
+            }
+          ],
+          "topics": [
+            {
+              "contentId": 12682254,
+              "title": "Home Page",
+              "slug": "home-page"
+            },
+            {
+              "contentId": 12682883,
+              "title": "Europe",
+              "slug": "europe"
+            }
+          ],
+          "team": {
+            "key": "news",
+            "value": "News",
+            "metadata": {}
+          },
+          "contentFormat": {
+            "key": "news",
+            "value": "News",
+            "metadata": {}
+          },
+          "country": {
+            "key": "mda",
+            "value": "Moldova ",
+            "metadata": {
+              "code": "MDA",
+              "region": "Europe",
+              "subregion": "Eastern Europe"
+            }
+          },
+          "tags": [
+            {
+              "key": "europe",
+              "value": "europe",
+              "metadata": {}
+            },
+            {
+              "key": "moldova",
+              "value": "Moldova",
+              "metadata": {}
+            },
+            {
+              "key": "russia",
+              "value": "Russia",
+              "metadata": {}
+            },
+            {
+              "key": "eu",
+              "value": "EU",
+              "metadata": {}
+            },
+            {
+              "key": "election",
+              "value": "Election",
+              "metadata": {}
+            }
+          ],
+          "overlayImage": {
+            "type": "image",
+            "key": "trtworld/f_article_f66648051932f882d6079373abab976b.jpeg",
+            "bucket": "port-prod-asset-public-image-v3",
+            "cdnUrl": "https://images-cdn.trtworld.com/trtworld/",
+            "fileName": "f_article_f66648051932f882d6079373abab976b.jpeg",
+            "url": "https://images-cdn.trtworld.com/trtworld/f_article_f66648051932f882d6079373abab976b.jpeg",
+            "width": 5509,
+            "height": 3564
+          }
+        },
+        "metadata": {
+          "show_sparkbox": "true"
+        },
+        "site": "trtworld",
+        "viewCount": 0,
+        "published": {
+          "date": "2024-10-20T06:45:20.557Z"
+        },
+        "paths": [
+          "/europe/moldovans-vote-in-presidential-election-eu-membership-referendum-18222381"
+        ]
+      }
+    },
+    {
+      "id": 18222373,
+      "type": "article",
+      "title": "Prabowo Subianto sworn in as Indonesia's eighth president",
+      "description": "Prabowo won the February 14 election with nearly 60 percent of the vote.",
+      "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21065874_0-187-5500-3100.jpeg",
+      "overlayImageUrl": "",
+      "thumbnailSquare": "",
+      "categories": [
+        {
+          "contentId": 12682254,
+          "title": "Home Page"
+        },
+        {
+          "contentId": 12682879,
+          "title": "Asia"
+        }
+      ],
+      "metaTitle": "",
+      "metaDescription": "",
+      "showName": "",
+      "showSlug": "",
+      "path": "/asia/prabowo-subianto-sworn-in-as-indonesias-eighth-president-18222373",
+      "publishedDate": "2024-10-20T04:11:11.170Z",
+      "authors": [],
+      "showAuthor": false,
+      "showByLine": false,
+      "showSparkbox": false,
+      "content": {
+        "id": 18222373,
+        "title": "Prabowo Subianto sworn in as Indonesia's eighth president",
+        "description": "Prabowo won the February 14 election with nearly 60 percent of the vote.",
+        "body": [
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>Prabowo Subianto on Sunday took over as president of Indonesia after sweeping the country's election with policies like free meals for school children and with the outgoing leader's son as his running mate. </p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>The 73-year-old former special forces commander won the February 14 contest with nearly 60 percent of the vote and has spent the past nine months building a formidable parliamentary coalition. </p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>Prabowo, wearing a traditional black hat and navy suit with a woven maroon and golden sarong, officially become Indonesia's eighth president on Sunday morning after he was sworn in during a ceremony at Indonesia's parliament.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>Prabowo, who unsuccessfully ran for the presidency twice before, is expected to give a speech to lawmakers at the parliament's upper house and then head to the presidential palace.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>He was joined in the swearing-in ceremony by his running mate, Gibran Rakabuming Raka, 37, the eldest son of outgoing President Joko \"Jokowi\" Widodo. </p>"
+          },
+          {
+            "id": 18222325,
+            "type": "article",
+            "title": "What can Indonesia expect as Prabowo Subianto becomes president?",
+            "description": "Prabowo, 73, has secured 59 percent of the vote, positioning him for Indonesia's top job. Joining him will be outgoing President Jokowi's 37-year-old son, Gibran Rakabuming Raka, who has won the vice presidency.",
+            "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21063129_0-0-4152-2338.jpeg",
+            "overlayImageUrl": "https://images-cdn.trtworld.com/trtworld/f_article_08e75ba6bcb7452d9e90899d5a60b975.jpeg",
             "thumbnailSquare": "",
             "categories": [
               {
@@ -656,16 +879,16 @@
                 "title": "Home Page"
               },
               {
-                "contentId": 12683241,
-                "title": "Middle East"
+                "contentId": 12682879,
+                "title": "Asia"
               }
             ],
             "metaTitle": "",
             "metaDescription": "",
             "showName": "",
             "showSlug": "",
-            "path": "/middle-east/israel-officially-announces-killing-of-hamas-leader-yahya-sinwar-in-gaza-18221439",
-            "publishedDate": "2024-10-17T14:41:47.473Z",
+            "path": "/asia/what-can-indonesia-expect-as-prabowo-subianto-becomes-president-18222325",
+            "publishedDate": "2024-10-19T18:03:04.334Z",
             "authors": [
               {
                 "userName": "Staff.Reporter",
@@ -682,113 +905,371 @@
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p><strong>2101 GMT — Death toll from Israel aggression in Lebanon rises past 2,400 </strong></p><p>The death toll from Israel's ongoing onslaught on Lebanon since October 8, 2023, has surged to 2,412, the Lebanese Health Ministry said. </p><p>A ministry statement said that 45 people were killed and 179 others wounded in Israeli attacks over the last 24 hours, taking the number of wounded people to 11,267. </p>"
+            "value": "<p><strong>Strict security</strong></p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p><strong>2021 GMT — 2 killed, 15 wounded in Israeli air strikes on eastern Lebanon </strong></p><p>Two people were killed and 15 others wounded in Israeli air strikes targeting two towns in the Baalbek-Hermel province, eastern Lebanon, the Health Ministry said. </p><p>\"An Israeli air strike on the town of Yammoune in Baalbek-Hermel resulted in the deaths of two people and injuries to nine others,\" Lebanon's official news agency quoted a Health Ministry statement as saying. </p>"
+            "value": "<p>As they make their way to the palace they will be greeted by thousands of flag waving supporters already thronging Jakarta streets that are lined with posters of the incoming leader.</p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p><strong>2032 GMT — Qassam Brigades says it targeted Israeli troops, 2 military vehicles </strong></p><p>Hamas' military wing said that its fighters targeted Israeli troops and two Israeli military vehicles in northern Gaza. </p><p>In a statement, the Qassam Brigades said its fighters struck two Israeli armoured personnel carriers with Yassin 105 rockets in the Falouja area west of the Jabalia camp. </p><p>In a separate statement, the group said it targeted an Israeli infantry force with a TBG rocket, and then inflicted casualties among them with \"appropriate weapons.\" </p>"
+            "value": "<p>Flower boards set up outside the palace either congratulated Prabowo and Gibran or thanked Jokowi for his decade as president.</p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p><em><strong>For our live updates from Thursday, October 17, 2024, click <a href=\"https://www.trtworld.com/middle-east/live-blog-five-israeli-soldiers-dead-in-southern-lebanon-combat-army-18221085\">here</a>.</strong></em></p>"
+            "value": "<p>Prabowo and Gibran are expected to stop at seven stages along the way between parliament and the palace, Nusron Wahid, a Prabowo aide, told reporters on Friday.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>Indonesian police and military have put in place strict security measures, deploying at least 100,000 personnel across the city, including snipers and anti-riot units.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>Prabowo is expected to meet with foreign dignitaries, including about 20 heads of state, later on Sunday at the presidential palace, said Hasan Nasbi, the head of the presidential communications organisation. </p>"
+          },
+          {
+            "blockType": "youtube",
+            "metadata": {
+              "url": "https://youtu.be/KT9ZhAvk360"
+            },
+            "value": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/KT9ZhAvk360?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Indonesian govt pushes to start transitioning to new capital city\"></iframe>"
           }
         ],
-        "path": "/middle-east/live-blog-israel-sends-more-troops-to-gaza-intensifies-raids-on-civilians-18221558",
+        "path": "/asia/prabowo-subianto-sworn-in-as-indonesias-eighth-president-18222373",
         "type": "article",
         "fields": {
           "search_title": {
-            "text": "Live blog: US 'not directly involved' in Sinwar's killing, Pentagon says"
+            "text": "Prabowo Subianto sworn in as Indonesia's eighth president"
           },
           "search_description": {
-            "text": "Israel's year-long war on Gaza has killed at least 42,438 Palestinians. Separately, Tel Aviv attacks across Lebanon since October 2023 have killed at least 2,411 people and displaced another 1.2 million."
+            "text": "Prabowo won the February 14 election with nearly 60 percent of the vote."
           },
           "topic_slug": {
-            "text": "middle-east"
+            "text": "asia"
           },
           "mainImage": {
             "type": "image",
-            "assetId": 21056965,
-            "key": "trtworld/21056965_0-659-5593-3150.jpeg",
+            "assetId": 21065874,
+            "key": "trtworld/21065874_0-187-5500-3100.jpeg",
             "bucket": "port-prod-asset-public-image-v3",
             "cdnUrl": "https://images-cdn.trtworld.com/trtworld/",
-            "fileName": "21056965_0-659-5593-3150.jpeg",
-            "url": "https://images-cdn.trtworld.com/trtworld/21056965_0-659-5593-3150.jpeg",
-            "title": "At the Kamal Adwan Hospital, medics had to replace children in intensive care with more critical cases of adults badly wounded by Israeli air strikes on a school sheltering displaced Palestinians in Jabalia on Thursday, killing 28 people.  / Photo: AA",
-            "width": 5840,
-            "height": 4016,
-            "source": "AA"
+            "fileName": "21065874_0-187-5500-3100.jpeg",
+            "url": "https://images-cdn.trtworld.com/trtworld/21065874_0-187-5500-3100.jpeg",
+            "title": "Prabowo Subianto waves to journalists as he leaves his residence on the day of his inauguration, in Jakarta, October 20, 2024. / Photo: Reuters",
+            "width": 5500,
+            "height": 3667,
+            "source": "Reuters"
           },
           "authors": [
             {
               "firstName": {
-                "text": "Noureldein"
+                "text": "Staff"
               },
               "lastName": {
-                "text": "Ghanem"
+                "text": "Reporter"
               },
-              "mainImage": {
-                "bucket": "port-production-asset-public-image",
-                "fileName": "17164014_0-0-954-921.jpeg",
-                "assetId": 17164014,
-                "cdnUrl": "https://cdn-i.pr.trt.com.tr/trtworld/",
-                "width": 1042,
-                "source": "TRT World",
-                "type": "image",
-                "title": "Noureldein Ghanem",
-                "key": "trtworld/17164014_0-0-954-921.jpeg",
-                "url": "https://cdn-i.pr.trt.com.tr/trtworld/17164014_0-0-954-921.jpeg",
-                "height": 1212
+              "twitter": {
+                "text": ""
               },
               "bio": {
-                "text": "Noureldein Ghanem is an Assistant Producer at TRT World"
+                "text": ""
               },
-              "path": "/author/noureldein-ghanem-7782"
+              "path": "/author/staff-reporter"
             }
           ],
           "relatedStory": {
-            "id": 18221509,
+            "id": 12709125,
             "type": "article",
-            "title": "Yahya Sinwar: A refugee, novelist, strategist, and fighter",
-            "description": "Seen as the brainchild behind the October 7 attack, the Hamas political leader has fought against Israeli occupation and aggression from his teenage years.",
-            "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21054310_0-355-6867-3867.jpeg",
-            "overlayImageUrl": "https://images-cdn.trtworld.com/trtworld/f_article_5263c53ecf7a1b42d78332561cbeb117.jpeg",
+            "title": "Indonesia's Puncak drawing Afghanistan's Hazara minority as refuge",
+            "description": "Puncak seems like an unlikely place for Afghan Muslims to be spending Ramadan, but more than 3,000 refugees and asylum-seekers are estimated to live in this Indonesian mountain town.",
+            "mainImageUrl": "https://cdn-i.pr.trt.com.tr/trtworld/0m_7624-trtworld-372993-411540.jpg",
+            "overlayImageUrl": "",
             "thumbnailSquare": "",
             "categories": [
               {
+                "contentId": 12682879,
+                "title": "Asia"
+              },
+              {
                 "contentId": 12682254,
                 "title": "Home Page"
-              },
-              {
-                "contentId": 12683233,
-                "title": "Magazine"
-              },
-              {
-                "contentId": 12683241,
-                "title": "Middle East"
               }
             ],
             "metaTitle": "",
             "metaDescription": "",
             "showName": "",
             "showSlug": "",
-            "path": "/magazine/yahya-sinwar-a-refugee-novelist-strategist-and-fighter-18221509",
-            "publishedDate": "2024-10-17T17:02:52.764Z",
+            "path": "/asia/indonesias-puncak-drawing-afghanistans-hazara-minority-as-refuge-12709125",
+            "publishedDate": "2017-06-06T00:00:00.000Z",
             "authors": [
               {
-                "userName": "muratsofuoglu",
-                "firstName": "Murat",
-                "lastName": "Sofuoglu",
-                "bio": "Murat Sofuoglu is a staff writer at TRT World.",
-                "twitter": "@Readingavenue",
-                "mainImage": "https://cdn-i.pr.trt.com.tr/trtworld/0u_8.jpg",
-                "path": "/author/murat-sofuoglu"
+                "mainImage": "https://images-cdn.trtworld.com/trtworld/20860616_0-0-414-414.jpeg",
+                "userName": "emreiren",
+                "firstName": "Emre",
+                "lastName": "İren",
+                "path": "/author/emre-iren"
+              }
+            ],
+            "showAuthor": false,
+            "showByLine": false,
+            "showSparkbox": false
+          },
+          "sources": [
+            {
+              "key": "reuters",
+              "value": "Reuters",
+              "metadata": {}
+            }
+          ],
+          "topics": [
+            {
+              "contentId": 12682254,
+              "title": "Home Page",
+              "slug": "home-page"
+            },
+            {
+              "contentId": 12682879,
+              "title": "Asia",
+              "slug": "asia"
+            }
+          ],
+          "team": {
+            "key": "news",
+            "value": "News",
+            "metadata": {}
+          },
+          "contentFormat": {
+            "key": "news",
+            "value": "News",
+            "metadata": {}
+          },
+          "country": {
+            "key": "idn",
+            "value": "Indonesia",
+            "metadata": {
+              "code": "IDN",
+              "region": "Asia",
+              "subregion": "South-Eastern Asia"
+            }
+          },
+          "tags": [
+            {
+              "key": "indonesia",
+              "value": "Indonesia",
+              "metadata": {}
+            },
+            {
+              "key": "prabowo-subianto",
+              "value": "prabowo subianto",
+              "metadata": {}
+            },
+            {
+              "key": "indonesia-election",
+              "value": "Indonesia-election",
+              "metadata": {}
+            },
+            {
+              "key": "indonesia-president",
+              "value": "indonesia president ",
+              "metadata": {}
+            }
+          ],
+          "overlayImage": {
+            "type": "image",
+            "key": "trtworld/f_article_d1c10c8b4025de583501a10c294bd88b.jpeg",
+            "bucket": "port-prod-asset-public-image-v3",
+            "cdnUrl": "https://images-cdn.trtworld.com/trtworld/",
+            "fileName": "f_article_d1c10c8b4025de583501a10c294bd88b.jpeg",
+            "url": "https://images-cdn.trtworld.com/trtworld/f_article_d1c10c8b4025de583501a10c294bd88b.jpeg",
+            "width": 5500,
+            "height": 3667
+          }
+        },
+        "metadata": {
+          "show_sparkbox": "true"
+        },
+        "site": "trtworld",
+        "viewCount": 0,
+        "published": {
+          "date": "2024-10-20T04:11:11.170Z"
+        },
+        "paths": [
+          "/asia/prabowo-subianto-sworn-in-as-indonesias-eighth-president-18222373"
+        ]
+      }
+    },
+    {
+      "id": 18222345,
+      "type": "article",
+      "title": "Live blog: Israeli strikes kill 73 Palestinians in Gaza's Beit Lahia",
+      "description": "Israel's war on Gaza, now in its 380th day, has killed at least 42,519 Palestinians and wounded nearly 100,000, with 10,000+ possibly buried under debris. Israel has also killed at least 2,448 people in Lebanon since October last year.",
+      "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21064273_0-76-2048-1153.jpeg",
+      "overlayImageUrl": "",
+      "thumbnailSquare": "",
+      "categories": [
+        {
+          "contentId": 12682254,
+          "title": "Home Page"
+        },
+        {
+          "contentId": 12683241,
+          "title": "Middle East"
+        }
+      ],
+      "metaTitle": "",
+      "metaDescription": "",
+      "showName": "",
+      "showSlug": "",
+      "path": "/middle-east/live-blog-israeli-strikes-kill-73-palestinians-in-gazas-beit-lahia-18222345",
+      "publishedDate": "2024-10-20T03:25:28.998Z",
+      "authors": [],
+      "showAuthor": false,
+      "showByLine": false,
+      "showSparkbox": false,
+      "content": {
+        "id": 18222345,
+        "title": "Live blog: Israeli strikes kill 73 Palestinians in Gaza's Beit Lahia",
+        "description": "Israel's war on Gaza, now in its 380th day, has killed at least 42,519 Palestinians and wounded nearly 100,000, with 10,000+ possibly buried under debris. Israel has also killed at least 2,448 people in Lebanon since October last year.",
+        "body": [
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p><strong>Sunday, October 20, 2024</strong></p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p><strong>2046 GMT —</strong> At least 73 people have been killed in an Israeli air strike on a residential block in Beit Lahia, a town in northern Gaza, according to Gaza Media Office.  </p><p>Many remain trapped under the rubble, and officials fear the death toll will rise. </p><p>The attack comes amid a communications blackout in the area, with northern Gaza enduring a 16-day Israeli military siege. The siege has left residents cut off from food, water, medicine and essential services.  </p><p>As rescue efforts continue, details of the attack are still emerging.</p>"
+          },
+          {
+            "blockType": "twitter",
+            "metadata": {
+              "url": "https://x.com/trtworld/status/1847794269710430270"
+            },
+            "value": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Leaked US intel reveals Israel&#39;s alleged plans for a potential strike on Iran, sparking fresh concerns over escalating tensions in the Middle East<br>🔗 <a href=\"https://t.co/S7ulwDbBdX\">https://t.co/S7ulwDbBdX</a> <a href=\"https://t.co/r21qTF1sZh\">pic.twitter.com/r21qTF1sZh</a></p>&mdash; TRT World (@trtworld) <a href=\"https://twitter.com/trtworld/status/1847794269710430270?ref_src=twsrc%5Etfw\">October 20, 2024</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p><em><strong>More updates </strong>👇</em></p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p><strong>2301 GMT —</strong> <strong>At least 7 killed in Israeli strikes across Lebanon</strong> </p><p>Israeli warplanes launched intense strikes on 24 towns in Lebanon that killed at least seven people, including a mayor and a paramedic, according to Lebanon's <em>National News Agency</em>. </p><p>At least 21 others were injured. </p><p>The strikes in southern Lebanon targeted the districts of Tyre and Jezzine, Nabatiyeh, Bint Jbeil, Marjayoun and Hasbaiyya. </p><p>In the east, air strikes targeted the Baalbek and western Bekaa. In central Lebanon, they focused on the Aalay district in Mount Lebanon. </p><p>In the south, Israeli fighters targeted the towns of Deir Qanoon Ras al-Ain, Sarifa, Saliha, Zibqin, Marwhin, Bayt al-Sayyad, Jabal al-Botm, al-Rmadiyeh, Chamaa and al-Dahira in the Tyre district.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p><strong>2246 GMT — Israeli army says it intercepted drones launched from Syria, east</strong> </p><p>The Israeli army said it intercepted two drones — one launched from Syria and the other from the east. </p><p>The army said it \"intercepted a drone in the Golan Heights that was launched from Syria\". </p><p>In a separate statement, it said that \"the air force intercepted a drone heading toward the city of Eilat in the south before it crossed into Israeli territory.\" </p><p>It did not specify the source of the drone that approached from the east.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p><strong>2110 GMT — Netanyahu accuses 'Iranian proxies' for assassination attempt</strong></p><p>Israeli Prime Minister Benjamin Netanyahu accused \"Iranian proxies\" of attempting to assassinate him and his wife, following a drone attack on his private residence. </p><p>\"The agents of Iran who tried to assassinate me and my wife today made a bitter mistake,\" said Netanyahu, according to the <em>Times of Israel</em>. </p><p>The prime minister's office said the drone from Lebanon targeted Netanyahu's private home in Caesarea in northern Israel. It added that the premier and his family were not home at the time of the attack. </p><p>Israel has not immediately released details about damage from the attack, amid military and political censorship.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p><strong>2059 GMT — Lebanon's Hezbollah strikes military bases, soldier gatherings in northern Israel</strong> </p><p>Lebanese group Hezbollah said it had targeted groups of soldiers in northern Israel and military sites near the border between the two countries with rockets and artillery. </p><p>Hezbollah said in a series of statements on Telegram that it fired rocket barrages at 15 gatherings of Israeli soldiers in settlements of Shlomi, Malakiya, Avivim, Abirim, Ayta Ash-Shaab, Beit Hillel , al-Marj, Zar’it, al-Bassa and Kfar Kila. </p><p>The group further said that it targeted military bases in Nasher area, east of Haifa, settlements in the Karyot region, and the cities of Safed, Rosh Pinna and Kiryat Shmona.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p><strong>2020 GMT — Egyptian president urges immediate end to wars in Gaza, Lebanon</strong> </p><p>Egyptian President Abdel Fattah el Sisi on Saturday called for an immediate end to the fighting in Gaza and Lebanon, urging stronger efforts towards ceasefire and the exchange of hostages in Gaza. </p><p>His comments came in a meeting with a bipartisan delegation from the US House of Representatives, led by Congressman Tom Cole, chair of the Appropriations Committee, according to the Egyptian presidency. </p><p>The meeting focused on regional conditions, with Sisi addressing the US delegation on restoring peace and stability in the region while avoiding the expansion of the current conflicts into a broader war.</p>"
+          },
+          {
+            "blockType": "youtube",
+            "metadata": {
+              "url": "https://youtu.be/i7gCoRMBD4Y"
+            },
+            "value": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/i7gCoRMBD4Y?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Second phase of polio vaccination drive starts in southern Gaza\"></iframe>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p><em><strong>For our live updates from Saturday, October 19, 2024, click <a href=\"https://www.trtworld.com/content/article/live-blog-appalling-news-from-northern-gaza-atrocities-must-stop-un-18222110\">here.</a></strong></em></p>"
+          }
+        ],
+        "path": "/middle-east/live-blog-israeli-strikes-kill-73-palestinians-in-gazas-beit-lahia-18222345",
+        "type": "article",
+        "fields": {
+          "search_title": {
+            "text": "Live blog: Israeli strikes kill 73 Palestinians in Gaza's Beit Lahia"
+          },
+          "search_description": {
+            "text": "Israel's war on Gaza, now in its 380th day, has killed at least 42,519 Palestinians and wounded nearly 100,000, with 10,000+ possibly buried under debris. Israel has also killed at least 2,448 people in Lebanon since October last year."
+          },
+          "topic_slug": {
+            "text": "middle-east"
+          },
+          "mainImage": {
+            "type": "image",
+            "assetId": 21064273,
+            "key": "trtworld/21064273_0-76-2048-1153.jpeg",
+            "bucket": "port-prod-asset-public-image-v3",
+            "cdnUrl": "https://images-cdn.trtworld.com/trtworld/",
+            "fileName": "21064273_0-76-2048-1153.jpeg",
+            "url": "https://images-cdn.trtworld.com/trtworld/21064273_0-76-2048-1153.jpeg",
+            "title": "Israeli strikes led to widespread destruction in a residential block. / Photo: X/@swilkinsonbc",
+            "width": 2048,
+            "height": 1336,
+            "source": "Others"
+          },
+          "authors": [
+            {
+              "firstName": {
+                "text": "Staff"
+              },
+              "lastName": {
+                "text": "Reporter"
+              },
+              "twitter": {
+                "text": ""
+              },
+              "bio": {
+                "text": ""
+              },
+              "path": "/author/staff-reporter"
+            }
+          ],
+          "relatedStory": {
+            "id": 12709123,
+            "type": "article",
+            "title": "Return to the Motherland",
+            "description": "The Israeli occupation of Palestine manifests in several shapes, and often the exertion of dominance over Palestinians takes form through pyschological warfare. This short narrative takes a look at one Palestinian's trip to her homeland.",
+            "mainImageUrl": "https://cdn-i.pr.trt.com.tr/trtworld/0m_8478-trtworld-393300-432251.jpg",
+            "overlayImageUrl": "",
+            "thumbnailSquare": "",
+            "categories": [
+              {
+                "contentId": 12683235,
+                "title": "Opinion"
+              },
+              {
+                "contentId": 12682254,
+                "title": "Home Page"
+              }
+            ],
+            "metaTitle": "",
+            "metaDescription": "",
+            "showName": "",
+            "showSlug": "",
+            "path": "/opinion/return-to-the-motherland-12709123",
+            "publishedDate": "2017-07-04T00:00:00.000Z",
+            "authors": [
+              {
+                "userName": "nadine.sayegh",
+                "firstName": "Nadine",
+                "lastName": "Sayegh",
+                "bio": "Nadine Sayegh is a multidisciplinary writer and researcher covering the Arab world. She has covered topics including gender in the region, countering violent extremism, the Occupied Palestinian Territories, amongst other social and political issues.",
+                "mainImage": "https://cdn-i.pr.trt.com.tr/trtworld/0u_131.jpg",
+                "path": "/author/nadine-sayegh"
               }
             ],
             "showAuthor": false,
@@ -835,18 +1316,8 @@
           },
           "tags": [
             {
-              "key": "gaza",
-              "value": "Gaza",
-              "metadata": {}
-            },
-            {
               "key": "israel",
               "value": "Israel",
-              "metadata": {}
-            },
-            {
-              "key": "hamas",
-              "value": "Hamas",
               "metadata": {}
             },
             {
@@ -855,28 +1326,23 @@
               "metadata": {}
             },
             {
-              "key": "israels-war-on-gaza",
-              "value": "Israel's War On Gaza",
+              "key": "middle-east",
+              "value": "MIDDLE EAST",
               "metadata": {}
             },
             {
-              "key": "israeli-strikes",
-              "value": "Israeli Strikes",
+              "key": "middle-east-crisis",
+              "value": "Middle East Crisis",
               "metadata": {}
             },
             {
-              "key": "israeli-bombardment",
-              "value": "Israeli Bombardment",
+              "key": "gaza-war",
+              "value": "Gaza War",
               "metadata": {}
             },
             {
-              "key": "israel-palestine-conflict",
-              "value": "Israel Palestine Conflict",
-              "metadata": {}
-            },
-            {
-              "key": "besieged-gaza",
-              "value": "Besieged Gaza",
+              "key": "lebanon-war",
+              "value": "Lebanon War",
               "metadata": {}
             },
             {
@@ -885,140 +1351,40 @@
               "metadata": {}
             },
             {
-              "key": "biden",
-              "value": "Biden",
+              "key": "hamas",
+              "value": "Hamas",
               "metadata": {}
             },
             {
-              "key": "un",
-              "value": "UN",
+              "key": "hezbollah",
+              "value": "Hezbollah",
               "metadata": {}
             },
             {
-              "key": "unsc",
-              "value": "unsc",
+              "key": "israeli-strikes",
+              "value": "Israeli Strikes",
               "metadata": {}
             },
             {
-              "key": "unsc-vote",
-              "value": "Unsc Vote",
+              "key": "gaza-genocide",
+              "value": "Gaza Genocide",
               "metadata": {}
             },
             {
-              "key": "yemen",
-              "value": "Yemen",
-              "metadata": {}
-            },
-            {
-              "key": "houthis",
-              "value": "Houthis",
-              "metadata": {}
-            },
-            {
-              "key": "iran",
-              "value": "Iran",
-              "metadata": {}
-            },
-            {
-              "key": "syria",
-              "value": "Syria",
-              "metadata": {}
-            },
-            {
-              "key": "saudi-arabia",
-              "value": "Saudi Arabia",
-              "metadata": {}
-            },
-            {
-              "key": "hunger",
-              "value": "hunger",
-              "metadata": {}
-            },
-            {
-              "key": "starvation",
-              "value": "starvation",
-              "metadata": {}
-            },
-            {
-              "key": "raffah",
-              "value": " Raffah",
-              "metadata": {}
-            },
-            {
-              "key": "gaza-city",
-              "value": "Gaza City",
-              "metadata": {}
-            },
-            {
-              "key": "northern-gaza",
-              "value": "Northern Gaza",
-              "metadata": {}
-            },
-            {
-              "key": "southern-gaza",
-              "value": "Southern Gaza",
-              "metadata": {}
-            },
-            {
-              "key": "food-aid",
-              "value": "food aid",
-              "metadata": {}
-            },
-            {
-              "key": "military-funding",
-              "value": " Military Funding",
-              "metadata": {}
-            },
-            {
-              "key": "us",
-              "value": "US",
-              "metadata": {}
-            },
-            {
-              "key": "uk",
-              "value": "UK",
-              "metadata": {}
-            },
-            {
-              "key": "jordan",
-              "value": "Jordan",
-              "metadata": {}
-            },
-            {
-              "key": "egypt",
-              "value": "Egypt",
-              "metadata": {}
-            },
-            {
-              "key": "haniyeh",
-              "value": "Haniyeh",
-              "metadata": {}
-            },
-            {
-              "key": "gazas-children",
-              "value": "Gaza's Children",
-              "metadata": {}
-            },
-            {
-              "key": "gazas-women",
-              "value": " Gaza’s Women",
-              "metadata": {}
-            },
-            {
-              "key": "sinwar",
-              "value": "Sinwar",
+              "key": "united-nations",
+              "value": "United Nations",
               "metadata": {}
             }
           ],
           "overlayImage": {
             "type": "image",
-            "key": "trtworld/f_article_aae7bf6e3b71f9681bf7007b689431d0.jpeg",
+            "key": "trtworld/f_article_c5713732d8d15a96d75da80689c2ebfa.jpeg",
             "bucket": "port-prod-asset-public-image-v3",
             "cdnUrl": "https://images-cdn.trtworld.com/trtworld/",
-            "fileName": "f_article_aae7bf6e3b71f9681bf7007b689431d0.jpeg",
-            "url": "https://images-cdn.trtworld.com/trtworld/f_article_aae7bf6e3b71f9681bf7007b689431d0.jpeg",
-            "width": 5840,
-            "height": 4016
+            "fileName": "f_article_c5713732d8d15a96d75da80689c2ebfa.jpeg",
+            "url": "https://images-cdn.trtworld.com/trtworld/f_article_c5713732d8d15a96d75da80689c2ebfa.jpeg",
+            "width": 2048,
+            "height": 1336
           }
         },
         "metadata": {
@@ -1027,429 +1393,19 @@
         "site": "trtworld",
         "viewCount": 0,
         "published": {
-          "date": "2024-10-18T11:11:33.107Z"
+          "date": "2024-10-20T03:25:28.998Z"
         },
         "paths": [
-          "/middle-east/live-blog-us-not-directly-involved-in-sinwars-killing-pentagon-says-18221558",
-          "/middle-east/live-blog-almost-everyone-in-gaza-going-hungry-who-18221558",
-          "/middle-east/live-blog-israel-sends-more-troops-to-gaza-intensifies-raids-on-civilians-18221558"
+          "/middle-east/live-blog-israeli-strikes-kill-73-palestinians-in-gazas-beit-lahia-18222345"
         ]
       }
     },
     {
-      "id": 18221830,
+      "id": 18222372,
       "type": "article",
-      "title": "Water crisis threatens global food supply within 25 years, report warns",
-      "description": "The escalating water crisis, if left unchecked, could undermine not only food security but also global stability, putting millions of lives at risk, a new report suggests.",
-      "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21056775_0-227-5472-3081.jpeg",
-      "overlayImageUrl": "",
-      "thumbnailSquare": "",
-      "categories": [
-        {
-          "contentId": 12682254,
-          "title": "Home Page"
-        },
-        {
-          "contentId": 12683233,
-          "title": "Magazine"
-        },
-        {
-          "contentId": 12683253,
-          "title": "Climate"
-        }
-      ],
-      "metaTitle": "",
-      "metaDescription": "",
-      "showName": "",
-      "showSlug": "",
-      "path": "/magazine/water-crisis-threatens-global-food-supply-within-25-years-report-warns-18221830",
-      "publishedDate": "2024-10-18T10:40:18.126Z",
-      "authors": [],
-      "showAuthor": false,
-      "showByLine": false,
-      "showSparkbox": false,
-      "content": {
-        "id": 18221830,
-        "title": "Water crisis threatens global food supply within 25 years, report warns",
-        "description": "The escalating water crisis, if left unchecked, could undermine not only food security but also global stability, putting millions of lives at risk, a new report suggests.",
-        "body": [
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>A rapidly worsening global water crisis could destabilise food production systems, threatening more than half of the world’s food supply within 25 years, according to a new<a href=\"https://watercommission.org/\"> report</a>.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>The Global Commission on the Economics of Water highlights the strain on water resources driven by climate crisis, over-extraction, and pollution. The report warns that agriculture, highly dependent on diminishing freshwater supplies, faces severe disruption as water shortages escalate.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>The Commission calls for “radical changes” in how water is valued, managed, and used. “We must properly value water, recognizing its role as Earth’s most precious resource, including the importance of green water.”</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>The report emphasises the need for a holistic approach to water management, considering the full hydrological cycle and its impact on communities, economies, ecosystems, and food security. Properly valuing water is essential, as it serves many roles, including sustaining agriculture. </p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>The report warns that key agricultural regions responsible for feeding billions are particularly vulnerable to water shortages, which could severely disrupt food production. </p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>“To effectively tackle the water crises, we need to consider the full implications of the hydrological cycle, that has consequences for communities and economies around the world and all the earth’s ecosystems, affecting our collective ability to achieve local, national and global agendas in relation to dignified lives, food security, sustainable development, and more,” it added.</p>"
-          },
-          {
-            "id": 13452694,
-            "type": "article",
-            "title": "A decade of struggle: Gazans still denied access to clean water",
-            "description": "Decades of conflict and Israeli control have left Gazans grappling with acute water scarcity, with 90-95% of the water supply deemed unfit for human consumption.",
-            "mainImageUrl": "https://cdn-i.pr.trt.com.tr/trtworld/10715370_0-45-3692-2079.jpeg",
-            "overlayImageUrl": "",
-            "thumbnailSquare": "",
-            "categories": [
-              {
-                "contentId": 12682254,
-                "title": "Home Page"
-              },
-              {
-                "contentId": 12683241,
-                "title": "Middle East"
-              }
-            ],
-            "metaTitle": "",
-            "metaDescription": "",
-            "showName": "",
-            "showSlug": "",
-            "path": "/middle-east/a-decade-of-struggle-gazans-still-denied-access-to-clean-water-13452694",
-            "publishedDate": "2023-06-01T09:18:35.445Z",
-            "authors": [
-              {
-                "mainImage": "https://cdn-i.pr.trt.com.tr/trtworld/16408080_0-0-4095-2730.jpeg",
-                "userName": "Isra W. Almodallal  ",
-                "firstName": "Isra ",
-                "lastName": "W. Almodallal  ",
-                "bio": "Isra W. Almodallal is a deputy producer at TRT Arabi. ",
-                "path": "/author/isra-w-almodallal"
-              }
-            ],
-            "showAuthor": false,
-            "showByLine": false,
-            "showSparkbox": false,
-            "blockType": "content"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p><strong>Global demand for freshwater</strong></p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>The global<a href=\"https://www.un.org/en/climatechange/science/climate-issues/water\"> water crisis</a> is worsening, with rivers drying up, groundwater levels dropping, and unpredictable weather patterns threatening access to clean water.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>The Global Commission on the Economics of Water predicts that the situation will deteriorate further in the coming decades, posing a serious threat to the global food supply.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>By the end of the decade, the report reveals, global demand for freshwater is expected to outstrip supply by 40%, putting unprecedented pressure on water systems. </p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>The commission also points out that governments and experts have drastically underestimated the amount of water needed to support human life. </p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>While 50 to 100 litres per person per day may suffice for basic health and hygiene, about 4,000 litres per day are required when factoring in the water needed for food production and a dignified living.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>In many regions, local resources cannot meet this enormous demand, forcing dependence on trade—in food, clothing, and consumer goods—to meet water needs. </p>"
-          },
-          {
-            "id": 12798555,
-            "type": "article",
-            "title": "World Water Day: Global water scarcity to double by 2050 – UNESCO",
-            "description": "As a result of climate crisis, seasonal water scarcity will increase in regions where it is currently abundant and worsen in regions where water is already in short supply, says World Water Development Report 2023.",
-            "mainImageUrl": "https://cdn-i.pr.trt.com.tr/trtworld/0m_152408_UN7417670_1679498339251.jpeg",
-            "overlayImageUrl": "",
-            "thumbnailSquare": "",
-            "categories": [
-              {
-                "contentId": 12683233,
-                "title": "Magazine"
-              },
-              {
-                "contentId": 12682254,
-                "title": "Home Page"
-              }
-            ],
-            "metaTitle": "",
-            "metaDescription": "",
-            "showName": "",
-            "showSlug": "",
-            "path": "/magazine/world-water-day-global-water-scarcity-to-double-by-2050-unesco-12798555",
-            "publishedDate": "2023-03-22T16:07:43.000Z",
-            "authors": [
-              {
-                "userName": "melisalemdar",
-                "firstName": "Melis",
-                "lastName": "Alemdar",
-                "bio": "Melis Alemdar is a staff writer at TRT World.",
-                "twitter": "melis_alemdar_",
-                "mainImage": "https://cdn-i.pr.trt.com.tr/trtworld/0u_42.jpg",
-                "path": "/author/melis-alemdar"
-              }
-            ],
-            "showAuthor": false,
-            "showByLine": false,
-            "showSparkbox": false,
-            "blockType": "content"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p><strong>Most vulnerable regions</strong></p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>Several regions critical to global food production, including parts of South Asia, Africa, and the Middle East, are among the<a href=\"https://www.wri.org/insights/highest-water-stressed-countries\"> hardest hit</a> by water shortages. </p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>These areas are major producers of staple crops such as wheat, rice, and maize, which millions of people depend on for sustenance. Without proper water management and intervention, the report suggests, these regions could face catastrophic declines in agricultural output.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>“The global crisis of water hurts the most vulnerable first, and hardest. More than 1,000 “The global crisis of water hurts the most vulnerable first, and hardest. More than 1,000 children under five die every day from unsafe water and lack of sanitation. Yet no community or economy will be spared the consequences of a water cycle that is out of kilter - itself the result of our collective actions over decades,” warns the report.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>“Most dangerously, we will fail on climate change if we fail on water… We are convinced that the world can turn the tide on this crisis. But only if we acknowledge why existing approaches have failed, embrace a fresh policy lens, and move with the boldness and urgency that the crisis demands,” says the report.</p>"
-          },
-          {
-            "blockType": "youtube",
-            "metadata": {
-              "url": "https://youtu.be/Qt4eZ2BEXes?si=1PfTRS5SwKzavY-I"
-            },
-            "value": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/Qt4eZ2BEXes?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"UN: Water scarcity has killed people over 11 million since 1900\"></iframe>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p><strong>Catastrophic consequences</strong></p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>As food production faces increasing risk, the economic and social implications could be severe. With less food available, prices could skyrocket, leading to inflation and increased hunger, particularly in already vulnerable regions. </p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>The crisis also threatens to disrupt global trade, putting additional pressure on economies dependent on agricultural exports.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>The report calls for immediate, coordinated action to address the water crisis, recommending a series of solutions aimed at improving water efficiency in agriculture. </p>"
-          }
-        ],
-        "path": "/magazine/water-crisis-threatens-global-food-supply-within-25-years-report-warns-18221830",
-        "type": "article",
-        "fields": {
-          "search_title": {
-            "text": ""
-          },
-          "search_description": {
-            "text": ""
-          },
-          "topic_slug": {
-            "text": "magazine"
-          },
-          "mainImage": {
-            "type": "image",
-            "assetId": 21056775,
-            "key": "trtworld/21056775_0-227-5472-3081.jpeg",
-            "bucket": "port-prod-asset-public-image-v3",
-            "cdnUrl": "https://images-cdn.trtworld.com/trtworld/",
-            "fileName": "21056775_0-227-5472-3081.jpeg",
-            "url": "https://images-cdn.trtworld.com/trtworld/21056775_0-227-5472-3081.jpeg",
-            "title": "The report warns that key agricultural regions responsible for feeding billions are particularly vulnerable to water shortages, which could severely disrupt food production. / Photo: Reuters",
-            "width": 5472,
-            "height": 3648,
-            "source": "Reuters"
-          },
-          "authors": [
-            {
-              "firstName": {
-                "text": "Zeynep "
-              },
-              "lastName": {
-                "text": "Conkar"
-              },
-              "mainImage": {
-                "bucket": "port-production-asset-public-image",
-                "fileName": "16773435_0-0-2320-3088.jpeg",
-                "assetId": 16773435,
-                "cdnUrl": "https://cdn-i.pr.trt.com.tr/trtworld/",
-                "width": 2320,
-                "source": "Others",
-                "type": "image",
-                "title": "Zeynep Conkar is an associate producer at TRT World.",
-                "key": "trtworld/16773435_0-0-2320-3088.jpeg",
-                "url": "https://cdn-i.pr.trt.com.tr/trtworld/16773435_0-0-2320-3088.jpeg",
-                "height": 3088
-              },
-              "twitter": {
-                "text": "@zeyneepconkar"
-              },
-              "bio": {
-                "text": "Zeynep Conkar is a deputy producer at TRT World."
-              },
-              "path": "/author/zeynep-conkar"
-            }
-          ],
-          "relatedStory": {
-            "id": 18165245,
-            "type": "article",
-            "title": "Rich nations reaping profits on climate loans to poor countries: report",
-            "description": "According to a report, wealthy countries sent climate funding to the developing world in recent years with interest rates or strings attached that benefited the lending nations.",
-            "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/19908496_0-243-4768-2685.jpeg",
-            "overlayImageUrl": "https://images-cdn.trtworld.com/trtworld/f_article_1c334b8fba9f285c44eca914e4aceb6d.jpeg",
-            "thumbnailSquare": "",
-            "categories": [
-              {
-                "contentId": 12682254,
-                "title": "Home Page"
-              },
-              {
-                "contentId": 12683253,
-                "title": "Climate"
-              },
-              {
-                "contentId": 12683237,
-                "title": "Business"
-              }
-            ],
-            "metaTitle": "",
-            "metaDescription": "",
-            "showName": "",
-            "showSlug": "",
-            "path": "/climate/rich-nations-reaping-profits-on-climate-loans-to-poor-countries-report-18165245",
-            "publishedDate": "2024-05-22T14:00:55.047Z",
-            "authors": [
-              {
-                "userName": "Staff.Reporter",
-                "firstName": "Staff",
-                "lastName": "Reporter",
-                "path": "/author/staff-reporter"
-              }
-            ],
-            "showAuthor": false,
-            "showByLine": false,
-            "showSparkbox": false
-          },
-          "sources": [
-            {
-              "key": "trt-world",
-              "value": "TRT World",
-              "metadata": {}
-            }
-          ],
-          "topics": [
-            {
-              "contentId": 12682254,
-              "title": "Home Page",
-              "slug": "home-page"
-            },
-            {
-              "contentId": 12683233,
-              "title": "Magazine",
-              "slug": "magazine"
-            },
-            {
-              "contentId": 12683253,
-              "title": "Climate",
-              "slug": "climate"
-            }
-          ],
-          "team": {
-            "key": "features-and-opinion",
-            "value": "Features & Opinion",
-            "metadata": {}
-          },
-          "contentFormat": {
-            "key": "curation",
-            "value": "Curation",
-            "metadata": {}
-          },
-          "country": {
-            "key": "glo",
-            "value": "Global",
-            "metadata": {
-              "code": "GLO",
-              "region": "World",
-              "subregion": "World"
-            }
-          },
-          "tags": [
-            {
-              "key": "climate",
-              "value": "climate",
-              "metadata": {}
-            },
-            {
-              "key": "water-crisis",
-              "value": "Water Crisis",
-              "metadata": {}
-            }
-          ],
-          "overlayImage": {
-            "type": "image",
-            "key": "trtworld/f_article_28ca7b93d2c2054ffd8c6f233b880ce2.jpeg",
-            "bucket": "port-prod-asset-public-image-v3",
-            "cdnUrl": "https://images-cdn.trtworld.com/trtworld/",
-            "fileName": "f_article_28ca7b93d2c2054ffd8c6f233b880ce2.jpeg",
-            "url": "https://images-cdn.trtworld.com/trtworld/f_article_28ca7b93d2c2054ffd8c6f233b880ce2.jpeg",
-            "width": 5472,
-            "height": 3648
-          }
-        },
-        "metadata": {
-          "show_sparkbox": "true"
-        },
-        "site": "trtworld",
-        "viewCount": 0,
-        "published": {
-          "date": "2024-10-18T10:40:18.126Z"
-        },
-        "paths": [
-          "/magazine/water-crisis-threatens-global-food-supply-within-25-years-report-warns-18221830"
-        ]
-      }
-    },
-    {
-      "id": 18221792,
-      "type": "article",
-      "title": "Chinese, Indian leaders to attend BRICS summit in Russia next week",
-      "description": "Amid growing criticism over the war in Ukraine, Russian President Putin has framed the summit as a key opportunity to bolster BRICS' role as a counterbalance to Western influence on the global stage.",
-      "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21056609_733-63-2478-1395.jpeg",
+      "title": "US-led sanctions monitoring team unlawful: North Korea",
+      "description": "Tensions on the Korean peninsula have intensified in recent years.",
+      "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21065695_0-375-5246-2954.jpeg",
       "overlayImageUrl": "",
       "thumbnailSquare": "",
       "categories": [
@@ -1466,54 +1422,59 @@
       "metaDescription": "",
       "showName": "",
       "showSlug": "",
-      "path": "/asia/chinese-indian-leaders-to-attend-brics-summit-in-russia-next-week-18221792",
-      "publishedDate": "2024-10-18T10:36:12.291Z",
+      "path": "/asia/us-led-sanctions-monitoring-team-unlawful-north-korea-18222372",
+      "publishedDate": "2024-10-20T03:17:29.634Z",
       "authors": [],
       "showAuthor": false,
       "showByLine": false,
       "showSparkbox": false,
       "content": {
-        "id": 18221792,
-        "title": "Chinese, Indian leaders to attend BRICS summit in Russia next week",
-        "description": "Amid growing criticism over the war in Ukraine, Russian President Putin has framed the summit as a key opportunity to bolster BRICS' role as a counterbalance to Western influence on the global stage.",
+        "id": 18222372,
+        "title": "US-led sanctions monitoring team unlawful: North Korea",
+        "description": "Tensions on the Korean peninsula have intensified in recent years.",
         "body": [
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p>Chinese President Xi Jinping and Indian Prime Minister Narendra Modi will attend the 16th BRICS Summit in Kazan, Russia, held from October 22 to 24, their foreign ministries announced on Friday. Both leaders will participate in the summit at the invitation of Russian President Vladimir Putin. </p>"
+            "value": "<p>North Korea's foreign minister said a new multilateral sanctions monitoring team led by the United States was \"utterly unlawful and illegitimate\", state media reported on Sunday.</p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p>During the summit, Xi will engage in the leaders' meeting, expert dialogues, and other scheduled events, where he will hold in-depth discussions with fellow leaders on the current global landscape, Chinese Foreign Ministry spokesperson Mao Ning said during a regular press briefing.   </p>"
+            "value": "<p>The United States, South Korea and Japan on Wednesday announced the launch of a new multinational team to monitor the enforcement of sanctions against North Korea after Russia and China thwarted monitoring activities at the United Nations.</p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p>China is ready to work with all parties to promote BRICS cooperation, to usher in a new era of unity and self-reliance in the Global South, and jointly promote peace and development in the world, Mao said. </p>"
+            "value": "<p>The team was introduced after Russia in March rejected the annual renewal of a UN panel of experts that had over the past 15 years overseen the implementation of sanctions aimed at curbing North Korea's nuclear and missile programmes.</p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p>India's Ministry of External Affairs also confirmed Modi’s participation, stating that the summit focused on “strengthening multilateralism” will provide an important platform for leaders to discuss key global issues. </p>"
+            "value": "<p>China, North Korea's chief ally and economic lifeline, abstained from the vote.</p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p>The Indian leader will also hold bilateral meetings with his counterparts from BRICS member countries and other leaders in Kazan, Russia. </p><p>The 16th BRICS Summit is expected to provide an opportunity to review the progress of current BRICS initiatives and explore future areas of collaboration. </p><p>BRICS is an acronym for its founding members—Brazil, Russia, India, China and South Africa—representing a coalition of major emerging economies. </p>"
+            "value": "<p>Tensions on the Korean peninsula have intensified in recent years with North Korea stepping up its development of a series of ballistic missiles and a nuclear arsenal, drawing international sanctions, and forming a close military relations with Russia.</p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p>Russia has confirmed that, alongside leaders from the founding BRICS members, this year’s summit will also welcome top leaders from Egypt, Ethiopia, Iran, and the UAE, which joined the bloc during its first expansion this year, bringing the total membership to nine.</p><p>Saudi Arabia has been formally invited to join BRICS and will be represented at the Kazan summit by its foreign minister.  </p>"
+            "value": "<p>Washington has been strengthening its security cooperation with key regional allies South Korea and Japan.</p>"
           },
           {
-            "id": 18213395,
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>\"The forces involved in the smear campaign against the DPRK will have to pay a dear price for it,\" Foreign Minister Choe Son Hui said via state news agency KCNA, using the country's official name.</p>"
+          },
+          {
+            "id": 18220588,
             "type": "article",
-            "title": "Why is Türkiye interested in joining the BRICS?",
-            "description": "Türkiye’s aim to solidify its role on the world stage is driven by pragmatism and strategic foresight in forging crucial alliances.",
-            "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/20969488_0-276-3600-2027.jpeg",
-            "overlayImageUrl": "https://images-cdn.trtworld.com/trtworld/f_article_ed1e2ae5ce3dd3ed8921a1eae41e00ad.jpeg",
+            "title": "North Korea: Over a million join army amid drone tensions",
+            "description": "The enlistment surge followed Pyongyang's accusation that Seoul's military had violated its sovereignty, leading to escalated tensions between the two countries.",
+            "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21048693_0-160-5314-2992.jpeg",
+            "overlayImageUrl": "https://images-cdn.trtworld.com/trtworld/f_article_f2380ffecc77181722d5be8897e7c1a6.jpeg",
             "thumbnailSquare": "",
             "categories": [
               {
@@ -1521,24 +1482,22 @@
                 "title": "Home Page"
               },
               {
-                "contentId": 12683239,
-                "title": "Turkiye"
+                "contentId": 12682879,
+                "title": "Asia"
               }
             ],
             "metaTitle": "",
             "metaDescription": "",
             "showName": "",
             "showSlug": "",
-            "path": "/turkiye/why-is-turkiye-interested-in-joining-the-brics-18213395",
-            "publishedDate": "2024-09-27T12:20:42.716Z",
+            "path": "/asia/north-korea-over-a-million-join-army-amid-drone-tensions-18220588",
+            "publishedDate": "2024-10-16T08:13:48.200Z",
             "authors": [
               {
-                "mainImage": "https://images-cdn.trtworld.com/trtworld/20771337_0-0-945-2048.jpeg",
-                "userName": "Esra Karataş Alpay ",
-                "firstName": "Esra",
-                "lastName": "Karataş Alpay ",
-                "bio": "Esra Karataş Alpay is a staff writer at TRT World",
-                "path": "/author/esra-karatas-alpay"
+                "userName": "emir.isci",
+                "firstName": "Emir",
+                "lastName": "Isci",
+                "path": "/author/emir-isci"
               }
             ],
             "showAuthor": false,
@@ -1549,32 +1508,74 @@
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p>Türkiye has also expressed interest in joining BRICS. In June, Turkish Foreign Minister <a href=\"https://www.aa.com.tr/en/europe/turkish-foreign-minister-meets-russian-chinese-counterparts-in-russia/3246561\">Hakan Fidan attended a two-day BRICS+ meeting</a> in Moscow, the first gathering since the bloc’s expansion. Türkiye was among 15 countries invited to participate in the expanded format of the meeting. </p><p>According to reports, the combined GDP of <a href=\"https://www.aa.com.tr/en/asia-pacific/russia-says-rising-economic-bloc-brics-surpasses-g7-in-purchasing-power-parity/3155753\">BRICS has overtaken that of the Group of Seven (G7)</a> bloc of developed economies. BRICS now accounts for 35.6 percent of global GDP in terms of purchasing power parity, compared to the G7's 30.3 percent share</p><p>Amid growing criticism over the war in Ukraine, Russian President Putin has framed the summit as a key opportunity to bolster BRICS' role as a counterbalance to Western influence on the global stage.</p><p>Russian presidential aide <a href=\"https://www.aa.com.tr/en/europe/kremlin-says-32-countries-confirmed-participation-in-brics-summit-in-kazan/3357944\">Yury Ushakov said last week</a> that 32 countries confirmed their participation in the BRICS summit in Kazan. </p><p>Speaking at a press briefing in Moscow, Ushakov said 24 states will be represented by their heads and eight others by high-ranking officials. In addition, heads of several international organisations, including the UN Secretary-General Antonio Guterres, will participate in the event. </p>"
+            "value": "<p><strong>'Global peace'</strong></p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>Choe criticised the team, which would be joined by eight other countries, as Washington's misconduct of flouting the international order and as \"the most undisguised violation\" of North Korea's sovereignty.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>Washington and Seoul have warned of North Korea's close military ties with Moscow. </p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>South Korea's spy agency said on Friday that North Korea has shipped 1,500 special forces troops to Russia's Far East for training and acclimatising at local military bases and will likely be deployed for combat in the war in Ukraine.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>Russia and North Korea both deny they have engaged in arms transfers. The Kremlin has also dismissed South Korean assertions that North Korea may have sent some military personnel to help Russia against Ukraine.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>US Defence Secretary Lloyd Austin said he could not confirm reports that North Korea has sent troops to Russia ahead of what could be a deployment to Ukraine, but added such a move would be concerning, if true.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>Meanwhile, Chinese President Xi Jinping said he was willing to lead friendship and cooperation with North Korea to \"sustainable and stable development\" and contribute to \"safeguarding regional and global peace\", North Korean state media reported on Sunday.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>Xi sent a reply to North Korean leader Kim Jong-un congratulating China's founding anniversary, according to KCNA.</p>"
+          },
+          {
+            "blockType": "youtube",
+            "metadata": {
+              "url": "https://youtu.be/6UjkC5GLOp4"
+            },
+            "value": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/6UjkC5GLOp4?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Russian President Putin’s historic visit to North Korea\"></iframe>"
           }
         ],
-        "path": "/asia/chinese-indian-leaders-to-attend-brics-summit-in-russia-next-week-18221792",
+        "path": "/asia/us-led-sanctions-monitoring-team-unlawful-north-korea-18222372",
         "type": "article",
         "fields": {
           "search_title": {
-            "text": "Chinese, Indian leaders confirm attendance at BRICS summit in Russia"
+            "text": "US-led sanctions monitoring team unlawful: North Korea"
           },
           "search_description": {
-            "text": "Amid growing criticism over the war in Ukraine, Russian President Putin has framed the summit as a key opportunity to bolster BRICS' role as a counterbalance to Western influence on the global stage. "
+            "text": "Tensions on the Korean peninsula have intensified in recent years."
           },
           "topic_slug": {
             "text": "asia"
           },
           "mainImage": {
             "type": "image",
-            "assetId": 21056609,
-            "key": "trtworld/21056609_733-63-2478-1395.jpeg",
+            "assetId": 21065695,
+            "key": "trtworld/21065695_0-375-5246-2954.jpeg",
             "bucket": "port-prod-asset-public-image-v3",
             "cdnUrl": "https://images-cdn.trtworld.com/trtworld/",
-            "fileName": "21056609_733-63-2478-1395.jpeg",
-            "url": "https://images-cdn.trtworld.com/trtworld/21056609_733-63-2478-1395.jpeg",
-            "title": "Russia wants to use the BRICS forum to push back against the Western influence. Photo: Reuters",
-            "width": 4398,
-            "height": 3369,
+            "fileName": "21065695_0-375-5246-2954.jpeg",
+            "url": "https://images-cdn.trtworld.com/trtworld/21065695_0-375-5246-2954.jpeg",
+            "title": "Foreign Minister Choe Son Hui criticised Washington for its \"most undisguised violation\" of North Korea's sovereignty. / Photo: Reuters",
+            "width": 5248,
+            "height": 3504,
             "source": "Reuters"
           },
           "authors": [
@@ -1595,431 +1596,11 @@
             }
           ],
           "relatedStory": {
-            "id": 12771684,
+            "id": 12710109,
             "type": "article",
-            "title": "Why China and Russia are partnering up",
-            "description": "Under Western pressure, the two states are aligning with each other at a level unseen for decades.",
-            "mainImageUrl": "https://cdn-i.pr.trt.com.tr/trtworld/0m_101802_PutinXishakeitup_1639772826814.jpg",
-            "overlayImageUrl": "",
-            "thumbnailSquare": "",
-            "categories": [
-              {
-                "contentId": 12683233,
-                "title": "Magazine"
-              },
-              {
-                "contentId": 12682254,
-                "title": "Home Page"
-              }
-            ],
-            "metaTitle": "",
-            "metaDescription": "",
-            "showName": "",
-            "showSlug": "",
-            "path": "/magazine/why-china-and-russia-are-partnering-up-12771684",
-            "publishedDate": "2021-12-17T21:07:12.000Z",
-            "authors": [
-              {
-                "userName": "muratsofuoglu",
-                "firstName": "Murat",
-                "lastName": "Sofuoglu",
-                "bio": "Murat Sofuoglu is a staff writer at TRT World.",
-                "twitter": "@Readingavenue",
-                "mainImage": "https://cdn-i.pr.trt.com.tr/trtworld/0u_8.jpg",
-                "path": "/author/murat-sofuoglu"
-              }
-            ],
-            "showAuthor": false,
-            "showByLine": false,
-            "showSparkbox": false
-          },
-          "sources": [
-            {
-              "key": "trtworld-and-agencies",
-              "value": "TRTWorld and agencies",
-              "metadata": {}
-            }
-          ],
-          "topics": [
-            {
-              "contentId": 12682254,
-              "title": "Home Page",
-              "slug": "home-page"
-            },
-            {
-              "contentId": 12682879,
-              "title": "Asia",
-              "slug": "asia"
-            }
-          ],
-          "team": {
-            "key": "news",
-            "value": "News",
-            "metadata": {}
-          },
-          "contentFormat": {
-            "key": "curation",
-            "value": "Curation",
-            "metadata": {}
-          },
-          "country": {
-            "key": "rus",
-            "value": "Russian Federation",
-            "metadata": {
-              "code": "RUS",
-              "region": "Europe",
-              "subregion": "Eastern Europe"
-            }
-          },
-          "tags": [
-            {
-              "key": "brics",
-              "value": "Brics",
-              "metadata": {}
-            },
-            {
-              "key": "russia",
-              "value": "Russia",
-              "metadata": {}
-            },
-            {
-              "key": "china",
-              "value": "china",
-              "metadata": {}
-            },
-            {
-              "key": "india",
-              "value": "India",
-              "metadata": {}
-            },
-            {
-              "key": "south-africa",
-              "value": "South Africa",
-              "metadata": {}
-            },
-            {
-              "key": "brazil",
-              "value": "Brazil",
-              "metadata": {}
-            },
-            {
-              "key": "politics",
-              "value": "Politics",
-              "metadata": {}
-            },
-            {
-              "key": "multilateralism",
-              "value": "Multilateralism",
-              "metadata": {}
-            }
-          ],
-          "overlayImage": {
-            "type": "image",
-            "key": "trtworld/f_article_3e211e0d6b6c48f07b700c9c4b76b3ae.jpeg",
-            "bucket": "port-prod-asset-public-image-v3",
-            "cdnUrl": "https://images-cdn.trtworld.com/trtworld/",
-            "fileName": "f_article_3e211e0d6b6c48f07b700c9c4b76b3ae.jpeg",
-            "url": "https://images-cdn.trtworld.com/trtworld/f_article_3e211e0d6b6c48f07b700c9c4b76b3ae.jpeg",
-            "width": 4398,
-            "height": 3369
-          }
-        },
-        "metadata": {
-          "show_sparkbox": "true"
-        },
-        "site": "trtworld",
-        "viewCount": 0,
-        "published": {
-          "date": "2024-10-18T10:36:12.291Z"
-        },
-        "paths": [
-          "/asia/chinese-indian-leaders-to-attend-brics-summit-in-russia-next-week-18221792"
-        ]
-      }
-    },
-    {
-      "id": 18221808,
-      "type": "article",
-      "title": "Gold hits record as China's economic growth beats forecasts",
-      "description": "The central bank's hints of further reserve requirement cuts and banks reducing yuan deposit rates further boosted market optimism.",
-      "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21056623_0-144-4572-2574.jpeg",
-      "overlayImageUrl": "",
-      "thumbnailSquare": "",
-      "categories": [
-        {
-          "contentId": 12682254,
-          "title": "Home Page"
-        },
-        {
-          "contentId": 12683237,
-          "title": "Business"
-        },
-        {
-          "contentId": 12682879,
-          "title": "Asia"
-        }
-      ],
-      "metaTitle": "",
-      "metaDescription": "",
-      "showName": "",
-      "showSlug": "",
-      "path": "/business/gold-hits-record-as-chinas-economic-growth-beats-forecasts-18221808",
-      "publishedDate": "2024-10-18T10:16:20.566Z",
-      "authors": [],
-      "showAuthor": false,
-      "showByLine": false,
-      "showSparkbox": false,
-      "content": {
-        "id": 18221808,
-        "title": "Gold hits record as China's economic growth beats forecasts",
-        "description": "The central bank's hints of further reserve requirement cuts and banks reducing yuan deposit rates further boosted market optimism.",
-        "body": [
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>Hong Kong and Shanghai soared to lead gains across most Asian markets after Chinese growth beat forecasts and officials flagged fresh measures to boost the world's number two economy.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>Investors have been clamouring for Beijing to deliver more concrete plans for the country's stuttering economy since last month's slew of stimulus announcements that had fanned hopes officials would unload the \"bazooka\" policy many have been calling for.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>However, after a blockbuster rally across the mainland and Hong Kong markets, three high-level briefings that had caused much anticipation fell well short of expectations and sparked a sell-off that ate into those early gains.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>Friday's news that the gross domestic product expanded 4.6 percent was fractionally better than forecast in an AFP survey of economists but still marked the slowest pace of growth since the start of 2023.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>However, traders cheered news that the central bank launched a facility to provide greater liquidity and boost share buybacks, while boss chief Pan Gongsheng said officials were considering another cut to the amount commercial lenders must hold in reserve.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>Meanwhile, state media said top banks had cut rates on yuan deposits on Friday for the second time this year as part of a move to boost lending.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>That came as data showed retail sales -- a gauge of consumer spending -- and industrial output rose more than expected in September.</p>"
-          },
-          {
-            "blockType": "youtube",
-            "metadata": {
-              "url": "https://youtu.be/kqRIeV2TVYY"
-            },
-            "value": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/kqRIeV2TVYY?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Asia-Pacific Markets Rally Following Record Gains on Wall Street\"></iframe>"
-          },
-          {
-            "id": 18219387,
-            "type": "article",
-            "title": "EU, China fail to bridge gap on electric vehicle tariff solution",
-            "description": "China and the EU are locked in a high-stakes battle over EV tariffs, with the outcome of the dispute potentially having far-reaching consequences for the global economy.",
-            "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21036119_0-9-2405-1354.jpeg",
-            "overlayImageUrl": "https://images-cdn.trtworld.com/trtworld/f_article_8095432acd30992bb3c6c42c0077ccba.jpeg",
-            "thumbnailSquare": "",
-            "categories": [
-              {
-                "contentId": 12682254,
-                "title": "Home Page"
-              },
-              {
-                "contentId": 12683237,
-                "title": "Business"
-              }
-            ],
-            "metaTitle": "",
-            "metaDescription": "",
-            "showName": "",
-            "showSlug": "",
-            "path": "/business/eu-china-fail-to-bridge-gap-on-electric-vehicle-tariff-solution-18219387",
-            "publishedDate": "2024-10-12T18:01:15.747Z",
-            "authors": [
-              {
-                "userName": "alitopchi",
-                "firstName": "Ali",
-                "lastName": "Topchi",
-                "twitter": "@atopchi",
-                "mainImage": "https://cdn-i.pr.trt.com.tr/trtworld/0u_10.jpg",
-                "path": "/author/ali-topchi"
-              }
-            ],
-            "showAuthor": false,
-            "showByLine": false,
-            "showSparkbox": false,
-            "blockType": "content"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p><b>Debt crisis amid efforts</b><br></p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>Authorities have struggled to reignite the economy as it battles a stinging debt crisis in the property sector and torpid consumer activity, with an eye on hitting an annual growth target of five percent this year.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>Shares in Hong Kong and Shanghai burst higher hopes the government was ready to do what it could to support the economy, with tech giants and beaten-down developers among the best performers.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>ING's China chief economist Lynn Song said: \"The beat in the third quarter numbers keeps China within striking distance to hit its full-year growth target... and requires a slightly less impressive fourth-quarter growth rate than what was previously expected.\"</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>Harry Murphy Cruise, an economist at Moody's Analytics, added: \"The latest supports are very welcome. And they’re likely to propel the economy to its... target for the year.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>\"But more is required if officials are to address the structural challenges in the economy. Absent that, property will remain a drag through 2025 and households will have little incentive to lift spending.\"</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>He added that he saw growth easing to around 4.75 percent next year and slowing further over the next two.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>There were also gains in Tokyo thanks to a weaker yen.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>Taipei was well up thanks to a near five percent rally in chip titan TSMC a day after it reported a bigger-than-expected increase in net profit for the third quarter and raised its growth forecasts for the year thanks to strong demand for AI tech.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>Bangkok, Jakarta, Mumbai, Manila, Singapore and Wellington rose, through Seoul and Sydney. In Europe, London started lower, while Paris was up and Frankfurt flat.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>Gold rose to a record $2,714.10 and crude prices climbed on geopolitical uncertainties after Israel said it killed Hamas chief Yahya Sinwar.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>Traders were already on edge over the crisis in the Middle East as Israel's aggression is ongoing in Gaza and, more recently, invading southern Lebanon, with worries about a region-wide war that could take in Iran.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>Wall Street had a largely uneventful day as forecast-topping US retail sales saw investors scale back bets on Federal Reserve interest rate cuts and pushed the dollar higher against the yen and euro.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>Adding to downward pressure on the single currency was another rate cut by the European Central Bank and an indication that more could be in the pipeline as inflation comes down.</p>"
-          },
-          {
-            "id": 18217436,
-            "type": "article",
-            "title": "China imposes provisional tariffs on EU brandy imports",
-            "description": "The tariffs, ranging from 30.6% to 39%, come in response to allegations of dumping that China claims threaten its domestic brandy industry.",
-            "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/5008181_0-71-3000-1689.jpeg",
-            "overlayImageUrl": "https://images-cdn.trtworld.com/trtworld/f_article_50ca66a6cf079ef5a5d750231c83d912.jpeg",
-            "thumbnailSquare": "",
-            "categories": [
-              {
-                "contentId": 12682254,
-                "title": "Home Page"
-              },
-              {
-                "contentId": 12683237,
-                "title": "Business"
-              }
-            ],
-            "metaTitle": "",
-            "metaDescription": "",
-            "showName": "",
-            "showSlug": "",
-            "path": "/content/article/china-imposes-provisional-tariffs-on-eu-brandy-imports-18217436",
-            "publishedDate": "2024-10-08T13:33:28.450Z",
-            "authors": [
-              {
-                "mainImage": "https://cdn-i.pr.trt.com.tr/trtworld/16864692_1171-810-1406-1435.jpeg",
-                "userName": "Sena Serim  ",
-                "firstName": "Sena ",
-                "lastName": "Serim ",
-                "bio": "Sena Serim is an assistant producer at TRT World. ",
-                "path": "/author/sena-serim"
-              }
-            ],
-            "showAuthor": false,
-            "showByLine": false,
-            "showSparkbox": false,
-            "blockType": "content"
-          },
-          {
-            "blockType": "youtube",
-            "metadata": {
-              "url": "https://youtu.be/PRTa5yHB98A"
-            },
-            "value": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/PRTa5yHB98A?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"China’s Stock Markets Plunge as Investors React to Economic Concerns\"></iframe>"
-          }
-        ],
-        "path": "/business/gold-hits-record-as-chinas-economic-growth-beats-forecasts-18221808",
-        "type": "article",
-        "fields": {
-          "search_title": {
-            "text": ""
-          },
-          "search_description": {
-            "text": ""
-          },
-          "topic_slug": {
-            "text": "business"
-          },
-          "mainImage": {
-            "type": "image",
-            "assetId": 21056623,
-            "key": "trtworld/21056623_0-144-4572-2574.jpeg",
-            "bucket": "port-prod-asset-public-image-v3",
-            "cdnUrl": "https://images-cdn.trtworld.com/trtworld/",
-            "fileName": "21056623_0-144-4572-2574.jpeg",
-            "url": "https://images-cdn.trtworld.com/trtworld/21056623_0-144-4572-2574.jpeg",
-            "title": "Shares in Hong Kong and Shanghai burst higher hopes the government was ready to do what it could to support the economy, with tech giants and beaten-down developers among the best performers. / Photo: Reuters Archive",
-            "width": 4572,
-            "height": 3097,
-            "source": "Reuters Archive"
-          },
-          "authors": [
-            {
-              "firstName": {
-                "text": "Emir"
-              },
-              "lastName": {
-                "text": "Isci"
-              },
-              "twitter": {
-                "text": ""
-              },
-              "bio": {
-                "text": ""
-              },
-              "path": "/author/emir-isci"
-            }
-          ],
-          "relatedStory": {
-            "id": 12709578,
-            "type": "article",
-            "title": "At least 12 dead as typhoon Mangkhut batters Philippines",
-            "description": "Tens of thousands of people fled their homes in high-risk areas ahead of the category 5 storm's arrival due to major flooding and landslide risks.",
-            "mainImageUrl": "https://cdn-i.pr.trt.com.tr/trtworld/0m_40753_PHLTyphoonMangkhut_1536983032166.jpg",
+            "title": "Koreas remove guns from Cold War truce village",
+            "description": "South and North Korea — which are technically still at war — agreed to take measures to ease military tensions on their border at a meeting in Pyongyang last month between President Moon Jae-in and Kim Jong-un.",
+            "mainImageUrl": "https://cdn-i.pr.trt.com.tr/trtworld/0m_43089_KOR2018DMZRTR_1540441222211.JPG",
             "overlayImageUrl": "",
             "thumbnailSquare": "",
             "categories": [
@@ -2036,20 +1617,17 @@
             "metaDescription": "",
             "showName": "",
             "showSlug": "",
-            "path": "/asia/at-least-12-dead-as-typhoon-mangkhut-batters-philippines-12709578",
-            "publishedDate": "2018-09-15T04:25:33.000Z",
+            "path": "/asia/koreas-remove-guns-from-cold-war-truce-village-12710109",
+            "publishedDate": "2018-10-25T05:52:30.000Z",
             "authors": [
               {
-                "userName": "gizemtaskin",
-                "firstName": "Gizem",
-                "lastName": "Taşkın",
-                "path": "/author/gizem-taskin"
-              },
-              {
-                "userName": "mazharali",
-                "firstName": "Mazhar",
-                "lastName": "Ali",
-                "path": "/author/mazhar-ali"
+                "userName": "imranmaqbool",
+                "firstName": "Imran",
+                "lastName": "Maqbool",
+                "bio": "Imran Maqbool is Senior Editor, Digital Fast News Desk, at TRT World in Istanbul. In his 25-year-long career, he remained associated with distinguished Pakistani and international media organisations including Reuters, Dow Jones Newswires, AFP, Khaleej Times, The News and others.",
+                "twitter": "ImranMaqbool",
+                "mainImage": "https://cdn-i.pr.trt.com.tr/trtworld/0u_48.jpg",
+                "path": "/author/imran-maqbool"
               }
             ],
             "showAuthor": false,
@@ -2058,8 +1636,8 @@
           },
           "sources": [
             {
-              "key": "afp",
-              "value": "AFP",
+              "key": "reuters",
+              "value": "Reuters",
               "metadata": {}
             }
           ],
@@ -2068,11 +1646,6 @@
               "contentId": 12682254,
               "title": "Home Page",
               "slug": "home-page"
-            },
-            {
-              "contentId": 12683237,
-              "title": "Business",
-              "slug": "business"
             },
             {
               "contentId": 12682879,
@@ -2091,60 +1664,65 @@
             "metadata": {}
           },
           "country": {
-            "key": "chn",
-            "value": "China",
+            "key": "prk",
+            "value": "Korea ",
             "metadata": {
-              "code": "CHN",
+              "code": "PRK",
               "region": "Asia",
               "subregion": "Eastern Asia"
             }
           },
           "tags": [
             {
+              "key": "north-korea",
+              "value": "North Korea",
+              "metadata": {}
+            },
+            {
+              "key": "dprk",
+              "value": "DPRK",
+              "metadata": {}
+            },
+            {
+              "key": "korean-peninsula",
+              "value": "Korean peninsula",
+              "metadata": {}
+            },
+            {
+              "key": "us",
+              "value": "US",
+              "metadata": {}
+            },
+            {
               "key": "china",
               "value": "china",
               "metadata": {}
             },
             {
-              "key": "asia",
-              "value": "Asia",
+              "key": "russia",
+              "value": "Russia",
               "metadata": {}
             },
             {
-              "key": "asian-markets",
-              "value": "Asian Markets",
+              "key": "japan",
+              "value": "Japan",
               "metadata": {}
             },
             {
-              "key": "honk-kong",
-              "value": "Honk Kong",
-              "metadata": {}
-            },
-            {
-              "key": "shanghai",
-              "value": "Shanghai",
-              "metadata": {}
-            },
-            {
-              "key": "beijing",
-              "value": "Beijing",
-              "metadata": {}
-            },
-            {
-              "key": "china-market",
-              "value": "China Market",
+              "key": "south-korea",
+              "value": "South Korea",
               "metadata": {}
             }
           ],
           "overlayImage": {
             "type": "image",
-            "key": "trtworld/f_article_99ef38e1f5344a66b6b1290699fee98f.jpeg",
+            "key": "trtworld/f_article_adb70190d6766eb145c7a37b6be23ae1.jpeg",
             "bucket": "port-prod-asset-public-image-v3",
             "cdnUrl": "https://images-cdn.trtworld.com/trtworld/",
-            "fileName": "f_article_99ef38e1f5344a66b6b1290699fee98f.jpeg",
-            "url": "https://images-cdn.trtworld.com/trtworld/f_article_99ef38e1f5344a66b6b1290699fee98f.jpeg",
-            "width": 4572,
-            "height": 3097
+            "fileName": "f_article_adb70190d6766eb145c7a37b6be23ae1.jpeg",
+            "url": "https://images-cdn.trtworld.com/trtworld/f_article_adb70190d6766eb145c7a37b6be23ae1.jpeg",
+            "width": 5248,
+            "height": 3504
           }
         },
         "metadata": {
@@ -2153,10 +1731,10 @@
         "site": "trtworld",
         "viewCount": 0,
         "published": {
-          "date": "2024-10-18T10:16:20.566Z"
+          "date": "2024-10-20T03:17:29.634Z"
         },
         "paths": [
-          "/business/gold-hits-record-as-chinas-economic-growth-beats-forecasts-18221808"
+          "/asia/us-led-sanctions-monitoring-team-unlawful-north-korea-18222372"
         ]
       }
     },
