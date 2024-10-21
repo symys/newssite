@@ -8,8 +8,14 @@ If you want to checkout the codes and install the project on your PC, here is th
 
 ## Installation
 After clonning the project and open it with an IDE(e.g. VSCode), you should run on terminal:
-```
- npm install
+```bash
+npm run install
+# or
+yarn install
+# or
+pnpm install
+# or
+bun install
 ```
 
 ## Run Project
