@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 
 const Tags = ({ tagArray }: any) => {
    const newArray: any=  tagArray.length > 6 ? tagArray.slice(0,5) : tagArray
