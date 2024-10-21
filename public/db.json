@@ -9,40 +9,11 @@
     },
     "latest": [
       {
-        "id": 18222381,
+        "id": 18222650,
         "type": "article",
-        "title": "Moldovans vote in presidential election, EU membership referendum",
-        "description": "The presidential election and referendum are being held under the shadow of the ongoing struggle between the West and Russia over Moldova.",
-        "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21066486_0-31-5509-3102.jpeg",
-        "overlayImageUrl": "",
-        "thumbnailSquare": "",
-        "categories": [
-          {
-            "contentId": 12682254,
-            "title": "Home Page"
-          },
-          {
-            "contentId": 12682883,
-            "title": "Europe"
-          }
-        ],
-        "metaTitle": "",
-        "metaDescription": "",
-        "showName": "",
-        "showSlug": "",
-        "path": "/europe/moldovans-vote-in-presidential-election-eu-membership-referendum-18222381",
-        "publishedDate": "2024-10-20T06:45:20.557Z",
-        "authors": [],
-        "showAuthor": false,
-        "showByLine": false,
-        "showSparkbox": false
-      },
-      {
-        "id": 18222373,
-        "type": "article",
-        "title": "Prabowo Subianto sworn in as Indonesia's eighth president",
-        "description": "Prabowo won the February 14 election with nearly 60 percent of the vote.",
-        "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21065874_0-187-5500-3100.jpeg",
+        "title": "Pakistan passes constitutional amendments to prevent court 'interference'",
+        "description": "The government clinched 225 votes of the required 224 with the crucial support of a handful of dissident MPs from the opposition.",
+        "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21070506_0-710-7045-3967.jpeg",
         "overlayImageUrl": "",
         "thumbnailSquare": "",
         "categories": [
@@ -59,19 +30,48 @@
         "metaDescription": "",
         "showName": "",
         "showSlug": "",
-        "path": "/asia/prabowo-subianto-sworn-in-as-indonesias-eighth-president-18222373",
-        "publishedDate": "2024-10-20T04:11:11.170Z",
+        "path": "/asia/pakistan-passes-constitutional-amendments-to-prevent-court-interference-18222650",
+        "publishedDate": "2024-10-21T02:18:18.449Z",
         "authors": [],
         "showAuthor": false,
         "showByLine": false,
         "showSparkbox": false
       },
       {
-        "id": 18222345,
+        "id": 18222619,
         "type": "article",
-        "title": "Live blog: Israeli strikes kill 73 Palestinians in Gaza's Beit Lahia",
-        "description": "Israel's war on Gaza, now in its 380th day, has killed at least 42,519 Palestinians and wounded nearly 100,000, with 10,000+ possibly buried under debris. Israel has also killed at least 2,448 people in Lebanon since October last year.",
-        "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21064273_0-76-2048-1153.jpeg",
+        "title": "UN chief urges 'significant investment' in fund to save nature",
+        "description": "\"Those profiting from nature must contribute to its protection and restoration,\" UN chief Antonio Guterres says.",
+        "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21070111_0-46-2586-1456.jpeg",
+        "overlayImageUrl": "",
+        "thumbnailSquare": "",
+        "categories": [
+          {
+            "contentId": 12682254,
+            "title": "Home Page"
+          },
+          {
+            "contentId": 12683253,
+            "title": "Climate"
+          }
+        ],
+        "metaTitle": "",
+        "metaDescription": "",
+        "showName": "",
+        "showSlug": "",
+        "path": "/climate/un-chief-urges-significant-investment-in-fund-to-save-nature-18222619",
+        "publishedDate": "2024-10-20T23:32:22.572Z",
+        "authors": [],
+        "showAuthor": false,
+        "showByLine": false,
+        "showSparkbox": false
+      },
+      {
+        "id": 18222610,
+        "type": "article",
+        "title": "Live blog: Israel launches new wave of air strikes on southern Beirut",
+        "description": "Israel's war on Gaza, now in its 381st day, has killed at least 42,603 Palestinians and wounded nearly 100,000, with 10,000+ possibly buried under debris. Israel has also killed at least 2,464 people in Lebanon since October last year.",
+        "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21069970_0-419-8256-4649.jpeg",
         "overlayImageUrl": "",
         "thumbnailSquare": "",
         "categories": [
@@ -88,19 +88,19 @@
         "metaDescription": "",
         "showName": "",
         "showSlug": "",
-        "path": "/middle-east/live-blog-israeli-strikes-kill-73-palestinians-in-gazas-beit-lahia-18222345",
-        "publishedDate": "2024-10-20T03:25:28.998Z",
+        "path": "/middle-east/live-blog-israel-launches-new-wave-of-air-strikes-on-southern-beirut-18222610",
+        "publishedDate": "2024-10-20T23:01:55.278Z",
         "authors": [],
         "showAuthor": false,
         "showByLine": false,
         "showSparkbox": false
       },
       {
-        "id": 18222372,
+        "id": 18222609,
         "type": "article",
-        "title": "US-led sanctions monitoring team unlawful: North Korea",
-        "description": "Tensions on the Korean peninsula have intensified in recent years.",
-        "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21065695_0-375-5246-2954.jpeg",
+        "title": "Oxfam 'strongly condemns' killing of water engineers in Israeli Gaza strike",
+        "description": "Dozens of engineers, civil servants and aid workers have been killed in Israeli air strikes during Tel Aviv's ongoing war, Oxfam says.",
+        "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21069848_0-0-2355-1326.jpeg",
         "overlayImageUrl": "",
         "thumbnailSquare": "",
         "categories": [
@@ -109,16 +109,16 @@
             "title": "Home Page"
           },
           {
-            "contentId": 12682879,
-            "title": "Asia"
+            "contentId": 12683241,
+            "title": "Middle East"
           }
         ],
         "metaTitle": "",
         "metaDescription": "",
         "showName": "",
         "showSlug": "",
-        "path": "/asia/us-led-sanctions-monitoring-team-unlawful-north-korea-18222372",
-        "publishedDate": "2024-10-20T03:17:29.634Z",
+        "path": "/middle-east/oxfam-strongly-condemns-killing-of-water-engineers-in-israeli-gaza-strike-18222609",
+        "publishedDate": "2024-10-20T22:07:19.816Z",
         "authors": [],
         "showAuthor": false,
         "showByLine": false,
@@ -459,360 +459,11 @@
       }
     },
     {
-      "id": 18222381,
+      "id": 18222650,
       "type": "article",
-      "title": "Moldovans vote in presidential election, EU membership referendum",
-      "description": "The presidential election and referendum are being held under the shadow of the ongoing struggle between the West and Russia over Moldova.",
-      "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21066486_0-31-5509-3102.jpeg",
-      "overlayImageUrl": "",
-      "thumbnailSquare": "",
-      "categories": [
-        {
-          "contentId": 12682254,
-          "title": "Home Page"
-        },
-        {
-          "contentId": 12682883,
-          "title": "Europe"
-        }
-      ],
-      "metaTitle": "",
-      "metaDescription": "",
-      "showName": "",
-      "showSlug": "",
-      "path": "/europe/moldovans-vote-in-presidential-election-eu-membership-referendum-18222381",
-      "publishedDate": "2024-10-20T06:45:20.557Z",
-      "authors": [],
-      "showAuthor": false,
-      "showByLine": false,
-      "showSparkbox": false,
-      "content": {
-        "id": 18222381,
-        "title": "Moldovans vote in presidential election, EU membership referendum",
-        "description": "The presidential election and referendum are being held under the shadow of the ongoing struggle between the West and Russia over Moldova.",
-        "body": [
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>The citizens of Moldova are heading to the polls for presidential election and a referendum on EU membership.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>Voting begins at 0400 GMT local time on Sunday and will end at 1600GMT.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>The process is being monitored by more than 1,100 local and 280 foreign observers.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>The presidential election and referendum are being held under the shadow of the ongoing struggle between the West and Russia over Moldova.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>The people of Moldova, which has become a battleground between the West and Russia since it declared independence, are making choices about integration with Europe and rapprochement with Russia.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>Before the election, Chisinau accused Moscow of attempting to destabilise the country by providing education in Russia to Moldovan citizens and trying to hinder rapprochement with the EU.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>Russia, on the other hand, claimed that Moldova had taken \"unfriendly\" steps against it and was blocking the use of the Russian language. Moscow urged Chisinau to remain neutral, as required by the Constitution.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>The Russian-backed \"Victory\" group is opposing the current government.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>Voters will be asked: “Are you for the accession of the Republic of Moldova to the European Union?”</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>The outcome of the referendum will determine if EU accession becomes a constitutional goal.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>In the referendum, 12 parties are supporting the \"YES\" option, while two are backing the \"NO\" option. A \"YES\" vote will amend the Constitution.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>Turnout must exceed 33 percent for the referendum to be considered valid.</p>"
-          },
-          {
-            "id": 18183167,
-            "type": "article",
-            "title": "Why tiny Moldova’s presidential elections are important for Russia, West?",
-            "description": "The Eastern European nation is getting closer to entering the EU after prolonged negotiations, but not all Moldavians are on the same page.",
-            "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/20356369_0-139-4430-2495.jpeg",
-            "overlayImageUrl": "https://images-cdn.trtworld.com/trtworld/f_article_ba9de181b31c77cd3b17933e71be8f14.jpeg",
-            "thumbnailSquare": "",
-            "categories": [
-              {
-                "contentId": 12682254,
-                "title": "Home Page"
-              },
-              {
-                "contentId": 12683233,
-                "title": "Magazine"
-              }
-            ],
-            "metaTitle": "",
-            "metaDescription": "",
-            "showName": "",
-            "showSlug": "",
-            "path": "/magazine/why-tiny-moldovas-presidential-elections-are-important-for-russia-west-18183167",
-            "publishedDate": "2024-07-12T14:35:15.518Z",
-            "authors": [
-              {
-                "userName": "muratsofuoglu",
-                "firstName": "Murat",
-                "lastName": "Sofuoglu",
-                "bio": "Murat Sofuoglu is a staff writer at TRT World.",
-                "twitter": "@Readingavenue",
-                "mainImage": "https://cdn-i.pr.trt.com.tr/trtworld/0u_8.jpg",
-                "path": "/author/murat-sofuoglu"
-              }
-            ],
-            "showAuthor": false,
-            "showByLine": false,
-            "showSparkbox": false,
-            "blockType": "content"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p><strong>Irreversible goal</strong> </p><p>Meanwhile, voters are also electing a president for a four-year term, following economic hardships caused by the Russia-Ukraine War and issues with natural gas supplies.</p><p>A total of 11 candidates, six representing parties and five running independently, are vying for the presidency. </p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>Pro-Western President Maja Sandu is seeking a second term and hopes to secure a \"YES\" vote in the referendum, which would enshrine Moldova's EU accession as an \"irreversible\" goal in the Constitution.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>According to data from the Moldovan Central Election Commission, voting is taking place in 36 regions and at embassies abroad for more than 3 million eligible voters, including those living overseas.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>Thirty ballot boxes have also been set up in settlements within the Moscow-leaning breakaway region of Transnistria, which has declared unilateral independence from Moldova.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>Around 2,000 Russian soldiers remain stationed in Transnistria.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>Under Moldovan electoral law, the presidential election is valid if at least one-third of voters participate, and a candidate is elected if more than half of the votes are cast in their favour. If no candidate receives more than 50 percent of the vote, a second round will be held.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>Since the collapse of the erstwhile Soviet Union, Moldova has fluctuated between pro-Western and pro-Russian influences, but during Sandu's tenure, the country has accelerated its push to distance itself from Moscow, especially amid the war in neighbouring Ukraine.</p>"
-          },
-          {
-            "blockType": "youtube",
-            "metadata": {
-              "url": "https://www.youtube.com/watch?v=2gcEl9oRRSA"
-            },
-            "value": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/2gcEl9oRRSA?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Moldova PM Says He Wants a Peaceful Solution for Transnistria\"></iframe>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p> </p>"
-          }
-        ],
-        "path": "/europe/moldovans-vote-in-presidential-election-eu-membership-referendum-18222381",
-        "type": "article",
-        "fields": {
-          "search_title": {
-            "text": ""
-          },
-          "search_description": {
-            "text": ""
-          },
-          "topic_slug": {
-            "text": "europe"
-          },
-          "mainImage": {
-            "type": "image",
-            "assetId": 21066486,
-            "key": "trtworld/21066486_0-31-5509-3102.jpeg",
-            "bucket": "port-prod-asset-public-image-v3",
-            "cdnUrl": "https://images-cdn.trtworld.com/trtworld/",
-            "fileName": "21066486_0-31-5509-3102.jpeg",
-            "url": "https://images-cdn.trtworld.com/trtworld/21066486_0-31-5509-3102.jpeg",
-            "title": "Voting begins at 7 am local time on Sunday and will end at 7 pm / Photo: Reuters",
-            "width": 5509,
-            "height": 3564,
-            "source": "Reuters"
-          },
-          "authors": [
-            {
-              "firstName": {
-                "text": "Rabiul"
-              },
-              "lastName": {
-                "text": "Islam"
-              },
-              "twitter": {
-                "text": ""
-              },
-              "bio": {
-                "text": ""
-              },
-              "path": "/author/rabiul-islam"
-            }
-          ],
-          "relatedStory": {
-            "id": 12709136,
-            "type": "article",
-            "title": "Turks mark 567th anniversary of conquering the 'Queen of Cities'",
-            "description": "On May 29, 1453, the ancient Roman city of Constantinople was conquered by the Ottoman Turks. Many historians consider the event – and this day –  as marking the end of the Middle Ages and the beginning of Europe's early modern period.",
-            "mainImageUrl": "https://cdn-i.pr.trt.com.tr/trtworld/0m_1564-trtworld-115005-145642.jpg",
-            "overlayImageUrl": "",
-            "thumbnailSquare": "",
-            "categories": [
-              {
-                "contentId": 12683233,
-                "title": "Magazine"
-              },
-              {
-                "contentId": 12682254,
-                "title": "Home Page"
-              }
-            ],
-            "metaTitle": "",
-            "metaDescription": "",
-            "showName": "",
-            "showSlug": "",
-            "path": "/magazine/turks-mark-567th-anniversary-of-conquering-the-queen-of-cities-12709136",
-            "publishedDate": "2020-05-29T15:06:00.000Z",
-            "authors": [
-              {
-                "mainImage": "https://images-cdn.trtworld.com/trtworld/20860616_0-0-414-414.jpeg",
-                "userName": "emreiren",
-                "firstName": "Emre",
-                "lastName": "İren",
-                "path": "/author/emre-iren"
-              }
-            ],
-            "showAuthor": false,
-            "showByLine": false,
-            "showSparkbox": false
-          },
-          "sources": [
-            {
-              "key": "trtworld-and-agencies",
-              "value": "TRTWorld and agencies",
-              "metadata": {}
-            }
-          ],
-          "topics": [
-            {
-              "contentId": 12682254,
-              "title": "Home Page",
-              "slug": "home-page"
-            },
-            {
-              "contentId": 12682883,
-              "title": "Europe",
-              "slug": "europe"
-            }
-          ],
-          "team": {
-            "key": "news",
-            "value": "News",
-            "metadata": {}
-          },
-          "contentFormat": {
-            "key": "news",
-            "value": "News",
-            "metadata": {}
-          },
-          "country": {
-            "key": "mda",
-            "value": "Moldova ",
-            "metadata": {
-              "code": "MDA",
-              "region": "Europe",
-              "subregion": "Eastern Europe"
-            }
-          },
-          "tags": [
-            {
-              "key": "europe",
-              "value": "europe",
-              "metadata": {}
-            },
-            {
-              "key": "moldova",
-              "value": "Moldova",
-              "metadata": {}
-            },
-            {
-              "key": "russia",
-              "value": "Russia",
-              "metadata": {}
-            },
-            {
-              "key": "eu",
-              "value": "EU",
-              "metadata": {}
-            },
-            {
-              "key": "election",
-              "value": "Election",
-              "metadata": {}
-            }
-          ],
-          "overlayImage": {
-            "type": "image",
-            "key": "trtworld/f_article_f66648051932f882d6079373abab976b.jpeg",
-            "bucket": "port-prod-asset-public-image-v3",
-            "cdnUrl": "https://images-cdn.trtworld.com/trtworld/",
-            "fileName": "f_article_f66648051932f882d6079373abab976b.jpeg",
-            "url": "https://images-cdn.trtworld.com/trtworld/f_article_f66648051932f882d6079373abab976b.jpeg",
-            "width": 5509,
-            "height": 3564
-          }
-        },
-        "metadata": {
-          "show_sparkbox": "true"
-        },
-        "site": "trtworld",
-        "viewCount": 0,
-        "published": {
-          "date": "2024-10-20T06:45:20.557Z"
-        },
-        "paths": [
-          "/europe/moldovans-vote-in-presidential-election-eu-membership-referendum-18222381"
-        ]
-      }
-    },
-    {
-      "id": 18222373,
-      "type": "article",
-      "title": "Prabowo Subianto sworn in as Indonesia's eighth president",
-      "description": "Prabowo won the February 14 election with nearly 60 percent of the vote.",
-      "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21065874_0-187-5500-3100.jpeg",
+      "title": "Pakistan passes constitutional amendments to prevent court 'interference'",
+      "description": "The government clinched 225 votes of the required 224 with the crucial support of a handful of dissident MPs from the opposition.",
+      "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21070506_0-710-7045-3967.jpeg",
       "overlayImageUrl": "",
       "thumbnailSquare": "",
       "categories": [
@@ -829,49 +480,54 @@
       "metaDescription": "",
       "showName": "",
       "showSlug": "",
-      "path": "/asia/prabowo-subianto-sworn-in-as-indonesias-eighth-president-18222373",
-      "publishedDate": "2024-10-20T04:11:11.170Z",
+      "path": "/asia/pakistan-passes-constitutional-amendments-to-prevent-court-interference-18222650",
+      "publishedDate": "2024-10-21T02:18:18.449Z",
       "authors": [],
       "showAuthor": false,
       "showByLine": false,
       "showSparkbox": false,
       "content": {
-        "id": 18222373,
-        "title": "Prabowo Subianto sworn in as Indonesia's eighth president",
-        "description": "Prabowo won the February 14 election with nearly 60 percent of the vote.",
+        "id": 18222650,
+        "title": "Pakistan passes constitutional amendments to prevent court 'interference'",
+        "description": "The government clinched 225 votes of the required 224 with the crucial support of a handful of dissident MPs from the opposition.",
         "body": [
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p>Prabowo Subianto on Sunday took over as president of Indonesia after sweeping the country's election with policies like free meals for school children and with the outgoing leader's son as his running mate. </p>"
+            "value": "<p>Pakistan's government narrowly passed on Monday a package of constitutional amendments it said would stop the country's courts from issuing rulings that \"interfere in parliament\".</p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p>The 73-year-old former special forces commander won the February 14 contest with nearly 60 percent of the vote and has spent the past nine months building a formidable parliamentary coalition. </p>"
+            "value": "<p>Under the judicial reforms passed during a late night session of parliament, the chief justice of Pakistan will now be selected by a parliamentary committee and have a fixed term of three years.</p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p>Prabowo, wearing a traditional black hat and navy suit with a woven maroon and golden sarong, officially become Indonesia's eighth president on Sunday morning after he was sworn in during a ceremony at Indonesia's parliament.</p>"
+            "value": "<p>A new constitutional bench will be also formed.</p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p>Prabowo, who unsuccessfully ran for the presidency twice before, is expected to give a speech to lawmakers at the parliament's upper house and then head to the presidential palace.</p>"
+            "value": "<p>\"The goal of the amendments is to block the judicial verdicts that interfere in parliament,\" Defence Minister Khawaja Asif said on Saturday as the government courted support from smaller religious groups.</p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p>He was joined in the swearing-in ceremony by his running mate, Gibran Rakabuming Raka, 37, the eldest son of outgoing President Joko \"Jokowi\" Widodo. </p>"
+            "value": "<p>\"Everybody agrees that we will not compromise on the supremacy of the parliament.\"</p>"
           },
           {
-            "id": 18222325,
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>Prime Minister Shehbaz Sharif's Pakistan Muslim League-Nawaz party scraped together a two-thirds majority with the backing of its long-time rival turned partner Pakistan People's Party, and a religious party considered an ally of opposition leader Imran Khan.</p>"
+          },
+          {
+            "id": 18220432,
             "type": "article",
-            "title": "What can Indonesia expect as Prabowo Subianto becomes president?",
-            "description": "Prabowo, 73, has secured 59 percent of the vote, positioning him for Indonesia's top job. Joining him will be outgoing President Jokowi's 37-year-old son, Gibran Rakabuming Raka, who has won the vice presidency.",
-            "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21063129_0-0-4152-2338.jpeg",
-            "overlayImageUrl": "https://images-cdn.trtworld.com/trtworld/f_article_08e75ba6bcb7452d9e90899d5a60b975.jpeg",
+            "title": "Pakistan shuts down capital for high-level security summit",
+            "description": "The Pakistani government imposes a lockdown on the capital Islamabad to safeguard foreign dignitaries attending the Shanghai Cooperation Organization summit as the country has faced multiple terror attacks in recent weeks.",
+            "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21045930_0-0-1023-576.jpeg",
+            "overlayImageUrl": "https://images-cdn.trtworld.com/trtworld/f_article_88a5a3616cec7fea71aea8b66625ebf3.jpeg",
             "thumbnailSquare": "",
             "categories": [
               {
@@ -887,14 +543,16 @@
             "metaDescription": "",
             "showName": "",
             "showSlug": "",
-            "path": "/asia/what-can-indonesia-expect-as-prabowo-subianto-becomes-president-18222325",
-            "publishedDate": "2024-10-19T18:03:04.334Z",
+            "path": "/asia/pakistan-shuts-down-capital-for-high-level-security-summit-18220432",
+            "publishedDate": "2024-10-15T14:27:01.531Z",
             "authors": [
               {
-                "userName": "Staff.Reporter",
-                "firstName": "Staff",
-                "lastName": "Reporter",
-                "path": "/author/staff-reporter"
+                "userName": "alitopchi",
+                "firstName": "Ali",
+                "lastName": "Topchi",
+                "twitter": "@atopchi",
+                "mainImage": "https://cdn-i.pr.trt.com.tr/trtworld/0u_10.jpg",
+                "path": "/author/ali-topchi"
               }
             ],
             "showAuthor": false,
@@ -905,65 +563,75 @@
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p><strong>Strict security</strong></p>"
+            "value": "<p><strong>Some 'wins'</strong></p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p>As they make their way to the palace they will be greeted by thousands of flag waving supporters already thronging Jakarta streets that are lined with posters of the incoming leader.</p>"
+            "value": "<p>The government clinched 225 votes of the required 224 with the crucial support of a handful of dissident MPs from Khan's Pakistan Tehreek-e-Insaf (PTI) party, state media broadcasting the session showed.</p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p>Flower boards set up outside the palace either congratulated Prabowo and Gibran or thanked Jokowi for his decade as president.</p>"
+            "value": "<p>PTI, the largest bloc in parliament, had refused to back the package despite offers to water down the amendments and settle a consensus deal, analysts said.</p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p>Prabowo and Gibran are expected to stop at seven stages along the way between parliament and the palace, Nusron Wahid, a Prabowo aide, told reporters on Friday.</p>"
+            "value": "<p>\"These amendments are akin to suffocating a free judiciary. They do not represent the people of Pakistan,\" said PTI's Omar Ayub Khan, the leader of the opposition in the National Assembly, during the session. </p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p>Indonesian police and military have put in place strict security measures, deploying at least 100,000 personnel across the city, including snipers and anti-riot units.</p>"
+            "value": "<p>The amendments come just days before the chief justice of the Supreme Court, Qazi Faez Isa, is due to retire.</p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p>Prabowo is expected to meet with foreign dignitaries, including about 20 heads of state, later on Sunday at the presidential palace, said Hasan Nasbi, the head of the presidential communications organisation. </p>"
+            "value": "<p>Under the previous law, he would have been automatically replaced by the most senior judge behind him — currently, Mansoor Ali Shah, who has consistently issued verdicts deemed favourable to Khan and his party.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>Analyst Bilal Gilani, who heads Pakistan’s leading polling agency, said the amendments have some \"wins\" — including bringing balance to the activism of the judiciary.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>\"A more sinister side of this amendment creates a judiciary that is more pliant with the concerns of the government,\" he added.</p>"
           },
           {
             "blockType": "youtube",
             "metadata": {
-              "url": "https://youtu.be/KT9ZhAvk360"
+              "url": "https://youtu.be/4JlyoMO0mME"
             },
-            "value": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/KT9ZhAvk360?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Indonesian govt pushes to start transitioning to new capital city\"></iframe>"
+            "value": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/4JlyoMO0mME?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Is the Pakistani judiciary capable of delivering justice in Imran Khan’s case?\"></iframe>"
           }
         ],
-        "path": "/asia/prabowo-subianto-sworn-in-as-indonesias-eighth-president-18222373",
+        "path": "/asia/pakistan-passes-constitutional-amendments-to-prevent-court-interference-18222650",
         "type": "article",
         "fields": {
           "search_title": {
-            "text": "Prabowo Subianto sworn in as Indonesia's eighth president"
+            "text": "Pakistan passes constitutional amendments to prevent court 'interference'"
           },
           "search_description": {
-            "text": "Prabowo won the February 14 election with nearly 60 percent of the vote."
+            "text": "The government clinched 225 votes of the required 224 with the crucial support of a handful of rebel MPs from the opposition."
           },
           "topic_slug": {
             "text": "asia"
           },
           "mainImage": {
             "type": "image",
-            "assetId": 21065874,
-            "key": "trtworld/21065874_0-187-5500-3100.jpeg",
+            "assetId": 21070506,
+            "key": "trtworld/21070506_0-710-7045-3967.jpeg",
             "bucket": "port-prod-asset-public-image-v3",
             "cdnUrl": "https://images-cdn.trtworld.com/trtworld/",
-            "fileName": "21065874_0-187-5500-3100.jpeg",
-            "url": "https://images-cdn.trtworld.com/trtworld/21065874_0-187-5500-3100.jpeg",
-            "title": "Prabowo Subianto waves to journalists as he leaves his residence on the day of his inauguration, in Jakarta, October 20, 2024. / Photo: Reuters",
-            "width": 5500,
-            "height": 3667,
-            "source": "Reuters"
+            "fileName": "21070506_0-710-7045-3967.jpeg",
+            "url": "https://images-cdn.trtworld.com/trtworld/21070506_0-710-7045-3967.jpeg",
+            "title": "The amendments come just days before the chief justice of the Supreme Court, Qazi Faez Isa, is due to retire. / Photo: AP",
+            "width": 7046,
+            "height": 4697,
+            "source": "AP"
           },
           "authors": [
             {
@@ -983,11 +651,11 @@
             }
           ],
           "relatedStory": {
-            "id": 12709125,
+            "id": 12709572,
             "type": "article",
-            "title": "Indonesia's Puncak drawing Afghanistan's Hazara minority as refuge",
-            "description": "Puncak seems like an unlikely place for Afghan Muslims to be spending Ramadan, but more than 3,000 refugees and asylum-seekers are estimated to live in this Indonesian mountain town.",
-            "mainImageUrl": "https://cdn-i.pr.trt.com.tr/trtworld/0m_7624-trtworld-372993-411540.jpg",
+            "title": "Pakistan government looks to public to fund dam as water scarcity hits",
+            "description": "The government has raised $260 million in donations, a fraction of the total $14 billion that it needs to build a large water reservoir. Experts are skeptical if the plan could work.",
+            "mainImageUrl": "https://cdn-i.pr.trt.com.tr/trtworld/0m_40807_AP_18173531516325_1537149075630.jpg",
             "overlayImageUrl": "",
             "thumbnailSquare": "",
             "categories": [
@@ -1004,15 +672,14 @@
             "metaDescription": "",
             "showName": "",
             "showSlug": "",
-            "path": "/asia/indonesias-puncak-drawing-afghanistans-hazara-minority-as-refuge-12709125",
-            "publishedDate": "2017-06-06T00:00:00.000Z",
+            "path": "/asia/pakistan-government-looks-to-public-to-fund-dam-as-water-scarcity-hits-12709572",
+            "publishedDate": "2018-09-17T02:48:41.000Z",
             "authors": [
               {
-                "mainImage": "https://images-cdn.trtworld.com/trtworld/20860616_0-0-414-414.jpeg",
-                "userName": "emreiren",
-                "firstName": "Emre",
-                "lastName": "İren",
-                "path": "/author/emre-iren"
+                "userName": "haticecaglagunaydin",
+                "firstName": "Hatice Cagla",
+                "lastName": "Gunaydin",
+                "path": "/author/hatice-cagla-gunaydin"
               }
             ],
             "showAuthor": false,
@@ -1021,8 +688,8 @@
           },
           "sources": [
             {
-              "key": "reuters",
-              "value": "Reuters",
+              "key": "trtworld-and-agencies",
+              "value": "TRTWorld and agencies",
               "metadata": {}
             }
           ],
@@ -1049,45 +716,75 @@
             "metadata": {}
           },
           "country": {
-            "key": "idn",
-            "value": "Indonesia",
+            "key": "pak",
+            "value": "Pakistan",
             "metadata": {
-              "code": "IDN",
+              "code": "PAK",
               "region": "Asia",
-              "subregion": "South-Eastern Asia"
+              "subregion": "Southern Asia"
             }
           },
           "tags": [
             {
-              "key": "indonesia",
-              "value": "Indonesia",
+              "key": "pakistan",
+              "value": "Pakistan",
               "metadata": {}
             },
             {
-              "key": "prabowo-subianto",
-              "value": "prabowo subianto",
+              "key": "judicial-reforms",
+              "value": "Judicial Reforms",
               "metadata": {}
             },
             {
-              "key": "indonesia-election",
-              "value": "Indonesia-election",
+              "key": "constitutional-amendment",
+              "value": "constitutional amendment",
               "metadata": {}
             },
             {
-              "key": "indonesia-president",
-              "value": "indonesia president ",
+              "key": "pakistan-army",
+              "value": "Pakistan Army",
+              "metadata": {}
+            },
+            {
+              "key": "imran-khan",
+              "value": "Imran Khan",
+              "metadata": {}
+            },
+            {
+              "key": "pti-party",
+              "value": "Pti Party",
+              "metadata": {}
+            },
+            {
+              "key": "ppp-party",
+              "value": "Ppp Party",
+              "metadata": {}
+            },
+            {
+              "key": "nawaz-sharif",
+              "value": "Nawaz Sharif",
+              "metadata": {}
+            },
+            {
+              "key": "bilawal-bhutto",
+              "value": "Bilawal Bhutto",
+              "metadata": {}
+            },
+            {
+              "key": "pakistan-supreme-court",
+              "value": "Pakistan Supreme Court",
               "metadata": {}
             }
           ],
           "overlayImage": {
             "type": "image",
-            "key": "trtworld/f_article_d1c10c8b4025de583501a10c294bd88b.jpeg",
+            "key": "trtworld/f_article_75890dca638980679ee199f468cb0fba.jpeg",
             "bucket": "port-prod-asset-public-image-v3",
             "cdnUrl": "https://images-cdn.trtworld.com/trtworld/",
-            "fileName": "f_article_d1c10c8b4025de583501a10c294bd88b.jpeg",
-            "url": "https://images-cdn.trtworld.com/trtworld/f_article_d1c10c8b4025de583501a10c294bd88b.jpeg",
-            "width": 5500,
-            "height": 3667
+            "fileName": "f_article_75890dca638980679ee199f468cb0fba.jpeg",
+            "url": "https://images-cdn.trtworld.com/trtworld/f_article_75890dca638980679ee199f468cb0fba.jpeg",
+            "width": 7046,
+            "height": 4697
           }
         },
         "metadata": {
@@ -1096,19 +793,19 @@
         "site": "trtworld",
         "viewCount": 0,
         "published": {
-          "date": "2024-10-20T04:11:11.170Z"
+          "date": "2024-10-21T02:18:18.449Z"
         },
         "paths": [
-          "/asia/prabowo-subianto-sworn-in-as-indonesias-eighth-president-18222373"
+          "/asia/pakistan-passes-constitutional-amendments-to-prevent-court-interference-18222650"
         ]
       }
     },
     {
-      "id": 18222345,
+      "id": 18222619,
       "type": "article",
-      "title": "Live blog: Israeli strikes kill 73 Palestinians in Gaza's Beit Lahia",
-      "description": "Israel's war on Gaza, now in its 380th day, has killed at least 42,519 Palestinians and wounded nearly 100,000, with 10,000+ possibly buried under debris. Israel has also killed at least 2,448 people in Lebanon since October last year.",
-      "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21064273_0-76-2048-1153.jpeg",
+      "title": "UN chief urges 'significant investment' in fund to save nature",
+      "description": "\"Those profiting from nature must contribute to its protection and restoration,\" UN chief Antonio Guterres says.",
+      "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21070111_0-46-2586-1456.jpeg",
       "overlayImageUrl": "",
       "thumbnailSquare": "",
       "categories": [
@@ -1117,109 +814,141 @@
           "title": "Home Page"
         },
         {
-          "contentId": 12683241,
-          "title": "Middle East"
+          "contentId": 12683253,
+          "title": "Climate"
         }
       ],
       "metaTitle": "",
       "metaDescription": "",
       "showName": "",
       "showSlug": "",
-      "path": "/middle-east/live-blog-israeli-strikes-kill-73-palestinians-in-gazas-beit-lahia-18222345",
-      "publishedDate": "2024-10-20T03:25:28.998Z",
+      "path": "/climate/un-chief-urges-significant-investment-in-fund-to-save-nature-18222619",
+      "publishedDate": "2024-10-20T23:32:22.572Z",
       "authors": [],
       "showAuthor": false,
       "showByLine": false,
       "showSparkbox": false,
       "content": {
-        "id": 18222345,
-        "title": "Live blog: Israeli strikes kill 73 Palestinians in Gaza's Beit Lahia",
-        "description": "Israel's war on Gaza, now in its 380th day, has killed at least 42,519 Palestinians and wounded nearly 100,000, with 10,000+ possibly buried under debris. Israel has also killed at least 2,448 people in Lebanon since October last year.",
+        "id": 18222619,
+        "title": "UN chief urges 'significant investment' in fund to save nature",
+        "description": "\"Those profiting from nature must contribute to its protection and restoration,\" UN chief Antonio Guterres says.",
         "body": [
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p><strong>Sunday, October 20, 2024</strong></p>"
+            "value": "<p>UN chief Antonio Guterres appealed on Sunday to nations gathered at a biodiversity summit in the Colombian city of Cali for \"significant investment\" in a fund set up to conserve and restore nature.</p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p><strong>2046 GMT —</strong> At least 73 people have been killed in an Israeli air strike on a residential block in Beit Lahia, a town in northern Gaza, according to Gaza Media Office.  </p><p>Many remain trapped under the rubble, and officials fear the death toll will rise. </p><p>The attack comes amid a communications blackout in the area, with northern Gaza enduring a 16-day Israeli military siege. The siege has left residents cut off from food, water, medicine and essential services.  </p><p>As rescue efforts continue, details of the attack are still emerging.</p>"
-          },
-          {
-            "blockType": "twitter",
-            "metadata": {
-              "url": "https://x.com/trtworld/status/1847794269710430270"
-            },
-            "value": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Leaked US intel reveals Israel&#39;s alleged plans for a potential strike on Iran, sparking fresh concerns over escalating tensions in the Middle East<br>🔗 <a href=\"https://t.co/S7ulwDbBdX\">https://t.co/S7ulwDbBdX</a> <a href=\"https://t.co/r21qTF1sZh\">pic.twitter.com/r21qTF1sZh</a></p>&mdash; TRT World (@trtworld) <a href=\"https://twitter.com/trtworld/status/1847794269710430270?ref_src=twsrc%5Etfw\">October 20, 2024</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+            "value": "<p>\"We must leave Cali with significant investment in the Global Biodiversity Framework Fund (GBFF), and commitments to mobilise other sources of public and private finance,\" the secretary-general said in a video played to delegates to the COP16 biodiversity conference that officially starts Monday.</p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p><em><strong>More updates </strong>👇</em></p>"
+            "value": "<p>The GBFF was created last year to help countries achieve the goals of the so-called Kunming-Montreal Global Biodiversity Framework adopted in Canada in 2022 with 23 targets to \"halt and reverse\" the loss of nature by 2030.</p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p><strong>2301 GMT —</strong> <strong>At least 7 killed in Israeli strikes across Lebanon</strong> </p><p>Israeli warplanes launched intense strikes on 24 towns in Lebanon that killed at least seven people, including a mayor and a paramedic, according to Lebanon's <em>National News Agency</em>. </p><p>At least 21 others were injured. </p><p>The strikes in southern Lebanon targeted the districts of Tyre and Jezzine, Nabatiyeh, Bint Jbeil, Marjayoun and Hasbaiyya. </p><p>In the east, air strikes targeted the Baalbek and western Bekaa. In central Lebanon, they focused on the Aalay district in Mount Lebanon. </p><p>In the south, Israeli fighters targeted the towns of Deir Qanoon Ras al-Ain, Sarifa, Saliha, Zibqin, Marwhin, Bayt al-Sayyad, Jabal al-Botm, al-Rmadiyeh, Chamaa and al-Dahira in the Tyre district.</p>"
+            "value": "<p>So far, countries have made about $250 million in commitments to the fund, according to agencies monitoring progress.</p>"
+          },
+          {
+            "id": 18170145,
+            "type": "article",
+            "title": "World surpasses warming threshold as UN warns of 'climate hell'",
+            "description": "The UN Secretary-General warns of \"climate hell\" as the world experiences its hottest year ever, urging immediate action to curb fossil fuel use and prevent exceeding the critical 1.5C warming limit.",
+            "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/17485084_0-0-2464-1388.jpeg",
+            "overlayImageUrl": "https://images-cdn.trtworld.com/trtworld/f_article_65db55af9b3ad5b3816d710cd43aafe8.jpeg",
+            "thumbnailSquare": "",
+            "categories": [
+              {
+                "contentId": 12682254,
+                "title": "Home Page"
+              },
+              {
+                "contentId": 12683253,
+                "title": "Climate"
+              }
+            ],
+            "metaTitle": "",
+            "metaDescription": "",
+            "showName": "",
+            "showSlug": "",
+            "path": "/climate/world-surpasses-warming-threshold-as-un-warns-of-climate-hell-18170145",
+            "publishedDate": "2024-06-05T16:37:35.889Z",
+            "authors": [
+              {
+                "userName": "alitopchi",
+                "firstName": "Ali",
+                "lastName": "Topchi",
+                "twitter": "@atopchi",
+                "mainImage": "https://cdn-i.pr.trt.com.tr/trtworld/0u_10.jpg",
+                "path": "/author/ali-topchi"
+              }
+            ],
+            "showAuthor": false,
+            "showByLine": false,
+            "showSparkbox": false,
+            "blockType": "content"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p><strong>2246 GMT — Israeli army says it intercepted drones launched from Syria, east</strong> </p><p>The Israeli army said it intercepted two drones — one launched from Syria and the other from the east. </p><p>The army said it \"intercepted a drone in the Golan Heights that was launched from Syria\". </p><p>In a separate statement, it said that \"the air force intercepted a drone heading toward the city of Eilat in the south before it crossed into Israeli territory.\" </p><p>It did not specify the source of the drone that approached from the east.</p>"
+            "value": "<p>The fund is part of a broader agreement made two years ago for countries to mobilise at least $200 billion per year by 2030 for biodiversity, including of $20 billion per year from rich nations by 2025 to help the developing world.</p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p><strong>2110 GMT — Netanyahu accuses 'Iranian proxies' for assassination attempt</strong></p><p>Israeli Prime Minister Benjamin Netanyahu accused \"Iranian proxies\" of attempting to assassinate him and his wife, following a drone attack on his private residence. </p><p>\"The agents of Iran who tried to assassinate me and my wife today made a bitter mistake,\" said Netanyahu, according to the <em>Times of Israel</em>. </p><p>The prime minister's office said the drone from Lebanon targeted Netanyahu's private home in Caesarea in northern Israel. It added that the premier and his family were not home at the time of the attack. </p><p>Israel has not immediately released details about damage from the attack, amid military and political censorship.</p>"
+            "value": "<p>Guterres highlighted that destroying nature increases conflict over resources, hunger and disease, fuels poverty and slashes GDP.</p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p><strong>2059 GMT — Lebanon's Hezbollah strikes military bases, soldier gatherings in northern Israel</strong> </p><p>Lebanese group Hezbollah said it had targeted groups of soldiers in northern Israel and military sites near the border between the two countries with rockets and artillery. </p><p>Hezbollah said in a series of statements on Telegram that it fired rocket barrages at 15 gatherings of Israeli soldiers in settlements of Shlomi, Malakiya, Avivim, Abirim, Ayta Ash-Shaab, Beit Hillel , al-Marj, Zar’it, al-Bassa and Kfar Kila. </p><p>The group further said that it targeted military bases in Nasher area, east of Haifa, settlements in the Karyot region, and the cities of Safed, Rosh Pinna and Kiryat Shmona.</p>"
+            "value": "<p>\"A collapse in nature's services — such as pollination, and clean water — would see the global economy lose trillions of dollars a year, with the poorest hardest hit,\" he said at the ceremony that featured Indigenous rites and performances.</p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p><strong>2020 GMT — Egyptian president urges immediate end to wars in Gaza, Lebanon</strong> </p><p>Egyptian President Abdel Fattah el Sisi on Saturday called for an immediate end to the fighting in Gaza and Lebanon, urging stronger efforts towards ceasefire and the exchange of hostages in Gaza. </p><p>His comments came in a meeting with a bipartisan delegation from the US House of Representatives, led by Congressman Tom Cole, chair of the Appropriations Committee, according to the Egyptian presidency. </p><p>The meeting focused on regional conditions, with Sisi addressing the US delegation on restoring peace and stability in the region while avoiding the expansion of the current conflicts into a broader war.</p>"
+            "value": "<p>Avoiding such a future would entail countries \"honoring promises on finance and accelerating support to developing countries\", said Guterres.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>\"Those profiting from nature must contribute to its protection and restoration,\" he added.</p>"
           },
           {
             "blockType": "youtube",
             "metadata": {
-              "url": "https://youtu.be/i7gCoRMBD4Y"
+              "url": "https://youtu.be/0_EWq2AirOY"
             },
-            "value": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/i7gCoRMBD4Y?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Second phase of polio vaccination drive starts in southern Gaza\"></iframe>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p><em><strong>For our live updates from Saturday, October 19, 2024, click <a href=\"https://www.trtworld.com/content/article/live-blog-appalling-news-from-northern-gaza-atrocities-must-stop-un-18222110\">here.</a></strong></em></p>"
+            "value": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/0_EWq2AirOY?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Just 2 Degrees: Is Anyone Listening to the UN?\"></iframe>"
           }
         ],
-        "path": "/middle-east/live-blog-israeli-strikes-kill-73-palestinians-in-gazas-beit-lahia-18222345",
+        "path": "/climate/un-chief-urges-significant-investment-in-fund-to-save-nature-18222619",
         "type": "article",
         "fields": {
           "search_title": {
-            "text": "Live blog: Israeli strikes kill 73 Palestinians in Gaza's Beit Lahia"
+            "text": "UN chief urges 'significant investment' in fund to save nature"
           },
           "search_description": {
-            "text": "Israel's war on Gaza, now in its 380th day, has killed at least 42,519 Palestinians and wounded nearly 100,000, with 10,000+ possibly buried under debris. Israel has also killed at least 2,448 people in Lebanon since October last year."
+            "text": "\"Those profiting from nature must contribute to its protection and restoration,\" UN chief Antonio Guterres says."
           },
           "topic_slug": {
-            "text": "middle-east"
+            "text": "climate"
           },
           "mainImage": {
             "type": "image",
-            "assetId": 21064273,
-            "key": "trtworld/21064273_0-76-2048-1153.jpeg",
+            "assetId": 21070111,
+            "key": "trtworld/21070111_0-46-2586-1456.jpeg",
             "bucket": "port-prod-asset-public-image-v3",
             "cdnUrl": "https://images-cdn.trtworld.com/trtworld/",
-            "fileName": "21064273_0-76-2048-1153.jpeg",
-            "url": "https://images-cdn.trtworld.com/trtworld/21064273_0-76-2048-1153.jpeg",
-            "title": "Israeli strikes led to widespread destruction in a residential block. / Photo: X/@swilkinsonbc",
-            "width": 2048,
-            "height": 1336,
-            "source": "Others"
+            "fileName": "21070111_0-46-2586-1456.jpeg",
+            "url": "https://images-cdn.trtworld.com/trtworld/21070111_0-46-2586-1456.jpeg",
+            "title": "Guterres highlighted that destroying nature increases conflict over resources, hunger and disease, fuels poverty and slashes GDP. / Photo: Reuters",
+            "width": 2586,
+            "height": 1724,
+            "source": "Reuters"
           },
           "authors": [
             {
@@ -1239,11 +968,11 @@
             }
           ],
           "relatedStory": {
-            "id": 12709123,
+            "id": 12711274,
             "type": "article",
-            "title": "Return to the Motherland",
-            "description": "The Israeli occupation of Palestine manifests in several shapes, and often the exertion of dominance over Palestinians takes form through pyschological warfare. This short narrative takes a look at one Palestinian's trip to her homeland.",
-            "mainImageUrl": "https://cdn-i.pr.trt.com.tr/trtworld/0m_8478-trtworld-393300-432251.jpg",
+            "title": "Resisters and community builders: the strength of women of war",
+            "description": "Women are often portrayed simply as victims of war playing a passive role in the conflict. The truth is that they have a far more crucial capacity in determining the fate of a conflict.",
+            "mainImageUrl": "https://cdn-i.pr.trt.com.tr/trtworld/0m_45323_AP_09071104436_1543331865623.jpg",
             "overlayImageUrl": "",
             "thumbnailSquare": "",
             "categories": [
@@ -1260,16 +989,286 @@
             "metaDescription": "",
             "showName": "",
             "showSlug": "",
-            "path": "/opinion/return-to-the-motherland-12709123",
-            "publishedDate": "2017-07-04T00:00:00.000Z",
+            "path": "/opinion/resisters-and-community-builders-the-strength-of-women-of-war-12711274",
+            "publishedDate": "2018-11-27T15:19:05.000Z",
             "authors": [
               {
-                "userName": "nadine.sayegh",
-                "firstName": "Nadine",
-                "lastName": "Sayegh",
-                "bio": "Nadine Sayegh is a multidisciplinary writer and researcher covering the Arab world. She has covered topics including gender in the region, countering violent extremism, the Occupied Palestinian Territories, amongst other social and political issues.",
-                "mainImage": "https://cdn-i.pr.trt.com.tr/trtworld/0u_131.jpg",
-                "path": "/author/nadine-sayegh"
+                "userName": "Aamirah Patel",
+                "firstName": "Aamirah",
+                "lastName": "Patel",
+                "bio": "Aamirah works in the World Citizen Team, the philanthropic arm of TRT World, dedicated to humanitarian affairs and socially responsible coverage. She is a Co-Founder of Muslim Women Connect, and previously worked in international development for RESULTS UK and International Service, as well as a Trustee for the youth led development agency Restless Development. ",
+                "mainImage": "https://cdn-i.pr.trt.com.tr/trtworld/0u_586.jpg",
+                "path": "/author/aamirah-patel"
+              }
+            ],
+            "showAuthor": false,
+            "showByLine": false,
+            "showSparkbox": false
+          },
+          "sources": [
+            {
+              "key": "afp",
+              "value": "AFP",
+              "metadata": {}
+            }
+          ],
+          "topics": [
+            {
+              "contentId": 12682254,
+              "title": "Home Page",
+              "slug": "home-page"
+            },
+            {
+              "contentId": 12683253,
+              "title": "Climate",
+              "slug": "climate"
+            }
+          ],
+          "team": {
+            "key": "news",
+            "value": "News",
+            "metadata": {}
+          },
+          "contentFormat": {
+            "key": "news",
+            "value": "News",
+            "metadata": {}
+          },
+          "country": {
+            "key": "col",
+            "value": "Colombia",
+            "metadata": {
+              "code": "COL",
+              "region": "Americas",
+              "subregion": "South America"
+            }
+          },
+          "tags": [
+            {
+              "key": "colombia",
+              "value": "colombia",
+              "metadata": {}
+            },
+            {
+              "key": "cop16",
+              "value": "Cop16",
+              "metadata": {}
+            },
+            {
+              "key": "un",
+              "value": "UN",
+              "metadata": {}
+            },
+            {
+              "key": "antonio-guterres",
+              "value": "Antonio Guterres",
+              "metadata": {}
+            },
+            {
+              "key": "climate",
+              "value": "climate",
+              "metadata": {}
+            },
+            {
+              "key": "climate-change",
+              "value": "climate change",
+              "metadata": {}
+            },
+            {
+              "key": "climate-crisis",
+              "value": "Climate Crisis",
+              "metadata": {}
+            },
+            {
+              "key": "nature",
+              "value": "nature",
+              "metadata": {}
+            }
+          ],
+          "overlayImage": {
+            "type": "image",
+            "key": "trtworld/f_article_fa906af12f7e66d3900b615a3e4bce6f.jpeg",
+            "bucket": "port-prod-asset-public-image-v3",
+            "cdnUrl": "https://images-cdn.trtworld.com/trtworld/",
+            "fileName": "f_article_fa906af12f7e66d3900b615a3e4bce6f.jpeg",
+            "url": "https://images-cdn.trtworld.com/trtworld/f_article_fa906af12f7e66d3900b615a3e4bce6f.jpeg",
+            "width": 2586,
+            "height": 1724
+          }
+        },
+        "metadata": {
+          "show_sparkbox": "true"
+        },
+        "site": "trtworld",
+        "viewCount": 0,
+        "published": {
+          "date": "2024-10-20T23:32:22.572Z"
+        },
+        "paths": [
+          "/climate/un-chief-urges-significant-investment-in-fund-to-save-nature-18222619"
+        ]
+      }
+    },
+    {
+      "id": 18222610,
+      "type": "article",
+      "title": "Live blog: Israel launches new wave of air strikes on southern Beirut",
+      "description": "Israel's war on Gaza, now in its 381st day, has killed at least 42,603 Palestinians and wounded nearly 100,000, with 10,000+ possibly buried under debris. Israel has also killed at least 2,464 people in Lebanon since October last year.",
+      "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21069970_0-419-8256-4649.jpeg",
+      "overlayImageUrl": "",
+      "thumbnailSquare": "",
+      "categories": [
+        {
+          "contentId": 12682254,
+          "title": "Home Page"
+        },
+        {
+          "contentId": 12683241,
+          "title": "Middle East"
+        }
+      ],
+      "metaTitle": "",
+      "metaDescription": "",
+      "showName": "",
+      "showSlug": "",
+      "path": "/middle-east/live-blog-israel-launches-new-wave-of-air-strikes-on-southern-beirut-18222610",
+      "publishedDate": "2024-10-20T23:01:55.278Z",
+      "authors": [],
+      "showAuthor": false,
+      "showByLine": false,
+      "showSparkbox": false,
+      "content": {
+        "id": 18222610,
+        "title": "Live blog: Israel launches new wave of air strikes on southern Beirut",
+        "description": "Israel's war on Gaza, now in its 381st day, has killed at least 42,603 Palestinians and wounded nearly 100,000, with 10,000+ possibly buried under debris. Israel has also killed at least 2,464 people in Lebanon since October last year.",
+        "body": [
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p><strong>Monday, October 21, 2024</strong></p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p><strong>2059 GMT —</strong> The Israeli army has launched a series of new air strikes on Beirut, targeting the Lebanese capital's southern suburb, following Israeli threats to bomb buildings housing branches of the Qard al Hassan financial institution affiliated with the Hezbollah group.</p><p>Israeli warplanes carried out at least nine strikes within an hour, targeting the association's branches in Hayy al Sellum, Borj al Barajneh, and Ghobeiry in the southern suburb of Beirut, Lebanon's <em>National News Agency </em>reported.</p><p>Earlier, the Israeli army threatened to attack \"important economic assets\" of Hezbollah in Lebanon.</p><p>Qard al Hassan is one of the key financial institutions of Hezbollah, established in the 1980s as a charitable association.</p>"
+          },
+          {
+            "blockType": "twitter",
+            "metadata": {
+              "url": "https://x.com/TRTWorldNow/status/1848088044756500710"
+            },
+            "value": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Israeli war cabinet convenes to discuss possible retaliation against Iran. Mohammad Al-Kassim has more from occupied East Jerusalem <a href=\"https://t.co/kdae0DXIEz\">pic.twitter.com/kdae0DXIEz</a></p>&mdash; TRT World Now (@TRTWorldNow) <a href=\"https://twitter.com/TRTWorldNow/status/1848088044756500710?ref_src=twsrc%5Etfw\">October 20, 2024</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p><em><strong>More updates </strong>👇</em></p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p><strong>2239 GMT — Israeli forces destroy homes, shelters in northern Gaza</strong> </p><p>The Israeli army is carrying out extensive attacks in northern Gaza, destroying homes and shelters, the Palestinian Civil Defence in the enclave said. </p><p>Spokesperson Mahmoud Bassal told <em>Anadolu</em> that the Israeli attacks aim to displace residents from northern Gaza and empty the area of its buildings. </p><p>He said what is happening in Jabalia represents \"ethnic cleansing and the destruction of all life's essentials\" amid an escalation of Israeli bombardments on dozens of homes in Jabalia, Beit Lahia and Beit Hanoun. </p><p>\"The bodies of dozens of martyrs are still under the rubble due to the intense Israeli bombardment in the northern areas, which exacerbates the humanitarian catastrophe in the region,\" Bassal said. </p><p>The Israeli army has pressed ahead with a massive offensive in northern Gaza, now in its 16th day, amid a suffocating siege of the area.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p><strong>2223 GMT — Thousands rally in Brussels to demand ceasefire in Gaza, Lebanon</strong> </p><p>Nearly 32,000 people took to the streets of Belgium's capital to call for an immediate ceasefire in Gaza and Lebanon, according to the police. </p><p>At the event in Brussels, demonstrators also called on the Belgian government to push for a complete international military embargo against Israel. </p><p>The event was organised by a coalition of civil society organisations, the <em>Belga News Agency</em> reported.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p><strong>2054 GMT — Death toll from Israeli onslaught in Lebanon surges to 2,464</strong></p><p>The death toll from Israel's ongoing onslaught in Lebanon since October 8 last year has surged to at least 2,464, the Lebanese Health Ministry said.</p><p>A ministry statement said at least 16 people were killed and 59 others injured in Israeli attacks over the last 24 hours, raising the number of injured to 11,530.</p><p>Israel has mounted a massive air campaign in Lebanon against what it claims are Hezbollah targets since September 23, displacing more than 1.34 million people.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p><strong>2029 GMT — Two Palestinians killed in Israeli attack on southern Gaza</strong></p><p>Two Palestinians were killed and 19 others were injured in two Israeli air strikes targeting a home and a tent housing displaced people in central and southern Gaza.</p><p>The two Palestinians were killed in an air strike on the Mawasi area west of Khan Younis, which also injured eight others, a medical source told <em>Anadolu</em>. </p><p>Eyewitnesses said an Israeli helicopter targeted a tent sheltering displaced Palestinians in Mawasi, which is designated as a \"humanitarian safe zone\" by the Israeli army.</p>"
+          },
+          {
+            "blockType": "youtube",
+            "metadata": {
+              "url": "https://youtu.be/KurB2dzjfwU"
+            },
+            "value": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/KurB2dzjfwU?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Yahya Sinwar&#39;s name will outlive Israel he was fighting against — Ashish Prashar\"></iframe>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p><em><strong>For our live updates from Sunday, October 20, 2024, click <a href=\"https://www.trtworld.com/middle-east/live-blog-gaza-resistance-fighters-kill-israeli-colonel-hit-tanks-18222345\">here</a>.</strong></em></p>"
+          }
+        ],
+        "path": "/middle-east/live-blog-israel-launches-new-wave-of-air-strikes-on-southern-beirut-18222610",
+        "type": "article",
+        "fields": {
+          "search_title": {
+            "text": "Live blog: Israel launches new wave of air strikes on southern Beirut"
+          },
+          "search_description": {
+            "text": "Israel's war on Gaza, now in its 381st day, has killed at least 42,603 Palestinians and wounded nearly 100,000, with 10,000+ possibly buried under debris. Israel has also killed at least 2,464 people in Lebanon since October last year."
+          },
+          "topic_slug": {
+            "text": "middle-east"
+          },
+          "mainImage": {
+            "type": "image",
+            "assetId": 21069970,
+            "key": "trtworld/21069970_0-419-8256-4649.jpeg",
+            "bucket": "port-prod-asset-public-image-v3",
+            "cdnUrl": "https://images-cdn.trtworld.com/trtworld/",
+            "fileName": "21069970_0-419-8256-4649.jpeg",
+            "url": "https://images-cdn.trtworld.com/trtworld/21069970_0-419-8256-4649.jpeg",
+            "title": "Smoke and flames rise following an Israeli attack on Dahiyeh in Beirut. / Photo: AA",
+            "width": 8256,
+            "height": 5504,
+            "source": "AA"
+          },
+          "authors": [
+            {
+              "firstName": {
+                "text": "Staff"
+              },
+              "lastName": {
+                "text": "Reporter"
+              },
+              "twitter": {
+                "text": ""
+              },
+              "bio": {
+                "text": ""
+              },
+              "path": "/author/staff-reporter"
+            }
+          ],
+          "relatedStory": {
+            "id": 18222609,
+            "type": "article",
+            "title": "Oxfam 'strongly condemns' killing of water engineers in Israeli Gaza strike",
+            "description": "Dozens of engineers, civil servants and aid workers have been killed in Israeli air strikes during Tel Aviv's ongoing war, Oxfam says.",
+            "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21069848_0-0-2355-1326.jpeg",
+            "overlayImageUrl": "https://images-cdn.trtworld.com/trtworld/f_article_b73735c6c21db39a40f1c697d1fb18b3.jpeg",
+            "thumbnailSquare": "",
+            "categories": [
+              {
+                "contentId": 12682254,
+                "title": "Home Page"
+              },
+              {
+                "contentId": 12683241,
+                "title": "Middle East"
+              }
+            ],
+            "metaTitle": "",
+            "metaDescription": "",
+            "showName": "",
+            "showSlug": "",
+            "path": "/middle-east/oxfam-strongly-condemns-killing-of-water-engineers-in-israeli-gaza-strike-18222609",
+            "publishedDate": "2024-10-20T22:07:19.816Z",
+            "authors": [
+              {
+                "userName": "Staff.Reporter",
+                "firstName": "Staff",
+                "lastName": "Reporter",
+                "path": "/author/staff-reporter"
               }
             ],
             "showAuthor": false,
@@ -1326,28 +1325,13 @@
               "metadata": {}
             },
             {
-              "key": "middle-east",
-              "value": "MIDDLE EAST",
-              "metadata": {}
-            },
-            {
-              "key": "middle-east-crisis",
-              "value": "Middle East Crisis",
+              "key": "gaza",
+              "value": "Gaza",
               "metadata": {}
             },
             {
               "key": "gaza-war",
               "value": "Gaza War",
-              "metadata": {}
-            },
-            {
-              "key": "lebanon-war",
-              "value": "Lebanon War",
-              "metadata": {}
-            },
-            {
-              "key": "netanyahu",
-              "value": "Netanyahu",
               "metadata": {}
             },
             {
@@ -1361,30 +1345,45 @@
               "metadata": {}
             },
             {
-              "key": "israeli-strikes",
-              "value": "Israeli Strikes",
+              "key": "lebanon",
+              "value": "Lebanon",
+              "metadata": {}
+            },
+            {
+              "key": "middle-east",
+              "value": "MIDDLE EAST",
+              "metadata": {}
+            },
+            {
+              "key": "israeli-airstrikes",
+              "value": "Israeli Airstrikes",
+              "metadata": {}
+            },
+            {
+              "key": "hezbollah-rocketfire",
+              "value": "Hezbollah Rocketfire",
+              "metadata": {}
+            },
+            {
+              "key": "october-7",
+              "value": "October 7",
               "metadata": {}
             },
             {
               "key": "gaza-genocide",
               "value": "Gaza Genocide",
               "metadata": {}
-            },
-            {
-              "key": "united-nations",
-              "value": "United Nations",
-              "metadata": {}
             }
           ],
           "overlayImage": {
             "type": "image",
-            "key": "trtworld/f_article_c5713732d8d15a96d75da80689c2ebfa.jpeg",
+            "key": "trtworld/f_article_868e213c4231dcbf6b1821023c959af1.jpeg",
             "bucket": "port-prod-asset-public-image-v3",
             "cdnUrl": "https://images-cdn.trtworld.com/trtworld/",
-            "fileName": "f_article_c5713732d8d15a96d75da80689c2ebfa.jpeg",
-            "url": "https://images-cdn.trtworld.com/trtworld/f_article_c5713732d8d15a96d75da80689c2ebfa.jpeg",
-            "width": 2048,
-            "height": 1336
+            "fileName": "f_article_868e213c4231dcbf6b1821023c959af1.jpeg",
+            "url": "https://images-cdn.trtworld.com/trtworld/f_article_868e213c4231dcbf6b1821023c959af1.jpeg",
+            "width": 8256,
+            "height": 5504
           }
         },
         "metadata": {
@@ -1393,19 +1392,19 @@
         "site": "trtworld",
         "viewCount": 0,
         "published": {
-          "date": "2024-10-20T03:25:28.998Z"
+          "date": "2024-10-20T23:01:55.278Z"
         },
         "paths": [
-          "/middle-east/live-blog-israeli-strikes-kill-73-palestinians-in-gazas-beit-lahia-18222345"
+          "/middle-east/live-blog-israel-launches-new-wave-of-air-strikes-on-southern-beirut-18222610"
         ]
       }
     },
     {
-      "id": 18222372,
+      "id": 18222609,
       "type": "article",
-      "title": "US-led sanctions monitoring team unlawful: North Korea",
-      "description": "Tensions on the Korean peninsula have intensified in recent years.",
-      "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21065695_0-375-5246-2954.jpeg",
+      "title": "Oxfam 'strongly condemns' killing of water engineers in Israeli Gaza strike",
+      "description": "Dozens of engineers, civil servants and aid workers have been killed in Israeli air strikes during Tel Aviv's ongoing war, Oxfam says.",
+      "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21069848_0-0-2355-1326.jpeg",
       "overlayImageUrl": "",
       "thumbnailSquare": "",
       "categories": [
@@ -1414,67 +1413,37 @@
           "title": "Home Page"
         },
         {
-          "contentId": 12682879,
-          "title": "Asia"
+          "contentId": 12683241,
+          "title": "Middle East"
         }
       ],
       "metaTitle": "",
       "metaDescription": "",
       "showName": "",
       "showSlug": "",
-      "path": "/asia/us-led-sanctions-monitoring-team-unlawful-north-korea-18222372",
-      "publishedDate": "2024-10-20T03:17:29.634Z",
+      "path": "/middle-east/oxfam-strongly-condemns-killing-of-water-engineers-in-israeli-gaza-strike-18222609",
+      "publishedDate": "2024-10-20T22:07:19.816Z",
       "authors": [],
       "showAuthor": false,
       "showByLine": false,
       "showSparkbox": false,
       "content": {
-        "id": 18222372,
-        "title": "US-led sanctions monitoring team unlawful: North Korea",
-        "description": "Tensions on the Korean peninsula have intensified in recent years.",
+        "id": 18222609,
+        "title": "Oxfam 'strongly condemns' killing of water engineers in Israeli Gaza strike",
+        "description": "Dozens of engineers, civil servants and aid workers have been killed in Israeli air strikes during Tel Aviv's ongoing war, Oxfam says.",
         "body": [
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p>North Korea's foreign minister said a new multilateral sanctions monitoring team led by the United States was \"utterly unlawful and illegitimate\", state media reported on Sunday.</p>"
+            "value": "<p>Oxfam has condemned in strongest terms the killing of four water engineers and workers from the Khuzaa municipality in Gaza, the Oxfam International <a href=\"https://www.oxfam.org/en/press-releases/oxfam-condemns-killing-water-engineers-gaza\">said</a>.</p><p>The workers, collaborating with Oxfam's strategic partner, the Coastal Municipalities Water Utility (CMWU), were killed in a bombing incident despite their vehicle being clearly marked and their movements coordinated with Israeli authorities. </p><p>The four men were travelling east of Khan Younis to carry out urgent repairs on Gaza's water infrastructure when the air strike occurred.  </p><p>Oxfam expressed solidarity with CMWU, its partners and the families of the victims, highlighting the dire impact their killings will have on an already strained water supply system in Gaza. </p><p>The humanitarian crisis in Gaza continues to escalate, with clean water access severely compromised.</p>"
           },
           {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>The United States, South Korea and Japan on Wednesday announced the launch of a new multinational team to monitor the enforcement of sanctions against North Korea after Russia and China thwarted monitoring activities at the United Nations.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>The team was introduced after Russia in March rejected the annual renewal of a UN panel of experts that had over the past 15 years overseen the implementation of sanctions aimed at curbing North Korea's nuclear and missile programmes.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>China, North Korea's chief ally and economic lifeline, abstained from the vote.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>Tensions on the Korean peninsula have intensified in recent years with North Korea stepping up its development of a series of ballistic missiles and a nuclear arsenal, drawing international sanctions, and forming a close military relations with Russia.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>Washington has been strengthening its security cooperation with key regional allies South Korea and Japan.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>\"The forces involved in the smear campaign against the DPRK will have to pay a dear price for it,\" Foreign Minister Choe Son Hui said via state news agency KCNA, using the country's official name.</p>"
-          },
-          {
-            "id": 18220588,
+            "id": 18185312,
             "type": "article",
-            "title": "North Korea: Over a million join army amid drone tensions",
-            "description": "The enlistment surge followed Pyongyang's accusation that Seoul's military had violated its sovereignty, leading to escalated tensions between the two countries.",
-            "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21048693_0-160-5314-2992.jpeg",
-            "overlayImageUrl": "https://images-cdn.trtworld.com/trtworld/f_article_f2380ffecc77181722d5be8897e7c1a6.jpeg",
+            "title": "Israel weaponises water in its military campaign in Gaza: Oxfam",
+            "description": "Water supply in Gaza reduced by 94 percent, says Oxfam, urging world to take decisive action to prevent further suffering of Palestinians.",
+            "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/10715450_0-180-4227-2380.jpeg",
+            "overlayImageUrl": "https://images-cdn.trtworld.com/trtworld/f_article_e4fe8af3263d975681e8043cb47d1323.jpeg",
             "thumbnailSquare": "",
             "categories": [
               {
@@ -1482,22 +1451,26 @@
                 "title": "Home Page"
               },
               {
-                "contentId": 12682879,
-                "title": "Asia"
+                "contentId": 12683241,
+                "title": "Middle East"
+              },
+              {
+                "contentId": 12683245,
+                "title": "Discrimination"
               }
             ],
             "metaTitle": "",
             "metaDescription": "",
             "showName": "",
             "showSlug": "",
-            "path": "/asia/north-korea-over-a-million-join-army-amid-drone-tensions-18220588",
-            "publishedDate": "2024-10-16T08:13:48.200Z",
+            "path": "/middle-east/israel-weaponises-water-in-its-military-campaign-in-gaza-oxfam-18185312",
+            "publishedDate": "2024-07-18T16:42:11.719Z",
             "authors": [
               {
-                "userName": "emir.isci",
-                "firstName": "Emir",
-                "lastName": "Isci",
-                "path": "/author/emir-isci"
+                "userName": "Staff.Reporter",
+                "firstName": "Staff",
+                "lastName": "Reporter",
+                "path": "/author/staff-reporter"
               }
             ],
             "showAuthor": false,
@@ -1508,75 +1481,102 @@
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p><strong>'Global peace'</strong></p>"
+            "value": "<p><strong>Violation of international law</strong></p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p>Choe criticised the team, which would be joined by eight other countries, as Washington's misconduct of flouting the international order and as \"the most undisguised violation\" of North Korea's sovereignty.</p>"
+            "value": "<p>Oxfam said dozens of engineers, civil servants and aid workers have been killed in Israeli air strikes during Tel Aviv's ongoing war, many of whom were working on essential services aimed at keeping Gaza's fragile infrastructure operational.  </p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p>Washington and Seoul have warned of North Korea's close military ties with Moscow. </p>"
+            "value": "<p>In spite of the coordination efforts between CMWU, the Palestinian Water Authority and Israeli authorities to protect these workers, they remain vulnerable to attacks. </p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p>South Korea's spy agency said on Friday that North Korea has shipped 1,500 special forces troops to Russia's Far East for training and acclimatising at local military bases and will likely be deployed for combat in the war in Ukraine.</p>"
+            "value": "<p>\"These assaults on civilian infrastructure and the people who work tirelessly to maintain it are clear violations of international humanitarian law,\" an Oxfam spokesperson said.  </p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p>Russia and North Korea both deny they have engaged in arms transfers. The Kremlin has also dismissed South Korean assertions that North Korea may have sent some military personnel to help Russia against Ukraine.</p>"
+            "value": "<p>\"Those responsible must be held accountable. Attacking essential workers is part of the crime of using starvation as a weapon of war.\" </p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p>US Defence Secretary Lloyd Austin said he could not confirm reports that North Korea has sent troops to Russia ahead of what could be a deployment to Ukraine, but added such a move would be concerning, if true.</p>"
+            "value": "<p>Oxfam has called for an independent investigation into the killings and reiterated its demands for a ceasefire, an end to arms transfers to Israel and greater international pressure to hold Israel accountable for its actions against civilians and those delivering life-saving services in Gaza.</p>"
           },
           {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>Meanwhile, Chinese President Xi Jinping said he was willing to lead friendship and cooperation with North Korea to \"sustainable and stable development\" and contribute to \"safeguarding regional and global peace\", North Korean state media reported on Sunday.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>Xi sent a reply to North Korean leader Kim Jong-un congratulating China's founding anniversary, according to KCNA.</p>"
+            "id": 17406351,
+            "type": "article",
+            "title": "Oxfam: Israel 'deliberately' blocking aid to Gaza",
+            "description": "The report says Israel continued to \"systematically and deliberately block and undermine any meaningful international humanitarian response\" in the Palestinian territory.",
+            "mainImageUrl": "https://cdn-i.pr.trt.com.tr/trtworld/18341769_0-104-5500-3097.jpeg",
+            "overlayImageUrl": "https://cdn-i.pr.trt.com.tr/trtworld/f_article_3e94e2531c1a0d38242396dfcf59ac97.jpeg",
+            "thumbnailSquare": "",
+            "categories": [
+              {
+                "contentId": 12682254,
+                "title": "Home Page"
+              },
+              {
+                "contentId": 12683241,
+                "title": "Middle East"
+              }
+            ],
+            "metaTitle": "",
+            "metaDescription": "",
+            "showName": "",
+            "showSlug": "",
+            "path": "/middle-east/oxfam-israel-deliberately-blocking-aid-to-gaza-17406351",
+            "publishedDate": "2024-03-18T02:28:58.845Z",
+            "authors": [
+              {
+                "userName": "Staff.Reporter",
+                "firstName": "Staff",
+                "lastName": "Reporter",
+                "path": "/author/staff-reporter"
+              }
+            ],
+            "showAuthor": false,
+            "showByLine": false,
+            "showSparkbox": false,
+            "blockType": "content"
           },
           {
             "blockType": "youtube",
             "metadata": {
-              "url": "https://youtu.be/6UjkC5GLOp4"
+              "url": "https://youtu.be/DaErmF-nYFA"
             },
-            "value": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/6UjkC5GLOp4?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Russian President Putin’s historic visit to North Korea\"></iframe>"
+            "value": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/DaErmF-nYFA?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Humanitarian crisis in northern Gaza worsens\"></iframe>"
           }
         ],
-        "path": "/asia/us-led-sanctions-monitoring-team-unlawful-north-korea-18222372",
+        "path": "/middle-east/oxfam-strongly-condemns-killing-of-water-engineers-in-israeli-gaza-strike-18222609",
         "type": "article",
         "fields": {
           "search_title": {
-            "text": "US-led sanctions monitoring team unlawful: North Korea"
+            "text": "Oxfam 'strongly condemns' killing of water engineers in Israeli Gaza strike"
           },
           "search_description": {
-            "text": "Tensions on the Korean peninsula have intensified in recent years."
+            "text": "Dozens of engineers, civil servants and aid workers have been killed in Israeli air strikes during Tel Aviv's ongoing war, Oxfam says."
           },
           "topic_slug": {
-            "text": "asia"
+            "text": "middle-east"
           },
           "mainImage": {
             "type": "image",
-            "assetId": 21065695,
-            "key": "trtworld/21065695_0-375-5246-2954.jpeg",
+            "assetId": 21069848,
+            "key": "trtworld/21069848_0-0-2355-1326.jpeg",
             "bucket": "port-prod-asset-public-image-v3",
             "cdnUrl": "https://images-cdn.trtworld.com/trtworld/",
-            "fileName": "21065695_0-375-5246-2954.jpeg",
-            "url": "https://images-cdn.trtworld.com/trtworld/21065695_0-375-5246-2954.jpeg",
-            "title": "Foreign Minister Choe Son Hui criticised Washington for its \"most undisguised violation\" of North Korea's sovereignty. / Photo: Reuters",
-            "width": 5248,
-            "height": 3504,
-            "source": "Reuters"
+            "fileName": "21069848_0-0-2355-1326.jpeg",
+            "url": "https://images-cdn.trtworld.com/trtworld/21069848_0-0-2355-1326.jpeg",
+            "title": "Smoke rises in residential areas after Israeli attacks on town of Bani Suheila of Khan Younis, Gaza. / Photo: AA",
+            "width": 2355,
+            "height": 1570,
+            "source": "AA"
           },
           "authors": [
             {
@@ -1596,17 +1596,17 @@
             }
           ],
           "relatedStory": {
-            "id": 12710109,
+            "id": 12709492,
             "type": "article",
-            "title": "Koreas remove guns from Cold War truce village",
-            "description": "South and North Korea — which are technically still at war — agreed to take measures to ease military tensions on their border at a meeting in Pyongyang last month between President Moon Jae-in and Kim Jong-un.",
-            "mainImageUrl": "https://cdn-i.pr.trt.com.tr/trtworld/0m_43089_KOR2018DMZRTR_1540441222211.JPG",
+            "title": "At least 130 Palestinians hit by Israeli gunfire during Gaza protests",
+            "description": "About 200 Palestinians have been killed by Israeli forces since the protests started in late March, according to Palestinian Health Ministry figures. One Israeli soldier has been killed.",
+            "mainImageUrl": "https://cdn-i.pr.trt.com.tr/trtworld/0m_42792_PSE181019PalestinegazaprotestsReuters_1539971072147.JPG",
             "overlayImageUrl": "",
             "thumbnailSquare": "",
             "categories": [
               {
-                "contentId": 12682879,
-                "title": "Asia"
+                "contentId": 12683241,
+                "title": "Middle East"
               },
               {
                 "contentId": 12682254,
@@ -1617,17 +1617,16 @@
             "metaDescription": "",
             "showName": "",
             "showSlug": "",
-            "path": "/asia/koreas-remove-guns-from-cold-war-truce-village-12710109",
-            "publishedDate": "2018-10-25T05:52:30.000Z",
+            "path": "/middle-east/at-least-130-palestinians-hit-by-israeli-gunfire-during-gaza-protests-12709492",
+            "publishedDate": "2018-10-19T18:29:54.000Z",
             "authors": [
               {
-                "userName": "imranmaqbool",
-                "firstName": "Imran",
-                "lastName": "Maqbool",
-                "bio": "Imran Maqbool is Senior Editor, Digital Fast News Desk, at TRT World in Istanbul. In his 25-year-long career, he remained associated with distinguished Pakistani and international media organisations including Reuters, Dow Jones Newswires, AFP, Khaleej Times, The News and others.",
-                "twitter": "ImranMaqbool",
-                "mainImage": "https://cdn-i.pr.trt.com.tr/trtworld/0u_48.jpg",
-                "path": "/author/imran-maqbool"
+                "userName": "azaeraamza",
+                "firstName": "Azaera",
+                "lastName": "Amza",
+                "bio": "Azaera Amza is a producer at TRT World. ",
+                "twitter": "@azeamza",
+                "path": "/author/azaera-amza"
               }
             ],
             "showAuthor": false,
@@ -1636,8 +1635,8 @@
           },
           "sources": [
             {
-              "key": "reuters",
-              "value": "Reuters",
+              "key": "trtworld-and-agencies",
+              "value": "TRTWorld and agencies",
               "metadata": {}
             }
           ],
@@ -1648,9 +1647,9 @@
               "slug": "home-page"
             },
             {
-              "contentId": 12682879,
-              "title": "Asia",
-              "slug": "asia"
+              "contentId": 12683241,
+              "title": "Middle East",
+              "slug": "middle-east"
             }
           ],
           "team": {
@@ -1664,65 +1663,60 @@
             "metadata": {}
           },
           "country": {
-            "key": "prk",
-            "value": "Korea ",
+            "key": "pse",
+            "value": "Palestine",
             "metadata": {
-              "code": "PRK",
+              "code": "PSE",
               "region": "Asia",
-              "subregion": "Eastern Asia"
+              "subregion": "Western Asia"
             }
           },
           "tags": [
             {
-              "key": "north-korea",
-              "value": "North Korea",
+              "key": "palestine",
+              "value": "Palestine",
               "metadata": {}
             },
             {
-              "key": "dprk",
-              "value": "DPRK",
+              "key": "israel",
+              "value": "Israel",
               "metadata": {}
             },
             {
-              "key": "korean-peninsula",
-              "value": "Korean peninsula",
+              "key": "gaza",
+              "value": "Gaza",
               "metadata": {}
             },
             {
-              "key": "us",
-              "value": "US",
+              "key": "gaza-war",
+              "value": "Gaza War",
               "metadata": {}
             },
             {
-              "key": "china",
-              "value": "china",
+              "key": "oxfam",
+              "value": "Oxfam",
               "metadata": {}
             },
             {
-              "key": "russia",
-              "value": "Russia",
+              "key": "hamas",
+              "value": "Hamas",
               "metadata": {}
             },
             {
-              "key": "japan",
-              "value": "Japan",
-              "metadata": {}
-            },
-            {
-              "key": "south-korea",
-              "value": "South Korea",
+              "key": "hezbollah",
+              "value": "Hezbollah",
               "metadata": {}
             }
           ],
           "overlayImage": {
             "type": "image",
-            "key": "trtworld/f_article_adb70190d6766eb145c7a37b6be23ae1.jpeg",
+            "key": "trtworld/f_article_b73735c6c21db39a40f1c697d1fb18b3.jpeg",
             "bucket": "port-prod-asset-public-image-v3",
             "cdnUrl": "https://images-cdn.trtworld.com/trtworld/",
-            "fileName": "f_article_adb70190d6766eb145c7a37b6be23ae1.jpeg",
-            "url": "https://images-cdn.trtworld.com/trtworld/f_article_adb70190d6766eb145c7a37b6be23ae1.jpeg",
-            "width": 5248,
-            "height": 3504
+            "fileName": "f_article_b73735c6c21db39a40f1c697d1fb18b3.jpeg",
+            "url": "https://images-cdn.trtworld.com/trtworld/f_article_b73735c6c21db39a40f1c697d1fb18b3.jpeg",
+            "width": 2355,
+            "height": 1570
           }
         },
         "metadata": {
@@ -1731,10 +1725,10 @@
         "site": "trtworld",
         "viewCount": 0,
         "published": {
-          "date": "2024-10-20T03:17:29.634Z"
+          "date": "2024-10-20T22:07:19.816Z"
         },
         "paths": [
-          "/asia/us-led-sanctions-monitoring-team-unlawful-north-korea-18222372"
+          "/middle-east/oxfam-strongly-condemns-killing-of-water-engineers-in-israeli-gaza-strike-18222609"
         ]
       }
     },

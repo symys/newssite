@@ -17,6 +17,8 @@ const config: Config = {
         middleGray: '#A0A5AA',
         popularGray: '#BFC3C9',
         popularTitleGray: '#22262A',
+        tagBackground: '#EDF2F7',
+        tagText: '#777C80',
 
       },
       fontFamily: {
