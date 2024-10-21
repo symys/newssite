@@ -1,4 +1,6 @@
 import Image from "next/image";
+/* eslint-disable @typescript-eslint/no-explicit-any */
+
 
 const RelatedArticles = ({ img, title }: any) => {
   return (

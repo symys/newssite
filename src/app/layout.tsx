@@ -3,6 +3,8 @@ import localFont from "next/font/local";
 import "./globals.css";
 import Navbar from "@/components/Navbar";
 import { ArticleProvider } from "./context/ArticleContext";
+/* eslint-disable @typescript-eslint/no-explicit-any */
+
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",

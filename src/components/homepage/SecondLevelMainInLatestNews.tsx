@@ -3,6 +3,8 @@ import { useArticle } from '@/app/context/ArticleContext';
 import Image from 'next/image';
 import { useRouter } from 'next/navigation';
 import React from 'react';
+/* eslint-disable @typescript-eslint/no-explicit-any */
+
 
 function SecondLevelMainInLatestNews({data} : any) {
   const { setArticle } = useArticle();

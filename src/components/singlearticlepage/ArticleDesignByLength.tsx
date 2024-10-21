@@ -2,6 +2,8 @@
 import parse from "html-react-parser";
 import ArticlePageReadMore from "./ArticlePageReadMore";
 import Tags from "./Tags";
+/* eslint-disable @typescript-eslint/no-explicit-any */
+
 
 const ArticleDesignByLength = ({ articleArr, embedUrl }: any) => {
   const isArticleLong: boolean =

@@ -3,6 +3,8 @@
 import { useRouter } from "next/navigation";
 import React from "react";
 import { useArticle } from '../../app/context/ArticleContext';
+/* eslint-disable @typescript-eslint/no-explicit-any */
+
 
 function MainInLatestNews({ data }: any) {
   const { setArticle } = useArticle();

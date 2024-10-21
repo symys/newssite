@@ -4,6 +4,8 @@ import { useArticle } from "../../context/ArticleContext";
 import React from "react";
 import ArticleDesignByLength from "@/components/singlearticlepage/ArticleDesignByLength";
 import RelatedArticles from "@/components/singlearticlepage/RelatedArticles";
+/* eslint-disable @typescript-eslint/no-explicit-any */
+
 
 function SingleArticlePage() {
   const { article } = useArticle();

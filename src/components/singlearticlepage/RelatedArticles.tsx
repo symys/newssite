@@ -1,4 +1,6 @@
 import RelatedArticleCard from "./RelatedArticleCard";
+/* eslint-disable @typescript-eslint/no-explicit-any */
+
 
 const RelatedArticles = ({relatedArticleData}:any) => {
 //    actually I thought that I should add a map here but when I check API I saw there is no a relatedStory arrayBuffer, just 1 obj

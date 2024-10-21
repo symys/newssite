@@ -7,6 +7,8 @@ type PopularNewsCardProps = {
   region: any;
   title: any;
 };
+/* eslint-disable @typescript-eslint/no-explicit-any */
+
 
 const PopularToday = ({ data }: any) => {
   const router = useRouter();
