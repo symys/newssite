@@ -13,7 +13,6 @@ const ArticleDesignByLength = ({ articleArr, embedUrl }: any) => {
   const findSubArticles = articleArr.content.body.filter(
     (item: any) => item.type == "article"
   );
-  console.log("*********exis", findSubArticles);
 
   if (isArticleLong) {
     return (
@@ -126,13 +125,15 @@ const ArticleDesignByLength = ({ articleArr, embedUrl }: any) => {
         })}
       </div>
 
-      <div className="gap-4 flex flex-col px-28 screen768:px-10 pt-10">
-        <ArticlePageReadMore
-          isReadMore={true}
-          img={articleArr.mainImageUrl}
-          title={articleArr.title}
-        />
-      </div>
+      {(findSubArticles.length >= 1) && (
+          <div className="gap-4 flex flex-col px-28 screen768:px-10 pt-10">
+            <ArticlePageReadMore
+              isReadMore={true}
+              img={findSubArticles[0].mainImageUrl}
+              title={findSubArticles[0].title}
+            />
+          </div>
+        )}
       <div className="gap-4 flex flex-col px-28 screen768:px-10 pt-10">
         {articleArr.content.body.slice(4).map((item: any) => {
           return item.blockType === "text" && parse(item.value);
@@ -194,13 +195,15 @@ const ArticleDesignByLength = ({ articleArr, embedUrl }: any) => {
         })}
       </div>
 
-      <div className="gap-4 flex flex-col px-28 screen768:px-10 pt-10">
-        <ArticlePageReadMore
-          isReadMore={true}
-          img={articleArr.mainImageUrl}
-          title={articleArr.title}
-        />
-      </div>
+      {(findSubArticles.length >= 1) && (
+          <div className="gap-4 flex flex-col px-28 screen768:px-10 pt-10">
+            <ArticlePageReadMore
+              isReadMore={true}
+              img={findSubArticles[0].mainImageUrl}
+              title={findSubArticles[0].title}
+            />
+          </div>
+        )}
       {embedUrl && (
         <div className="pt-6 flex justify-center w-full h-[40vh] px-28 screen768:px-10">
           <div className="w-full justify-center flex">

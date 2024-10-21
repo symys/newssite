@@ -1,5 +1,131 @@
 {
   "homepageapi": {
+    "latest": [
+      {
+        "id": 18222610,
+        "type": "article",
+        "title": "Live blog: Israel kills 29 Palestinians in north Gaza in fresh strikes",
+        "description": "Israel's war on Gaza, now in its 381st day, has killed at least 42,603 Palestinians and wounded nearly 100,000, with 10,000+ possibly buried under debris. Israel has also killed at least 2,464 people in Lebanon since October last year.",
+        "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21071671_0-298-5760-3243.jpeg",
+        "overlayImageUrl": "",
+        "thumbnailSquare": "",
+        "categories": [
+          {
+            "contentId": 12682254,
+            "title": "Home Page"
+          },
+          {
+            "contentId": 12683241,
+            "title": "Middle East"
+          }
+        ],
+        "metaTitle": "",
+        "metaDescription": "",
+        "showName": "",
+        "showSlug": "",
+        "path": "/middle-east/live-blog-israel-kills-29-palestinians-in-north-gaza-in-fresh-strikes-18222610",
+        "publishedDate": "2024-10-21T10:25:49.253Z",
+        "authors": [],
+        "showAuthor": false,
+        "showByLine": false,
+        "showSparkbox": false
+      },
+      {
+        "id": 18222771,
+        "type": "article",
+        "title": "Beyond Gaza’s death toll: Countless stories of grieving parents, children",
+        "description": "A new study analyses the profound psychological impact of Israel’s war on the Palestinian enclave, where hundreds of thousands have lost at least one parent or a child.",
+        "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21071413_303-161-3936-2216.jpeg",
+        "overlayImageUrl": "",
+        "thumbnailSquare": "",
+        "categories": [
+          {
+            "contentId": 12682254,
+            "title": "Home Page"
+          },
+          {
+            "contentId": 12683233,
+            "title": "Magazine"
+          },
+          {
+            "contentId": 12683241,
+            "title": "Middle East"
+          }
+        ],
+        "metaTitle": "",
+        "metaDescription": "",
+        "showName": "",
+        "showSlug": "",
+        "path": "/magazine/beyond-gazas-death-toll-countless-stories-of-grieving-parents-children-18222771",
+        "publishedDate": "2024-10-21T09:36:59.866Z",
+        "authors": [],
+        "showAuthor": false,
+        "showByLine": false,
+        "showSparkbox": false
+      },
+      {
+        "id": 18222762,
+        "type": "article",
+        "title": "US deploys THAAD anti-missile system in Israel",
+        "description": "President Joe Biden said the THAAD's deployment, along with about 100 US soldiers, was meant to help \"defend\" Israel.",
+        "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21071463_0-0-1917-1080.jpeg",
+        "overlayImageUrl": "",
+        "thumbnailSquare": "",
+        "categories": [
+          {
+            "contentId": 12682254,
+            "title": "Home Page"
+          },
+          {
+            "contentId": 12682885,
+            "title": "Americas"
+          }
+        ],
+        "metaTitle": "",
+        "metaDescription": "",
+        "showName": "",
+        "showSlug": "",
+        "path": "/americas/us-deploys-thaad-anti-missile-system-in-israel-18222762",
+        "publishedDate": "2024-10-21T08:52:01.681Z",
+        "authors": [],
+        "showAuthor": false,
+        "showByLine": false,
+        "showSparkbox": false
+      },
+      {
+        "id": 18222737,
+        "type": "article",
+        "title": "Australian senator to King Charles: 'Give us what you stole from us'",
+        "description": "Indigenous independent Senator Lidia Thorpe was escorted out of a parliamentary reception for the royal couple after shouting that British colonizers have taken Indigenous land and bones.",
+        "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21071397_0-0-5882-3313.jpeg",
+        "overlayImageUrl": "",
+        "thumbnailSquare": "",
+        "categories": [
+          {
+            "contentId": 12682254,
+            "title": "Home Page"
+          },
+          {
+            "contentId": 12682881,
+            "title": "Australia"
+          },
+          {
+            "contentId": 12682883,
+            "title": "Europe"
+          }
+        ],
+        "metaTitle": "",
+        "metaDescription": "",
+        "showName": "",
+        "showSlug": "",
+        "path": "/australia/australian-senator-to-king-charles-give-us-what-you-stole-from-us-18222737",
+        "publishedDate": "2024-10-21T08:42:45.261Z",
+        "authors": [],
+        "showAuthor": false,
+        "showByLine": false,
+        "showSparkbox": false
+      }
+    ],
     "metadata": {
       "siteUrl": "https://trtworld.com",
       "pageTitle": "TRT World - Breaking News, Live Coverage, Opinions and Videos",
@@ -7,13 +133,13 @@
       "pageDescription": "Breaking news, live coverage, opinions, features, in-depth analysis and videos from TRT World, 24/7.",
       "pageImage": "https://cdn-i.pr.trt.com.tr/trtworld/16275646.png"
     },
-    "latest": [
+    "news": [
       {
-        "id": 18222650,
+        "id": 12977396,
         "type": "article",
-        "title": "Pakistan passes constitutional amendments to prevent court 'interference'",
-        "description": "The government clinched 225 votes of the required 224 with the crucial support of a handful of dissident MPs from the opposition.",
-        "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21070506_0-710-7045-3967.jpeg",
+        "title": "South Africa's Ramaposa rows back from pledge to quit ICC",
+        "description": "South African President Cyril Ramaphosa a day earlier said his ANC party had resolved that his country should quit the ICC, which last month issued an arrest warrant against Russian President Vladimir Putin.",
+        "mainImageUrl": "https://cdn-i.pr.trt.com.tr/trtworld/16275004_0-183-4498-2533.jpeg",
         "overlayImageUrl": "",
         "thumbnailSquare": "",
         "categories": [
@@ -22,104 +148,28 @@
             "title": "Home Page"
           },
           {
-            "contentId": 12682879,
-            "title": "Asia"
-          }
-        ],
-        "metaTitle": "",
-        "metaDescription": "",
-        "showName": "",
-        "showSlug": "",
-        "path": "/asia/pakistan-passes-constitutional-amendments-to-prevent-court-interference-18222650",
-        "publishedDate": "2024-10-21T02:18:18.449Z",
-        "authors": [],
-        "showAuthor": false,
-        "showByLine": false,
-        "showSparkbox": false
-      },
-      {
-        "id": 18222619,
-        "type": "article",
-        "title": "UN chief urges 'significant investment' in fund to save nature",
-        "description": "\"Those profiting from nature must contribute to its protection and restoration,\" UN chief Antonio Guterres says.",
-        "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21070111_0-46-2586-1456.jpeg",
-        "overlayImageUrl": "",
-        "thumbnailSquare": "",
-        "categories": [
-          {
-            "contentId": 12682254,
-            "title": "Home Page"
+            "contentId": 12682877,
+            "title": "Africa"
           },
           {
-            "contentId": 12683253,
-            "title": "Climate"
+            "contentId": 12682883,
+            "title": "Europe"
           }
         ],
         "metaTitle": "",
         "metaDescription": "",
         "showName": "",
         "showSlug": "",
-        "path": "/climate/un-chief-urges-significant-investment-in-fund-to-save-nature-18222619",
-        "publishedDate": "2024-10-20T23:32:22.572Z",
-        "authors": [],
-        "showAuthor": false,
-        "showByLine": false,
-        "showSparkbox": false
-      },
-      {
-        "id": 18222610,
-        "type": "article",
-        "title": "Live blog: Israel launches new wave of air strikes on southern Beirut",
-        "description": "Israel's war on Gaza, now in its 381st day, has killed at least 42,603 Palestinians and wounded nearly 100,000, with 10,000+ possibly buried under debris. Israel has also killed at least 2,464 people in Lebanon since October last year.",
-        "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21069970_0-419-8256-4649.jpeg",
-        "overlayImageUrl": "",
-        "thumbnailSquare": "",
-        "categories": [
+        "path": "/africa/south-africas-ramaposa-rows-back-from-pledge-to-quit-icc-12977396",
+        "publishedDate": "2023-04-26T10:25:42.760Z",
+        "authors": [
           {
-            "contentId": 12682254,
-            "title": "Home Page"
-          },
-          {
-            "contentId": 12683241,
-            "title": "Middle East"
+            "userName": "meryem.demirhan",
+            "firstName": "Meryem",
+            "lastName": "Demirhan",
+            "path": "/author/meryem-demirhan"
           }
         ],
-        "metaTitle": "",
-        "metaDescription": "",
-        "showName": "",
-        "showSlug": "",
-        "path": "/middle-east/live-blog-israel-launches-new-wave-of-air-strikes-on-southern-beirut-18222610",
-        "publishedDate": "2024-10-20T23:01:55.278Z",
-        "authors": [],
-        "showAuthor": false,
-        "showByLine": false,
-        "showSparkbox": false
-      },
-      {
-        "id": 18222609,
-        "type": "article",
-        "title": "Oxfam 'strongly condemns' killing of water engineers in Israeli Gaza strike",
-        "description": "Dozens of engineers, civil servants and aid workers have been killed in Israeli air strikes during Tel Aviv's ongoing war, Oxfam says.",
-        "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21069848_0-0-2355-1326.jpeg",
-        "overlayImageUrl": "",
-        "thumbnailSquare": "",
-        "categories": [
-          {
-            "contentId": 12682254,
-            "title": "Home Page"
-          },
-          {
-            "contentId": 12683241,
-            "title": "Middle East"
-          }
-        ],
-        "metaTitle": "",
-        "metaDescription": "",
-        "showName": "",
-        "showSlug": "",
-        "path": "/middle-east/oxfam-strongly-condemns-killing-of-water-engineers-in-israeli-gaza-strike-18222609",
-        "publishedDate": "2024-10-20T22:07:19.816Z",
-        "authors": [],
         "showAuthor": false,
         "showByLine": false,
         "showSparkbox": false
@@ -156,48 +206,6 @@
             "firstName": "Sara",
             "lastName": "SLEIMAN",
             "path": "/author/sara-sleiman"
-          }
-        ],
-        "showAuthor": false,
-        "showByLine": false,
-        "showSparkbox": false
-      }
-    ],
-    "news": [
-      {
-        "id": 12977396,
-        "type": "article",
-        "title": "South Africa's Ramaposa rows back from pledge to quit ICC",
-        "description": "South African President Cyril Ramaphosa a day earlier said his ANC party had resolved that his country should quit the ICC, which last month issued an arrest warrant against Russian President Vladimir Putin.",
-        "mainImageUrl": "https://cdn-i.pr.trt.com.tr/trtworld/16275004_0-183-4498-2533.jpeg",
-        "overlayImageUrl": "",
-        "thumbnailSquare": "",
-        "categories": [
-          {
-            "contentId": 12682254,
-            "title": "Home Page"
-          },
-          {
-            "contentId": 12682877,
-            "title": "Africa"
-          },
-          {
-            "contentId": 12682883,
-            "title": "Europe"
-          }
-        ],
-        "metaTitle": "",
-        "metaDescription": "",
-        "showName": "",
-        "showSlug": "",
-        "path": "/africa/south-africas-ramaposa-rows-back-from-pledge-to-quit-icc-12977396",
-        "publishedDate": "2023-04-26T10:25:42.760Z",
-        "authors": [
-          {
-            "userName": "meryem.demirhan",
-            "firstName": "Meryem",
-            "lastName": "Demirhan",
-            "path": "/author/meryem-demirhan"
           }
         ],
         "showAuthor": false,
@@ -242,879 +250,14 @@
       "showAuthor": false,
       "showByLine": false,
       "showSparkbox": false,
-      "content": {
-        "id": 13155179,
-        "title": "Türkiye's elections: Polls close in some European countries, US",
-        "description": "Over 1.6 million Turkish citizens living abroad have cast their votes for Türkiye's upcoming presidential and parliamentary elections.",
-        "body": [
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>Voting has ended in most European countries, as well as in the US and Canada, for Türkiye's upcoming <a href=\"https://www.trtworld.com/turkey/explained-t%C3%BCrkiye-s-presidential-and-parliamentary-elections-66439\">presidential and parliamentary elections</a>.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>Polling stations at <a href=\"https://www.trtworld.com/turkey/how-important-is-the-turkish-diaspora-in-upcoming-elections-66584\">Turkish diplomatic missions</a> in many European countries, and <a href=\"https://www.trtworld.com/turkiye/turkiyes-elections-polls-close-in-some-european-countries-us-13155179\">the US</a> and Canada closed as of 9pm local time (1900GMT) on Sunday, while it will continue in Austria, Denmark, France, Germany, and Luxembourg on Tuesday from 9am to 9pm local time (0700GMT – 1900GMT).</p>"
-          },
-          {
-            "blockType": "image",
-            "metadata": {
-              "url": "https://cdn-i.pr.trt.com.tr/trtworld/16364198_0-0-1920-1080.jpeg",
-              "source": "TRT World",
-              "filename": "16364198_0-0-1920-1080.jpeg",
-              "caption": "On April 27 Turkish expats started to vote and it lasts until May 9. The diaspora voters all around the world has different dates for voting, based on the election schedule arranged for different countries. Here's a look at the changing election dates for the countries."
-            },
-            "value": "<figure class=\"content-image\"><img class=\"content-image\" src=\"https://cdn-i.pr.trt.com.tr/trtworld/16364198_0-0-1920-1080.jpeg\"><figcaption>undefined (TRT World)</figcaption></figure>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>Voting closed in <a href=\"https://www.trtworld.com/turkiye/turkiyes-elections-turkish-expats-in-western-balkans-begin-voting-13135361\">Albania, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria</a>, the Czech Republic, Estonia, Finland, Greece, Hungary, Ireland, Italy, Kosovo, Lithuania, Malta, Moldova, Montenegro, North Macedonia, <a href=\"https://www.trtworld.com/turkiye/turkish-expatriates-in-europe-middle-east-begin-voting-in-may-14-elections-13041965\">the Netherlands</a>, Norway, Poland, Portugal, Romania, Serbia, Slovakia, Spain, Sweden and Switzerland as well as in the UK.</p><p>Around 127,000 voters registered in the UK cast their <a href=\"https://www.trtworld.com/turkiye/early-voting-begins-in-turkiyes-presidential-parliamentary-polls-12989445\">votes</a> at the ballot boxes set up in London, Manchester, Edinburgh, and Leicester on April 29-May 7. </p><p>As many as seven polling stations were set up in the US for <a href=\"https://www.trtworld.com/turkey/from-which-countries-can-the-turkish-diaspora-vote-in-the-may-14-elections-67036\">April 29-May 7</a> at diplomatic missions, including the Turkish Embassy in Washington, and consulates in New York, Boston, Chicago, Houston, Miami, and Los Angeles.</p><p>Also, some 1,392 registered voters in South Africa cast their votes at <a href=\"https://www.trtworld.com/magazine/6-things-to-know-about-t%C3%BCrkiye-s-electoral-system-66437\">the ballot boxes</a> in Pretoria and Cape Town on May 6-7.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p> </p>"
-          },
-          {
-            "blockType": "image",
-            "metadata": {
-              "url": "https://cdn-i.pr.trt.com.tr/trtworld/16364210_0-0-1920-1080.jpeg",
-              "source": "TRT World",
-              "filename": "16364210_0-0-1920-1080.jpeg",
-              "caption": "The voting period  starts on 27 April for Germany and Austria and ends on May 9 while Turkish expats in UK votes between April 29 and May 7."
-            },
-            "value": "<figure class=\"content-image\"><img class=\"content-image\" src=\"https://cdn-i.pr.trt.com.tr/trtworld/16364210_0-0-1920-1080.jpeg\"><figcaption>undefined (TRT World)</figcaption></figure>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>As of Sunday, over 1.6 million <a href=\"https://www.trtworld.com/turkiye/turkiye-elections-heres-what-you-need-to-know-about-diaspora-voting-12990458\">Turkish citizens living abroad</a> had cast their votes to elect the country's <a href=\"https://www.trtworld.com/turkiye/how-the-turkish-governance-model-compares-with-other-presidential-systems-13121461\">president </a>and parliamentary representatives, according to <a href=\"https://www.trtworld.com/turkey/turkish-election-board-issues-list-of-parties-contesting-may-election-66073\">the Supreme Election Board (YSK).</a></p><p>However, <a href=\"https://www.trtworld.com/turkiye/the-most-crucial-turkish-elections-you-need-to-know-about-12992846\">voting</a> will continue in Austria, Denmark, France, Germany and Luxembourg until Tuesday from 9am to 9pm local time (0700GMT – 1900GMT).</p>"
-          },
-          {
-            "blockType": "image",
-            "metadata": {
-              "url": "https://cdn-i.pr.trt.com.tr/trtworld/16364216_0-0-1920-1080.jpeg",
-              "source": "TRT World",
-              "filename": "16364216_0-0-1920-1080.jpeg",
-              "caption": "There are 60.904.499 registered voters in Türkiye and 3.286.786 in abroad for Türkiye elections 2023."
-            },
-            "value": "<figure class=\"content-image\"><img class=\"content-image\" src=\"https://cdn-i.pr.trt.com.tr/trtworld/16364216_0-0-1920-1080.jpeg\"><figcaption>undefined (TRT World)</figcaption></figure>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>Voting in Türkiye itself will take place on Sunday, <a href=\"https://www.trtworld.com/magazine/how-will-t%C3%BCrkiye-s-election-calendar-work-66094\">May 14</a>. Voters will choose between four presidential hopefuls: <a href=\"https://www.trtworld.com/magazine/recep-tayyip-erdogan-presidential-candidate-of-t%C3%BCrkiye-s-people-s-alliance-65881\">President Recep Tayyip Erdogan</a>, who is seeking reelection, main opposition leader <a href=\"https://www.trtworld.com/magazine/kemal-kilicdaroglu-the-runner-up-still-in-the-race-65884\">Kemal Kilicdaroglu</a>, <a href=\"https://www.trtworld.com/magazine/muharrem-ince-second-shot-at-the-presidency-65898\">Muharrem Ince</a>, and <a href=\"https://www.trtworld.com/magazine/who-is-sinan-ogan-t%C3%BCrkiye-s-ata-alliance-s-presidential-candidate-66578\">Sinan Ogan</a>.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>Meanwhile, 24 <a href=\"https://www.trtworld.com/magazine/what-is-t%C3%BCrkiye-s-political-alliance-law-66438\">political parties</a> and 151 independent candidates are vying for seats in the 600-member Turkish parliament.</p>"
-          },
-          {
-            "id": 12798285,
-            "type": "article",
-            "title": "How important is the Turkish diaspora in upcoming elections?",
-            "description": "A sense of alienation abroad has pushed more and more expats to participate actively in the Turkish election process.",
-            "mainImageUrl": "https://cdn-i.pr.trt.com.tr/trtworld/0m_152848_APNetherlandsTurkeyelections_1680091595588.jpg",
-            "overlayImageUrl": "",
-            "thumbnailSquare": "",
-            "categories": [
-              {
-                "contentId": 12683239,
-                "title": "Turkiye"
-              },
-              {
-                "contentId": 12682254,
-                "title": "Home Page"
-              }
-            ],
-            "metaTitle": "",
-            "metaDescription": "",
-            "showName": "",
-            "showSlug": "",
-            "path": "/turkiye/how-important-is-the-turkish-diaspora-in-upcoming-elections-12798285",
-            "publishedDate": "2023-04-06T09:52:52.000Z",
-            "authors": [
-              {
-                "userName": "saadhasan",
-                "firstName": "Saad",
-                "lastName": "Hasan",
-                "bio": "Saad Hasan is a staff writer at TRT World.",
-                "twitter": "@msaadhasan",
-                "mainImage": "https://cdn-i.pr.trt.com.tr/trtworld/0u_19.jpg",
-                "path": "/author/saad-hasan"
-              }
-            ],
-            "showAuthor": false,
-            "showByLine": false,
-            "showSparkbox": false,
-            "blockType": "content"
-          },
-          {
-            "blockType": "youtube",
-            "metadata": {
-              "url": "https://youtu.be/UJ7_OfpOIis"
-            },
-            "value": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/UJ7_OfpOIis?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"Türkiye 2023: presidential and parliamentary elections explained\"></iframe>"
-          }
-        ],
-        "path": "/turkiye/turkiyes-elections-polls-close-in-some-european-countries-us-13155179",
-        "type": "article",
-        "fields": {
-          "search_title": {
-            "text": "Turkey Elections: Polls Close in Some European Countries, and in the | Turkish Elections 2023"
-          },
-          "search_description": {
-            "text": "Turkey Elections: as polls close in certain European countries, the US, and Canada for the Turkish presidential and parliamentary elections."
-          },
-          "topic_slug": {
-            "text": "turkiye"
-          },
-          "mainImage": {
-            "type": "image",
-            "assetId": 16358427,
-            "key": "trtworld/16358427_0-57-8256-4649.jpeg",
-            "bucket": "port-production-asset-public-image",
-            "cdnUrl": "https://cdn-i.pr.trt.com.tr/trtworld/",
-            "fileName": "16358427_0-57-8256-4649.jpeg",
-            "url": "https://cdn-i.pr.trt.com.tr/trtworld/16358427_0-57-8256-4649.jpeg",
-            "title": "Voting ends in the United Kingdome for Turkiye's presidential and 28th parliamentary election. / Photo: AA",
-            "width": 8256,
-            "height": 5504,
-            "source": "AA"
-          },
-          "authors": [
-            {
-              "firstName": {
-                "text": "Sara"
-              },
-              "lastName": {
-                "text": "SLEIMAN"
-              },
-              "twitter": {
-                "text": ""
-              },
-              "bio": {
-                "text": ""
-              },
-              "path": "/author/sara-sleiman"
-            }
-          ],
-          "sources": [
-            {
-              "key": "aa",
-              "value": "AA",
-              "metadata": {}
-            }
-          ],
-          "topics": [
-            {
-              "contentId": 12682254,
-              "title": "Home Page",
-              "slug": "home-page"
-            },
-            {
-              "contentId": 12683239,
-              "title": "Turkiye",
-              "slug": "turkiye"
-            }
-          ],
-          "team": {
-            "key": "news",
-            "value": "News",
-            "metadata": {}
-          },
-          "contentFormat": {
-            "key": "news",
-            "value": "News",
-            "metadata": {}
-          },
-          "country": {
-            "key": "tur",
-            "value": "Turkey",
-            "metadata": {
-              "code": "TUR",
-              "region": "Asia",
-              "subregion": "Western Asia"
-            }
-          },
-          "relatedStory": {}
-        },
-        "metadata": {
-          "show_sparkbox": "true"
-        },
-        "site": "trtworld",
-        "viewCount": 0,
-        "published": {
-          "date": "2023-05-08T06:12:19.102Z"
-        },
-        "paths": [
-          "/turkiye/turkiyes-elections-polls-close-for-in-some-european-countries-13155179",
-          "/turkiye/turkiyes-elections-polls-close-in-some-european-countries-13155179",
-          "/turkiye/turkiyes-elections-polls-close-in-europe-us-13155179",
-          "/turkiye/turkiyes-elections-polls-close-in-some-european-countries-us-13155179"
-        ]
-      }
-    },
-    {
-      "id": 18222650,
-      "type": "article",
-      "title": "Pakistan passes constitutional amendments to prevent court 'interference'",
-      "description": "The government clinched 225 votes of the required 224 with the crucial support of a handful of dissident MPs from the opposition.",
-      "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21070506_0-710-7045-3967.jpeg",
-      "overlayImageUrl": "",
-      "thumbnailSquare": "",
-      "categories": [
-        {
-          "contentId": 12682254,
-          "title": "Home Page"
-        },
-        {
-          "contentId": 12682879,
-          "title": "Asia"
-        }
-      ],
-      "metaTitle": "",
-      "metaDescription": "",
-      "showName": "",
-      "showSlug": "",
-      "path": "/asia/pakistan-passes-constitutional-amendments-to-prevent-court-interference-18222650",
-      "publishedDate": "2024-10-21T02:18:18.449Z",
-      "authors": [],
-      "showAuthor": false,
-      "showByLine": false,
-      "showSparkbox": false,
-      "content": {
-        "id": 18222650,
-        "title": "Pakistan passes constitutional amendments to prevent court 'interference'",
-        "description": "The government clinched 225 votes of the required 224 with the crucial support of a handful of dissident MPs from the opposition.",
-        "body": [
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>Pakistan's government narrowly passed on Monday a package of constitutional amendments it said would stop the country's courts from issuing rulings that \"interfere in parliament\".</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>Under the judicial reforms passed during a late night session of parliament, the chief justice of Pakistan will now be selected by a parliamentary committee and have a fixed term of three years.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>A new constitutional bench will be also formed.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>\"The goal of the amendments is to block the judicial verdicts that interfere in parliament,\" Defence Minister Khawaja Asif said on Saturday as the government courted support from smaller religious groups.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>\"Everybody agrees that we will not compromise on the supremacy of the parliament.\"</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>Prime Minister Shehbaz Sharif's Pakistan Muslim League-Nawaz party scraped together a two-thirds majority with the backing of its long-time rival turned partner Pakistan People's Party, and a religious party considered an ally of opposition leader Imran Khan.</p>"
-          },
-          {
-            "id": 18220432,
-            "type": "article",
-            "title": "Pakistan shuts down capital for high-level security summit",
-            "description": "The Pakistani government imposes a lockdown on the capital Islamabad to safeguard foreign dignitaries attending the Shanghai Cooperation Organization summit as the country has faced multiple terror attacks in recent weeks.",
-            "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21045930_0-0-1023-576.jpeg",
-            "overlayImageUrl": "https://images-cdn.trtworld.com/trtworld/f_article_88a5a3616cec7fea71aea8b66625ebf3.jpeg",
-            "thumbnailSquare": "",
-            "categories": [
-              {
-                "contentId": 12682254,
-                "title": "Home Page"
-              },
-              {
-                "contentId": 12682879,
-                "title": "Asia"
-              }
-            ],
-            "metaTitle": "",
-            "metaDescription": "",
-            "showName": "",
-            "showSlug": "",
-            "path": "/asia/pakistan-shuts-down-capital-for-high-level-security-summit-18220432",
-            "publishedDate": "2024-10-15T14:27:01.531Z",
-            "authors": [
-              {
-                "userName": "alitopchi",
-                "firstName": "Ali",
-                "lastName": "Topchi",
-                "twitter": "@atopchi",
-                "mainImage": "https://cdn-i.pr.trt.com.tr/trtworld/0u_10.jpg",
-                "path": "/author/ali-topchi"
-              }
-            ],
-            "showAuthor": false,
-            "showByLine": false,
-            "showSparkbox": false,
-            "blockType": "content"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p><strong>Some 'wins'</strong></p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>The government clinched 225 votes of the required 224 with the crucial support of a handful of dissident MPs from Khan's Pakistan Tehreek-e-Insaf (PTI) party, state media broadcasting the session showed.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>PTI, the largest bloc in parliament, had refused to back the package despite offers to water down the amendments and settle a consensus deal, analysts said.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>\"These amendments are akin to suffocating a free judiciary. They do not represent the people of Pakistan,\" said PTI's Omar Ayub Khan, the leader of the opposition in the National Assembly, during the session. </p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>The amendments come just days before the chief justice of the Supreme Court, Qazi Faez Isa, is due to retire.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>Under the previous law, he would have been automatically replaced by the most senior judge behind him — currently, Mansoor Ali Shah, who has consistently issued verdicts deemed favourable to Khan and his party.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>Analyst Bilal Gilani, who heads Pakistan’s leading polling agency, said the amendments have some \"wins\" — including bringing balance to the activism of the judiciary.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>\"A more sinister side of this amendment creates a judiciary that is more pliant with the concerns of the government,\" he added.</p>"
-          },
-          {
-            "blockType": "youtube",
-            "metadata": {
-              "url": "https://youtu.be/4JlyoMO0mME"
-            },
-            "value": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/4JlyoMO0mME?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Is the Pakistani judiciary capable of delivering justice in Imran Khan’s case?\"></iframe>"
-          }
-        ],
-        "path": "/asia/pakistan-passes-constitutional-amendments-to-prevent-court-interference-18222650",
-        "type": "article",
-        "fields": {
-          "search_title": {
-            "text": "Pakistan passes constitutional amendments to prevent court 'interference'"
-          },
-          "search_description": {
-            "text": "The government clinched 225 votes of the required 224 with the crucial support of a handful of rebel MPs from the opposition."
-          },
-          "topic_slug": {
-            "text": "asia"
-          },
-          "mainImage": {
-            "type": "image",
-            "assetId": 21070506,
-            "key": "trtworld/21070506_0-710-7045-3967.jpeg",
-            "bucket": "port-prod-asset-public-image-v3",
-            "cdnUrl": "https://images-cdn.trtworld.com/trtworld/",
-            "fileName": "21070506_0-710-7045-3967.jpeg",
-            "url": "https://images-cdn.trtworld.com/trtworld/21070506_0-710-7045-3967.jpeg",
-            "title": "The amendments come just days before the chief justice of the Supreme Court, Qazi Faez Isa, is due to retire. / Photo: AP",
-            "width": 7046,
-            "height": 4697,
-            "source": "AP"
-          },
-          "authors": [
-            {
-              "firstName": {
-                "text": "Staff"
-              },
-              "lastName": {
-                "text": "Reporter"
-              },
-              "twitter": {
-                "text": ""
-              },
-              "bio": {
-                "text": ""
-              },
-              "path": "/author/staff-reporter"
-            }
-          ],
-          "relatedStory": {
-            "id": 12709572,
-            "type": "article",
-            "title": "Pakistan government looks to public to fund dam as water scarcity hits",
-            "description": "The government has raised $260 million in donations, a fraction of the total $14 billion that it needs to build a large water reservoir. Experts are skeptical if the plan could work.",
-            "mainImageUrl": "https://cdn-i.pr.trt.com.tr/trtworld/0m_40807_AP_18173531516325_1537149075630.jpg",
-            "overlayImageUrl": "",
-            "thumbnailSquare": "",
-            "categories": [
-              {
-                "contentId": 12682879,
-                "title": "Asia"
-              },
-              {
-                "contentId": 12682254,
-                "title": "Home Page"
-              }
-            ],
-            "metaTitle": "",
-            "metaDescription": "",
-            "showName": "",
-            "showSlug": "",
-            "path": "/asia/pakistan-government-looks-to-public-to-fund-dam-as-water-scarcity-hits-12709572",
-            "publishedDate": "2018-09-17T02:48:41.000Z",
-            "authors": [
-              {
-                "userName": "haticecaglagunaydin",
-                "firstName": "Hatice Cagla",
-                "lastName": "Gunaydin",
-                "path": "/author/hatice-cagla-gunaydin"
-              }
-            ],
-            "showAuthor": false,
-            "showByLine": false,
-            "showSparkbox": false
-          },
-          "sources": [
-            {
-              "key": "trtworld-and-agencies",
-              "value": "TRTWorld and agencies",
-              "metadata": {}
-            }
-          ],
-          "topics": [
-            {
-              "contentId": 12682254,
-              "title": "Home Page",
-              "slug": "home-page"
-            },
-            {
-              "contentId": 12682879,
-              "title": "Asia",
-              "slug": "asia"
-            }
-          ],
-          "team": {
-            "key": "news",
-            "value": "News",
-            "metadata": {}
-          },
-          "contentFormat": {
-            "key": "news",
-            "value": "News",
-            "metadata": {}
-          },
-          "country": {
-            "key": "pak",
-            "value": "Pakistan",
-            "metadata": {
-              "code": "PAK",
-              "region": "Asia",
-              "subregion": "Southern Asia"
-            }
-          },
-          "tags": [
-            {
-              "key": "pakistan",
-              "value": "Pakistan",
-              "metadata": {}
-            },
-            {
-              "key": "judicial-reforms",
-              "value": "Judicial Reforms",
-              "metadata": {}
-            },
-            {
-              "key": "constitutional-amendment",
-              "value": "constitutional amendment",
-              "metadata": {}
-            },
-            {
-              "key": "pakistan-army",
-              "value": "Pakistan Army",
-              "metadata": {}
-            },
-            {
-              "key": "imran-khan",
-              "value": "Imran Khan",
-              "metadata": {}
-            },
-            {
-              "key": "pti-party",
-              "value": "Pti Party",
-              "metadata": {}
-            },
-            {
-              "key": "ppp-party",
-              "value": "Ppp Party",
-              "metadata": {}
-            },
-            {
-              "key": "nawaz-sharif",
-              "value": "Nawaz Sharif",
-              "metadata": {}
-            },
-            {
-              "key": "bilawal-bhutto",
-              "value": "Bilawal Bhutto",
-              "metadata": {}
-            },
-            {
-              "key": "pakistan-supreme-court",
-              "value": "Pakistan Supreme Court",
-              "metadata": {}
-            }
-          ],
-          "overlayImage": {
-            "type": "image",
-            "key": "trtworld/f_article_75890dca638980679ee199f468cb0fba.jpeg",
-            "bucket": "port-prod-asset-public-image-v3",
-            "cdnUrl": "https://images-cdn.trtworld.com/trtworld/",
-            "fileName": "f_article_75890dca638980679ee199f468cb0fba.jpeg",
-            "url": "https://images-cdn.trtworld.com/trtworld/f_article_75890dca638980679ee199f468cb0fba.jpeg",
-            "width": 7046,
-            "height": 4697
-          }
-        },
-        "metadata": {
-          "show_sparkbox": "true"
-        },
-        "site": "trtworld",
-        "viewCount": 0,
-        "published": {
-          "date": "2024-10-21T02:18:18.449Z"
-        },
-        "paths": [
-          "/asia/pakistan-passes-constitutional-amendments-to-prevent-court-interference-18222650"
-        ]
-      }
-    },
-    {
-      "id": 18222619,
-      "type": "article",
-      "title": "UN chief urges 'significant investment' in fund to save nature",
-      "description": "\"Those profiting from nature must contribute to its protection and restoration,\" UN chief Antonio Guterres says.",
-      "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21070111_0-46-2586-1456.jpeg",
-      "overlayImageUrl": "",
-      "thumbnailSquare": "",
-      "categories": [
-        {
-          "contentId": 12682254,
-          "title": "Home Page"
-        },
-        {
-          "contentId": 12683253,
-          "title": "Climate"
-        }
-      ],
-      "metaTitle": "",
-      "metaDescription": "",
-      "showName": "",
-      "showSlug": "",
-      "path": "/climate/un-chief-urges-significant-investment-in-fund-to-save-nature-18222619",
-      "publishedDate": "2024-10-20T23:32:22.572Z",
-      "authors": [],
-      "showAuthor": false,
-      "showByLine": false,
-      "showSparkbox": false,
-      "content": {
-        "id": 18222619,
-        "title": "UN chief urges 'significant investment' in fund to save nature",
-        "description": "\"Those profiting from nature must contribute to its protection and restoration,\" UN chief Antonio Guterres says.",
-        "body": [
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>UN chief Antonio Guterres appealed on Sunday to nations gathered at a biodiversity summit in the Colombian city of Cali for \"significant investment\" in a fund set up to conserve and restore nature.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>\"We must leave Cali with significant investment in the Global Biodiversity Framework Fund (GBFF), and commitments to mobilise other sources of public and private finance,\" the secretary-general said in a video played to delegates to the COP16 biodiversity conference that officially starts Monday.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>The GBFF was created last year to help countries achieve the goals of the so-called Kunming-Montreal Global Biodiversity Framework adopted in Canada in 2022 with 23 targets to \"halt and reverse\" the loss of nature by 2030.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>So far, countries have made about $250 million in commitments to the fund, according to agencies monitoring progress.</p>"
-          },
-          {
-            "id": 18170145,
-            "type": "article",
-            "title": "World surpasses warming threshold as UN warns of 'climate hell'",
-            "description": "The UN Secretary-General warns of \"climate hell\" as the world experiences its hottest year ever, urging immediate action to curb fossil fuel use and prevent exceeding the critical 1.5C warming limit.",
-            "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/17485084_0-0-2464-1388.jpeg",
-            "overlayImageUrl": "https://images-cdn.trtworld.com/trtworld/f_article_65db55af9b3ad5b3816d710cd43aafe8.jpeg",
-            "thumbnailSquare": "",
-            "categories": [
-              {
-                "contentId": 12682254,
-                "title": "Home Page"
-              },
-              {
-                "contentId": 12683253,
-                "title": "Climate"
-              }
-            ],
-            "metaTitle": "",
-            "metaDescription": "",
-            "showName": "",
-            "showSlug": "",
-            "path": "/climate/world-surpasses-warming-threshold-as-un-warns-of-climate-hell-18170145",
-            "publishedDate": "2024-06-05T16:37:35.889Z",
-            "authors": [
-              {
-                "userName": "alitopchi",
-                "firstName": "Ali",
-                "lastName": "Topchi",
-                "twitter": "@atopchi",
-                "mainImage": "https://cdn-i.pr.trt.com.tr/trtworld/0u_10.jpg",
-                "path": "/author/ali-topchi"
-              }
-            ],
-            "showAuthor": false,
-            "showByLine": false,
-            "showSparkbox": false,
-            "blockType": "content"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>The fund is part of a broader agreement made two years ago for countries to mobilise at least $200 billion per year by 2030 for biodiversity, including of $20 billion per year from rich nations by 2025 to help the developing world.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>Guterres highlighted that destroying nature increases conflict over resources, hunger and disease, fuels poverty and slashes GDP.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>\"A collapse in nature's services — such as pollination, and clean water — would see the global economy lose trillions of dollars a year, with the poorest hardest hit,\" he said at the ceremony that featured Indigenous rites and performances.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>Avoiding such a future would entail countries \"honoring promises on finance and accelerating support to developing countries\", said Guterres.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>\"Those profiting from nature must contribute to its protection and restoration,\" he added.</p>"
-          },
-          {
-            "blockType": "youtube",
-            "metadata": {
-              "url": "https://youtu.be/0_EWq2AirOY"
-            },
-            "value": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/0_EWq2AirOY?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Just 2 Degrees: Is Anyone Listening to the UN?\"></iframe>"
-          }
-        ],
-        "path": "/climate/un-chief-urges-significant-investment-in-fund-to-save-nature-18222619",
-        "type": "article",
-        "fields": {
-          "search_title": {
-            "text": "UN chief urges 'significant investment' in fund to save nature"
-          },
-          "search_description": {
-            "text": "\"Those profiting from nature must contribute to its protection and restoration,\" UN chief Antonio Guterres says."
-          },
-          "topic_slug": {
-            "text": "climate"
-          },
-          "mainImage": {
-            "type": "image",
-            "assetId": 21070111,
-            "key": "trtworld/21070111_0-46-2586-1456.jpeg",
-            "bucket": "port-prod-asset-public-image-v3",
-            "cdnUrl": "https://images-cdn.trtworld.com/trtworld/",
-            "fileName": "21070111_0-46-2586-1456.jpeg",
-            "url": "https://images-cdn.trtworld.com/trtworld/21070111_0-46-2586-1456.jpeg",
-            "title": "Guterres highlighted that destroying nature increases conflict over resources, hunger and disease, fuels poverty and slashes GDP. / Photo: Reuters",
-            "width": 2586,
-            "height": 1724,
-            "source": "Reuters"
-          },
-          "authors": [
-            {
-              "firstName": {
-                "text": "Staff"
-              },
-              "lastName": {
-                "text": "Reporter"
-              },
-              "twitter": {
-                "text": ""
-              },
-              "bio": {
-                "text": ""
-              },
-              "path": "/author/staff-reporter"
-            }
-          ],
-          "relatedStory": {
-            "id": 12711274,
-            "type": "article",
-            "title": "Resisters and community builders: the strength of women of war",
-            "description": "Women are often portrayed simply as victims of war playing a passive role in the conflict. The truth is that they have a far more crucial capacity in determining the fate of a conflict.",
-            "mainImageUrl": "https://cdn-i.pr.trt.com.tr/trtworld/0m_45323_AP_09071104436_1543331865623.jpg",
-            "overlayImageUrl": "",
-            "thumbnailSquare": "",
-            "categories": [
-              {
-                "contentId": 12683235,
-                "title": "Opinion"
-              },
-              {
-                "contentId": 12682254,
-                "title": "Home Page"
-              }
-            ],
-            "metaTitle": "",
-            "metaDescription": "",
-            "showName": "",
-            "showSlug": "",
-            "path": "/opinion/resisters-and-community-builders-the-strength-of-women-of-war-12711274",
-            "publishedDate": "2018-11-27T15:19:05.000Z",
-            "authors": [
-              {
-                "userName": "Aamirah Patel",
-                "firstName": "Aamirah",
-                "lastName": "Patel",
-                "bio": "Aamirah works in the World Citizen Team, the philanthropic arm of TRT World, dedicated to humanitarian affairs and socially responsible coverage. She is a Co-Founder of Muslim Women Connect, and previously worked in international development for RESULTS UK and International Service, as well as a Trustee for the youth led development agency Restless Development. ",
-                "mainImage": "https://cdn-i.pr.trt.com.tr/trtworld/0u_586.jpg",
-                "path": "/author/aamirah-patel"
-              }
-            ],
-            "showAuthor": false,
-            "showByLine": false,
-            "showSparkbox": false
-          },
-          "sources": [
-            {
-              "key": "afp",
-              "value": "AFP",
-              "metadata": {}
-            }
-          ],
-          "topics": [
-            {
-              "contentId": 12682254,
-              "title": "Home Page",
-              "slug": "home-page"
-            },
-            {
-              "contentId": 12683253,
-              "title": "Climate",
-              "slug": "climate"
-            }
-          ],
-          "team": {
-            "key": "news",
-            "value": "News",
-            "metadata": {}
-          },
-          "contentFormat": {
-            "key": "news",
-            "value": "News",
-            "metadata": {}
-          },
-          "country": {
-            "key": "col",
-            "value": "Colombia",
-            "metadata": {
-              "code": "COL",
-              "region": "Americas",
-              "subregion": "South America"
-            }
-          },
-          "tags": [
-            {
-              "key": "colombia",
-              "value": "colombia",
-              "metadata": {}
-            },
-            {
-              "key": "cop16",
-              "value": "Cop16",
-              "metadata": {}
-            },
-            {
-              "key": "un",
-              "value": "UN",
-              "metadata": {}
-            },
-            {
-              "key": "antonio-guterres",
-              "value": "Antonio Guterres",
-              "metadata": {}
-            },
-            {
-              "key": "climate",
-              "value": "climate",
-              "metadata": {}
-            },
-            {
-              "key": "climate-change",
-              "value": "climate change",
-              "metadata": {}
-            },
-            {
-              "key": "climate-crisis",
-              "value": "Climate Crisis",
-              "metadata": {}
-            },
-            {
-              "key": "nature",
-              "value": "nature",
-              "metadata": {}
-            }
-          ],
-          "overlayImage": {
-            "type": "image",
-            "key": "trtworld/f_article_fa906af12f7e66d3900b615a3e4bce6f.jpeg",
-            "bucket": "port-prod-asset-public-image-v3",
-            "cdnUrl": "https://images-cdn.trtworld.com/trtworld/",
-            "fileName": "f_article_fa906af12f7e66d3900b615a3e4bce6f.jpeg",
-            "url": "https://images-cdn.trtworld.com/trtworld/f_article_fa906af12f7e66d3900b615a3e4bce6f.jpeg",
-            "width": 2586,
-            "height": 1724
-          }
-        },
-        "metadata": {
-          "show_sparkbox": "true"
-        },
-        "site": "trtworld",
-        "viewCount": 0,
-        "published": {
-          "date": "2024-10-20T23:32:22.572Z"
-        },
-        "paths": [
-          "/climate/un-chief-urges-significant-investment-in-fund-to-save-nature-18222619"
-        ]
-      }
+      "content": null
     },
     {
       "id": 18222610,
       "type": "article",
-      "title": "Live blog: Israel launches new wave of air strikes on southern Beirut",
+      "title": "Live blog: Israel kills 29 Palestinians in north Gaza in fresh strikes",
       "description": "Israel's war on Gaza, now in its 381st day, has killed at least 42,603 Palestinians and wounded nearly 100,000, with 10,000+ possibly buried under debris. Israel has also killed at least 2,464 people in Lebanon since October last year.",
-      "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21069970_0-419-8256-4649.jpeg",
+      "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21071671_0-298-5760-3243.jpeg",
       "overlayImageUrl": "",
       "thumbnailSquare": "",
       "categories": [
@@ -1131,15 +274,15 @@
       "metaDescription": "",
       "showName": "",
       "showSlug": "",
-      "path": "/middle-east/live-blog-israel-launches-new-wave-of-air-strikes-on-southern-beirut-18222610",
-      "publishedDate": "2024-10-20T23:01:55.278Z",
+      "path": "/middle-east/live-blog-israel-kills-29-palestinians-in-north-gaza-in-fresh-strikes-18222610",
+      "publishedDate": "2024-10-21T10:25:49.253Z",
       "authors": [],
       "showAuthor": false,
       "showByLine": false,
       "showSparkbox": false,
       "content": {
         "id": 18222610,
-        "title": "Live blog: Israel launches new wave of air strikes on southern Beirut",
+        "title": "Live blog: Israel kills 29 Palestinians in north Gaza in fresh strikes",
         "description": "Israel's war on Gaza, now in its 381st day, has killed at least 42,603 Palestinians and wounded nearly 100,000, with 10,000+ possibly buried under debris. Israel has also killed at least 2,464 people in Lebanon since October last year.",
         "body": [
           {
@@ -1150,7 +293,7 @@
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p><strong>2059 GMT —</strong> The Israeli army has launched a series of new air strikes on Beirut, targeting the Lebanese capital's southern suburb, following Israeli threats to bomb buildings housing branches of the Qard al Hassan financial institution affiliated with the Hezbollah group.</p><p>Israeli warplanes carried out at least nine strikes within an hour, targeting the association's branches in Hayy al Sellum, Borj al Barajneh, and Ghobeiry in the southern suburb of Beirut, Lebanon's <em>National News Agency </em>reported.</p><p>Earlier, the Israeli army threatened to attack \"important economic assets\" of Hezbollah in Lebanon.</p><p>Qard al Hassan is one of the key financial institutions of Hezbollah, established in the 1980s as a charitable association.</p>"
+            "value": "<p><strong>0900 GMT —  </strong>At least 29 people were killed in intensified Israeli attacks in northern Gaza, according to medical sources.</p><p>Artillery shelling targeted a school sheltering displaced civilians near Birket Abu Rashid in Jabalia, killing seven people and injuring dozens, a medical source said.</p><p>According to witnesses, civilians gathered upon Israeli military orders at the UN-run Kreism School when an Israeli tank fired a shell towards them.</p><p>Six people were also killed when an Israeli air strike targeted a group of civilians filling water containers in Jabalia al-Balad in northern Gaza, paramedics said.</p><p>Four more Palestinians lost their lives when an Israeli drone strike targeted civilians near al-Saeed Hospital in Jabalia camp, another medical source said.</p><p>Three people were also killed and several others wounded in an Israeli strike on al-Shawa School housing displaced civilians in the northern city of Beit Hanoon, the source added.</p><p>In Gaza City, nine Palestinians lost their lives and dozens were wounded in Israeli shelling of a home near Birket Sheikh Radwan in the northern part of the city, according to witnesses.</p><p>The Israeli army has continued a massive offensive, now in its 17th day, in northern Gaza amid a suffocating siege on the area.</p>"
           },
           {
             "blockType": "twitter",
@@ -1167,12 +310,72 @@
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p><strong>2239 GMT — Israeli forces destroy homes, shelters in northern Gaza</strong> </p><p>The Israeli army is carrying out extensive attacks in northern Gaza, destroying homes and shelters, the Palestinian Civil Defence in the enclave said. </p><p>Spokesperson Mahmoud Bassal told <em>Anadolu</em> that the Israeli attacks aim to displace residents from northern Gaza and empty the area of its buildings. </p><p>He said what is happening in Jabalia represents \"ethnic cleansing and the destruction of all life's essentials\" amid an escalation of Israeli bombardments on dozens of homes in Jabalia, Beit Lahia and Beit Hanoun. </p><p>\"The bodies of dozens of martyrs are still under the rubble due to the intense Israeli bombardment in the northern areas, which exacerbates the humanitarian catastrophe in the region,\" Bassal said. </p><p>The Israeli army has pressed ahead with a massive offensive in northern Gaza, now in its 16th day, amid a suffocating siege of the area.</p>"
+            "value": "<p><strong>1012 GMT —  </strong><strong>Hundreds of illegal Israeli settlers storm Jerusalem’s Al-Aqsa complex to celebrate Sukkot</strong></p><p>For the second consecutive day, hundreds of illegal Israeli settlers stormed the Al-Aqsa Mosque complex in occupied East Jerusalem to celebrate the Jewish holiday of Sukkot.</p><p>Settlers entered the flashpoint site in groups through the Mughrabi Gate in the western wall of the mosque under Israeli police protection, witnesses said.</p><p>Right-wing Israeli groups have called for extensive settler incursions into the Al-Aqsa compound to celebrate the week-long Sukkot holiday, which began last Wednesday.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p><strong>1000 GMT — </strong><strong>Blinken heads to the Middle East again as US looks to kickstart another round of Gaza ceasefire talks</strong></p><p>US Secretary of State Antony Blinken will depart for the Middle East, the State Department said, as Washington is pushing to kickstart ceasefire negotiations to end the Gaza war following the killing of Hamas politburo leader Yahya Sinwar.</p><p>The top US diplomat's latest trip to the region, his eleventh since Israel's brutal war on Gaza, even as Israel has intensified its military campaign in Gaza and Lebanon.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p><strong>0851 GMT — US envoy arrives in Lebanon</strong></p><p>US special envoy Amos Hochstein arrived in Beirut to meet Lebanon's prime minister and parliament speaker Nabih Berri, said an <em>AFP </em>correspondent.</p><p>Before meeting Lebanon's prime minister, Hochstein arrived at the Beirut residence of Berri, who is tasked with negotiating on behalf of Hezbollah amid diplomatic efforts to end the war.  </p><p>Earlier <em>Axios </em>reported that Israel gave the United States a document last week with its conditions for a \"diplomatic solution\" to end its war on Lebanon.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p><strong>0844 GMT — Israel executes 7 displaced Palestinians in Gaza</strong></p><p>Israeli army executes 7 displaced persons, injures dozens in artillery strike after removing them from UNRWA school in Jabalia camp, northern Gaza, witnesses have told <em>Anadolu</em>. </p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p><strong>0818 GMT —</strong> <strong>WHO to evacuate1,000 Palestinian women in Gaza, children for urgent medical care</strong></p><p>Up to 1,000 women and children needing medical care will shortly be evacuated from Gaza to Europe, the head of the World Health Organization's Europe branch has said. </p><p>Israel, which is besieging the war-devastated Palestinian territory, \"is committed to 1,000 more medical evacuations within the next months to the European Union,\" Hans Kluge said in an interview with <em>AFP</em>.</p><p>He said the evacuations would be facilitated by the WHO the United Nations' health agency and the European countries involved.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p><strong>0742 GMT — </strong><strong>Iran warns UN nuclear watchdog about Israeli threats against its nuclear sites</strong></p><p>Iran has warned the UN nuclear watchdog about Israel's threats against its nuclear sites, foreign ministry spokesperson Esmaeil Baghaei said at a weekly news conference. </p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p><strong>0718 GMT — </strong><strong>Hezbollah says it downed an Israeli drone, targeted Israeli forces in multiple attacks</strong></p><p>Hezbollah has said that it downed an Israeli drone and targeted Israeli artillery positions and troop gatherings in nine attacks carried out by its members.</p><p>In a series of statements, the group reported shooting down an Israeli Hermes 900 drone but did not specify the location of the incident.</p><p>Hezbollah also said it launched rocket barrages at Israeli artillery positions in the  Beit Hillel and Odem settlements, as well as the Beit Hillel military base in northern Israel.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p><strong>0632 GMT — </strong><strong>Israel continues to hit north Gaza, eastern Lebanon</strong></p><p>Six women and children from the same family were killed and eight others were injured in an Israeli drone attack on the Nabi Anam neighbourhood in Baalbek, eastern Lebanon, according to Lebanese media reports.</p><p>According to Lebanon’s National News Agency, the Israeli military carried out the strike at 0250GMT, targeting the home of Ali Abdo Othman in a densely populated residential area.</p><p>The strike destroyed the building and damaged nearby homes, resulting in the deaths of six women and children from the Othman family, with eight other residents sustaining injuries ranging from critical to minor, the news agency said.</p><p>Meanwhile, thousands of Palestinians have been gathering for several days in the Beit Lahia in northern Gaza, after fleeing their homes in the Jabalia camp and its surroundings.</p><p>Israeli army targeted a residential bloc in Beit Lahia area, killing at least 87 Palestinians, and injuring 40 others, some of them in critical condition.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p><strong>0538 GMT — </strong><strong>THAAD anti-missile system 'in place' in Israel, US says</strong></p><p>The US military has rushed its advanced anti-missile system to Israel and it is now \"in place\", US Defense Secretary Lloyd Austin said.</p><p>Austin declined to say whether the Terminal High Altitude Area Defense system or THAAD was operational. But he added: \"We can put it into operation very quickly and we're on pace with our expectations.\" </p><p>President Joe Biden said the THAAD's deployment, along with about 100 US soldiers, was meant to help defend Israel, which is weighing an expected retaliation against Iran after Tehran fired more than 180 missiles at Israel on October 1.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p><strong>0340 GMT — </strong><strong>Israel gives the US its demands for ending war in Lebanon</strong></p><p>Israel gave the United States a document last week with its conditions for a \"diplomatic solution\" to end its war on Lebanon, Axios has reported citing two US officials and two Israeli officials.</p><p>White House Special Envoy Amos Hochsteien is visiting Beirut on Monday to discuss a \"diplomatic solution\" to the conflict, the report has added.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p><strong>2334 GMT — Israeli air strike on ambulance in southern Lebanon</strong></p><p>An Israeli air strike targeted an ambulance in southern Lebanon, leaving several people injured. </p><p>The attack took place in the town of Khirbet Selm, east of Tyre, Lebanon's <em>National News Agency</em> reported. </p><p>Medical teams and relief workers in Lebanon have been targets of Israeli aggression since the escalation of attacks in late September.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p><strong>2239 GMT — Israeli forces destroy homes, shelters in northern Gaza</strong> </p><p>The Israeli army is carrying out extensive attacks in northern Gaza, destroying homes and shelters, the Palestinian Civil Defence in the enclave said. </p><p>Spokesperson Mahmoud Bassal told <em>Anadolu</em> that the Israeli attacks aim to displace residents from northern Gaza and empty the area of its buildings. </p><p>He said what is happening in Jabalia represents \"ethnic cleansing and the destruction of all life's essentials\" amid an escalation of Israeli bombardments on dozens of homes in Jabalia, Beit Lahia and Beit Hanoun. </p><p>\"The bodies of dozens of martyrs are still under the rubble due to the intense Israeli bombardment in the northern areas, which exacerbates the humanitarian catastrophe in the region,\" Bassal said. </p><p>The Israeli army has pressed ahead with a massive offensive in northern Gaza, now in its 17th day, amid a suffocating siege of the area.</p>"
           },
           {
             "blockType": "text",
             "metadata": {},
             "value": "<p><strong>2223 GMT — Thousands rally in Brussels to demand ceasefire in Gaza, Lebanon</strong> </p><p>Nearly 32,000 people took to the streets of Belgium's capital to call for an immediate ceasefire in Gaza and Lebanon, according to the police. </p><p>At the event in Brussels, demonstrators also called on the Belgian government to push for a complete international military embargo against Israel. </p><p>The event was organised by a coalition of civil society organisations, the <em>Belga News Agency</em> reported.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p><strong>2059 GMT —</strong> <strong>Israel launches new wave of air strikes on southern Beirut</strong></p><p>The Israeli army has launched a series of new air strikes on Beirut, targeting the Lebanese capital's southern suburb, following Israeli threats to bomb buildings housing branches of the Qard al Hassan financial institution affiliated with the Hezbollah group.</p><p>Israeli warplanes carried out at least nine strikes within an hour, targeting the association's branches in Hayy al Sellum, Borj al Barajneh, and Ghobeiry in the southern suburb of Beirut, Lebanon's <em>National News Agency </em>reported.</p><p>Earlier, the Israeli army threatened to attack \"important economic assets\" of Hezbollah in Lebanon.</p><p>Qard al Hassan is one of the key financial institutions of Hezbollah, established in the 1980s as a charitable association.</p>"
           },
           {
             "blockType": "text",
@@ -1197,7 +400,7 @@
             "value": "<p><em><strong>For our live updates from Sunday, October 20, 2024, click <a href=\"https://www.trtworld.com/middle-east/live-blog-gaza-resistance-fighters-kill-israeli-colonel-hit-tanks-18222345\">here</a>.</strong></em></p>"
           }
         ],
-        "path": "/middle-east/live-blog-israel-launches-new-wave-of-air-strikes-on-southern-beirut-18222610",
+        "path": "/middle-east/live-blog-israel-kills-29-palestinians-in-north-gaza-in-fresh-strikes-18222610",
         "type": "article",
         "fields": {
           "search_title": {
@@ -1211,15 +414,15 @@
           },
           "mainImage": {
             "type": "image",
-            "assetId": 21069970,
-            "key": "trtworld/21069970_0-419-8256-4649.jpeg",
+            "assetId": 21071671,
+            "key": "trtworld/21071671_0-298-5760-3243.jpeg",
             "bucket": "port-prod-asset-public-image-v3",
             "cdnUrl": "https://images-cdn.trtworld.com/trtworld/",
-            "fileName": "21069970_0-419-8256-4649.jpeg",
-            "url": "https://images-cdn.trtworld.com/trtworld/21069970_0-419-8256-4649.jpeg",
-            "title": "Smoke and flames rise following an Israeli attack on Dahiyeh in Beirut. / Photo: AA",
-            "width": 8256,
-            "height": 5504,
+            "fileName": "21071671_0-298-5760-3243.jpeg",
+            "url": "https://images-cdn.trtworld.com/trtworld/21071671_0-298-5760-3243.jpeg",
+            "title": "Israeli army executes 7 displaced persons, wounds dozens in artillery strike after removing them from UNRWA school in Jabalia camp. / Photo: AA",
+            "width": 5760,
+            "height": 3840,
             "source": "AA"
           },
           "authors": [
@@ -1377,13 +580,13 @@
           ],
           "overlayImage": {
             "type": "image",
-            "key": "trtworld/f_article_868e213c4231dcbf6b1821023c959af1.jpeg",
+            "key": "trtworld/f_article_c71f06896064d5efce04d842a17e0e78.jpeg",
             "bucket": "port-prod-asset-public-image-v3",
             "cdnUrl": "https://images-cdn.trtworld.com/trtworld/",
-            "fileName": "f_article_868e213c4231dcbf6b1821023c959af1.jpeg",
-            "url": "https://images-cdn.trtworld.com/trtworld/f_article_868e213c4231dcbf6b1821023c959af1.jpeg",
-            "width": 8256,
-            "height": 5504
+            "fileName": "f_article_c71f06896064d5efce04d842a17e0e78.jpeg",
+            "url": "https://images-cdn.trtworld.com/trtworld/f_article_c71f06896064d5efce04d842a17e0e78.jpeg",
+            "width": 5760,
+            "height": 3840
           }
         },
         "metadata": {
@@ -1392,25 +595,32 @@
         "site": "trtworld",
         "viewCount": 0,
         "published": {
-          "date": "2024-10-20T23:01:55.278Z"
+          "date": "2024-10-21T10:25:49.253Z"
         },
         "paths": [
-          "/middle-east/live-blog-israel-launches-new-wave-of-air-strikes-on-southern-beirut-18222610"
+          "/middle-east/live-blog-israel-launches-new-wave-of-air-strikes-on-southern-beirut-18222610",
+          "/middle-east/live-blog-israel-assault-in-north-gaza-continues-strikes-lebanons-beirut-18222610",
+          "/middle-east/live-blog-israel-continues-to-hit-north-gaza-eastern-lebanon-18222610",
+          "/middle-east/live-blog-israel-kills-29-palestinians-in-north-gaza-in-fresh-strikes-18222610"
         ]
       }
     },
     {
-      "id": 18222609,
+      "id": 18222771,
       "type": "article",
-      "title": "Oxfam 'strongly condemns' killing of water engineers in Israeli Gaza strike",
-      "description": "Dozens of engineers, civil servants and aid workers have been killed in Israeli air strikes during Tel Aviv's ongoing war, Oxfam says.",
-      "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21069848_0-0-2355-1326.jpeg",
+      "title": "Beyond Gaza’s death toll: Countless stories of grieving parents, children",
+      "description": "A new study analyses the profound psychological impact of Israel’s war on the Palestinian enclave, where hundreds of thousands have lost at least one parent or a child.",
+      "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21071413_303-161-3936-2216.jpeg",
       "overlayImageUrl": "",
       "thumbnailSquare": "",
       "categories": [
         {
           "contentId": 12682254,
           "title": "Home Page"
+        },
+        {
+          "contentId": 12683233,
+          "title": "Magazine"
         },
         {
           "contentId": 12683241,
@@ -1421,212 +631,402 @@
       "metaDescription": "",
       "showName": "",
       "showSlug": "",
-      "path": "/middle-east/oxfam-strongly-condemns-killing-of-water-engineers-in-israeli-gaza-strike-18222609",
-      "publishedDate": "2024-10-20T22:07:19.816Z",
+      "path": "/magazine/beyond-gazas-death-toll-countless-stories-of-grieving-parents-children-18222771",
+      "publishedDate": "2024-10-21T09:36:59.866Z",
       "authors": [],
       "showAuthor": false,
       "showByLine": false,
       "showSparkbox": false,
       "content": {
-        "id": 18222609,
-        "title": "Oxfam 'strongly condemns' killing of water engineers in Israeli Gaza strike",
-        "description": "Dozens of engineers, civil servants and aid workers have been killed in Israeli air strikes during Tel Aviv's ongoing war, Oxfam says.",
+        "id": 18222771,
+        "title": "Beyond Gaza’s death toll: Countless stories of grieving parents, children",
+        "description": "A new study analyses the profound psychological impact of Israel’s war on the Palestinian enclave, where hundreds of thousands have lost at least one parent or a child.",
         "body": [
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p>Oxfam has condemned in strongest terms the killing of four water engineers and workers from the Khuzaa municipality in Gaza, the Oxfam International <a href=\"https://www.oxfam.org/en/press-releases/oxfam-condemns-killing-water-engineers-gaza\">said</a>.</p><p>The workers, collaborating with Oxfam's strategic partner, the Coastal Municipalities Water Utility (CMWU), were killed in a bombing incident despite their vehicle being clearly marked and their movements coordinated with Israeli authorities. </p><p>The four men were travelling east of Khan Younis to carry out urgent repairs on Gaza's water infrastructure when the air strike occurred.  </p><p>Oxfam expressed solidarity with CMWU, its partners and the families of the victims, highlighting the dire impact their killings will have on an already strained water supply system in Gaza. </p><p>The humanitarian crisis in Gaza continues to escalate, with clean water access severely compromised.</p>"
-          },
-          {
-            "id": 18185312,
-            "type": "article",
-            "title": "Israel weaponises water in its military campaign in Gaza: Oxfam",
-            "description": "Water supply in Gaza reduced by 94 percent, says Oxfam, urging world to take decisive action to prevent further suffering of Palestinians.",
-            "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/10715450_0-180-4227-2380.jpeg",
-            "overlayImageUrl": "https://images-cdn.trtworld.com/trtworld/f_article_e4fe8af3263d975681e8043cb47d1323.jpeg",
-            "thumbnailSquare": "",
-            "categories": [
-              {
-                "contentId": 12682254,
-                "title": "Home Page"
-              },
-              {
-                "contentId": 12683241,
-                "title": "Middle East"
-              },
-              {
-                "contentId": 12683245,
-                "title": "Discrimination"
-              }
-            ],
-            "metaTitle": "",
-            "metaDescription": "",
-            "showName": "",
-            "showSlug": "",
-            "path": "/middle-east/israel-weaponises-water-in-its-military-campaign-in-gaza-oxfam-18185312",
-            "publishedDate": "2024-07-18T16:42:11.719Z",
-            "authors": [
-              {
-                "userName": "Staff.Reporter",
-                "firstName": "Staff",
-                "lastName": "Reporter",
-                "path": "/author/staff-reporter"
-              }
-            ],
-            "showAuthor": false,
-            "showByLine": false,
-            "showSparkbox": false,
-            "blockType": "content"
+            "value": "<p>Killed: Over 42,000. Injured: Nearly 100,000. Missing: Over 21,000. Displaced: 1.7 million.</p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p><strong>Violation of international law</strong></p>"
+            "value": "<p>The numbers are as gut-wrenching as they are staggering. Since October 7, 2023, horrific details of death and destruction in Gaza have dominated global headlines as Israel continues to pummel the Palestinian enclave with bombs and bullets. </p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p>Oxfam said dozens of engineers, civil servants and aid workers have been killed in Israeli air strikes during Tel Aviv's ongoing war, many of whom were working on essential services aimed at keeping Gaza's fragile infrastructure operational.  </p>"
+            "value": "<p><span style=\"background-color: rgb(255, 255, 255);\">But beneath the cold numbers lies a quieter story of grief —one that will scar the population for generations to come.</span></p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p>In spite of the coordination efforts between CMWU, the Palestinian Water Authority and Israeli authorities to protect these workers, they remain vulnerable to attacks. </p>"
+            "value": "<p><span style=\"background-color: rgb(255, 255, 255);\">For every child lowered into the earth, a parent’s soul follows, and for every parent who has made it out of the rubble, a child is left to wander with half a heart, half a life.  </span></p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p>\"These assaults on civilian infrastructure and the people who work tirelessly to maintain it are clear violations of international humanitarian law,\" an Oxfam spokesperson said.  </p>"
+            "value": "<p>On average, 1 in 43 Palestinians has lost a child, and 1 in 59 has lost a parent to the ongoing Israeli onslaught, revealed a <a href=\"https://www.science.org/doi/10.1126/sciadv.ado6951\">study</a> on “The long-lasting effect of armed conflicts deaths on the living: Quantifying family bereavement” published in Science Advances. </p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p>\"Those responsible must be held accountable. Attacking essential workers is part of the crime of using starvation as a weapon of war.\" </p>"
+            "value": "<p><span style=\"background-color: rgb(255, 255, 255);\">According to the study, the figures could be far greater if they were based on estimates that account for indirect deaths, which could raise the death toll to over </span><a href=\"https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01169-3/fulltext\" style=\"background-color: rgb(255, 255, 255);\">186,000</a><span style=\"background-color: rgb(255, 255, 255);\">. </span></p>"
           },
           {
             "blockType": "text",
             "metadata": {},
-            "value": "<p>Oxfam has called for an independent investigation into the killings and reiterated its demands for a ceasefire, an end to arms transfers to Israel and greater international pressure to hold Israel accountable for its actions against civilians and those delivering life-saving services in Gaza.</p>"
+            "value": "<p><span style=\"background-color: rgb(255, 255, 255);\">Moreover, the analysis does not account for the grief experienced by siblings or extended family members.</span></p>"
           },
           {
-            "id": 17406351,
-            "type": "article",
-            "title": "Oxfam: Israel 'deliberately' blocking aid to Gaza",
-            "description": "The report says Israel continued to \"systematically and deliberately block and undermine any meaningful international humanitarian response\" in the Palestinian territory.",
-            "mainImageUrl": "https://cdn-i.pr.trt.com.tr/trtworld/18341769_0-104-5500-3097.jpeg",
-            "overlayImageUrl": "https://cdn-i.pr.trt.com.tr/trtworld/f_article_3e94e2531c1a0d38242396dfcf59ac97.jpeg",
-            "thumbnailSquare": "",
-            "categories": [
-              {
-                "contentId": 12682254,
-                "title": "Home Page"
-              },
-              {
-                "contentId": 12683241,
-                "title": "Middle East"
-              }
-            ],
-            "metaTitle": "",
-            "metaDescription": "",
-            "showName": "",
-            "showSlug": "",
-            "path": "/middle-east/oxfam-israel-deliberately-blocking-aid-to-gaza-17406351",
-            "publishedDate": "2024-03-18T02:28:58.845Z",
-            "authors": [
-              {
-                "userName": "Staff.Reporter",
-                "firstName": "Staff",
-                "lastName": "Reporter",
-                "path": "/author/staff-reporter"
-              }
-            ],
-            "showAuthor": false,
-            "showByLine": false,
-            "showSparkbox": false,
-            "blockType": "content"
-          },
-          {
-            "blockType": "youtube",
+            "blockType": "big_image",
             "metadata": {
-              "url": "https://youtu.be/DaErmF-nYFA"
+              "url": "https://images-cdn.trtworld.com/trtworld/21071490_0-98-4128-2287.jpeg",
+              "source": "AA",
+              "filename": "21071490_0-98-4128-2287.jpeg",
+              "caption": "On average, 1 in 43 Palestinians has lost a child, and 1 in 59 has lost a parent to the ongoing Israeli onslaught."
             },
-            "value": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/DaErmF-nYFA?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"Humanitarian crisis in northern Gaza worsens\"></iframe>"
+            "value": "<figure class=\"content-image\"><img class=\"content-image\" src=\"https://images-cdn.trtworld.com/trtworld/21071490_0-98-4128-2287.jpeg\" /><figcaption>On average, 1 in 43 Palestinians has lost a child, and 1 in 59 has lost a parent to the ongoing Israeli onslaught.</figcaption></figure>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p><b>‘Violent’ loss</b></p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p><span style=\"background-color: rgb(255, 255, 255);\">“Bereavement” is defined as the experience of the death of a close relation or friend, characterised by grief, which is the range of emotions people go through after the loss.</span></p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>Yet, grief caused by war goes beyond the pain of losing a loved one. It is compounded by the trauma of how those losses occur. </p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>“Collective experiences of the violent death of a parent or a child could influence cultural change and perceptions of the conflict,” say the <a href=\"https://www.science.org/doi/10.1126/sciadv.ado6951\">researchers</a> from the Max Planck Institute for Demographic Research, the CED–Centre for Demographic Studies, and the University of Washington. </p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>In Gaza, the brutality of war defines these losses.</p>"
+          },
+          {
+            "blockType": "big_image",
+            "metadata": {
+              "url": "https://images-cdn.trtworld.com/trtworld/21071676_0-1510-5943-2705.jpeg",
+              "source": "Others",
+              "filename": "21071676_0-1510-5943-2705.jpeg",
+              "caption": "Survivor’s guilt is felt deeply in the enclave, where each day brings the fall of another home, reduced to rubble and memory."
+            },
+            "value": "<figure class=\"content-image\"><img class=\"content-image\" src=\"https://images-cdn.trtworld.com/trtworld/21071676_0-1510-5943-2705.jpeg\" /><figcaption>Survivor’s guilt is felt deeply in the enclave, where each day brings the fall of another home, reduced to rubble and memory.</figcaption></figure>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>For over a year, it has been far from unusual for Palestinian parents to witness their childrens’ lifeless bodies burned beyond recognition, shattered by airstrikes, or nearly flattened beneath rubble, with limbs torn into so many pieces they have to be collected in bags.  </p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>Where over 900 families have been completely erased from existence, the number of those who were left behind as the sole survivors runs into thousands. </p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>Survivor’s guilt is felt deeply in the enclave, where each day brings the fall of another home, reduced to rubble and memory.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>“There is a repeated displacement, constant fear and witnessing family members literally dismembered before their eyes,” Christopher Lockyear, Secretary General of MSF (Doctors Without Borders) International, <a href=\"https://www.reuters.com/world/middle-east/msf-slams-us-gaza-un-says-children-young-5-want-die-2024-02-22/\">told</a> the UN Security Council in February last year.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>“These psychological injuries have led children as young as five to tell us that they would prefer to die.”</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>The situation of grieving parents is no different. </p>"
+          },
+          {
+            "blockType": "big_image",
+            "metadata": {
+              "url": "https://images-cdn.trtworld.com/trtworld/21071485_0-478-2835-1484.jpeg",
+              "source": "AA",
+              "filename": "21071485_0-478-2835-1484.jpeg",
+              "caption": "Over 900 families have been wiped out by the Israeli forces, according to the Palestinian Media Office in Gaza."
+            },
+            "value": "<figure class=\"content-image\"><img class=\"content-image\" src=\"https://images-cdn.trtworld.com/trtworld/21071485_0-478-2835-1484.jpeg\" /><figcaption>Over 900 families have been wiped out by the Israeli forces, according to the Palestinian Media Office in Gaza.</figcaption></figure>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>In a video spread online in March, a Palestinian mother was seen begging for her children's lifeless bodies to be kept warm under a blanket after they were killed in the cold by an airstrike:</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p> “I wish I were dead too, so I could go to the grave with them,” she <a href=\"https://www.aa.com.tr/en/middle-east/on-mothers-day-gazan-mothers-grieve-for-children-lost-to-war/3217398\">said</a>.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>Violent losses like these are known to lead to an increased risk of mental health struggles such as PTSD, prolonged grief disorder, and major depressive episodes. </p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>Yet, for the average Palestinian in Gaza, trauma is not a single event —it is relentless, making the very idea of “post-trauma” a misnomer.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>Correspondingly, UNRWA mental health providers in the enclave have <a href=\"https://www.unrwa.org/resources/reports/mental-health-and-psychosocial-support-mhpss-gaza\">reported</a> observing a sharp rise in symptoms of depression, anxiety, and emotional distress, particularly in children, in the first 300 days of the war.</p>"
+          },
+          {
+            "blockType": "big_image",
+            "metadata": {
+              "url": "https://images-cdn.trtworld.com/trtworld/21071478_0-146-3000-1533.jpeg",
+              "source": "Others",
+              "filename": "21071478_0-146-3000-1533.jpeg",
+              "caption": "\"The Gaza Strip is the most dangerous place in the world to be a child,\" a UN official said in November 2023. / Photo: Mahmoud Abu Hamda"
+            },
+            "value": "<figure class=\"content-image\"><img class=\"content-image\" src=\"https://images-cdn.trtworld.com/trtworld/21071478_0-146-3000-1533.jpeg\" /><figcaption>\"The Gaza Strip is the most dangerous place in the world to be a child,\" a UN official said in November 2023.</figcaption></figure>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>Sleep disturbances, nightmares, emotional numbness, and outbursts of aggression are the visible symptoms of a population enduring trauma without end.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>“What’s interesting is that when you meet with these children, they often don’t talk about their feelings. They describe the facts,” says Jonathan Crickx, UNICEF’s top spokesman in the state of Palestine, in an interview with TRT World.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>“I was here, I heard the explosion, my uncle took me to the hospital. It’s very factual.”</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>Those are Crickx’s recollections from his time spent in Gaza, about four months into the war. </p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>There, in a shelter where UNICEF was hosting recreational activities, he met a 10-year-old girl, Razan, who sat motionless, unlike the other children dancing and singing around her.   </p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>When he inquired, he learned that she had lost her entire family in an airstrike, along with her left leg. </p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>Razan startled easily, even at the sound of a door slamming shut. When she spoke about the loud strike and the moments after waking up in the hospital, it was with detached clarity, as though recounting someone else's pain.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>“The moment that really struck me,” Crickx reflects, “was when she began to cry and said, ‘I just want my leg back.’”</p>"
+          },
+          {
+            "blockType": "big_image",
+            "metadata": {
+              "url": "https://images-cdn.trtworld.com/trtworld/21071666_0-525-3000-1428.jpeg",
+              "source": "Others",
+              "filename": "21071666_0-525-3000-1428.jpeg",
+              "caption": "Depression is on the rise among children in Gaza, according to UNRWA. / Photo: Mahmoud Abu Hamda"
+            },
+            "value": "<figure class=\"content-image\"><img class=\"content-image\" src=\"https://images-cdn.trtworld.com/trtworld/21071666_0-525-3000-1428.jpeg\" /><figcaption>Depression is on the rise among children in Gaza, according to UNRWA. / Photo: Mahmoud Abu Hamda</figcaption></figure>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>Since October 2023, nearly all of the estimated 1.2 million children in Gaza have been facing significant mental health challenges, with many showing signs of depression, anxiety, suicidal thoughts, and regressive behaviours like bedwetting, according to recent <a href=\"https://reliefweb.int/report/occupied-palestinian-territory/acaps-thematic-report-palestine-impact-conflict-mental-health-and-psychosocial-support-needs-gaza-03-september-2024\">reports</a>. </p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>Unaccompanied and separated children, many of whom are orphans, are especially vulnerable.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>“Most of those children are being taken care of by their extended families —uncles, aunts, cousins, grandparents,” says Crickx.</p>"
+          },
+          {
+            "blockType": "twitter",
+            "metadata": {
+              "url": "https://x.com/trtworld/status/1776315617710166337"
+            },
+            "value": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">“You look like my father”<br><br>A Palestinian child was moved to tears when she saw a journalist who resembled her father. The child has reportedly not heard from her father since they were displaced during Israel’s war on Gaza <a href=\"https://t.co/CLM8KdmzqR\">pic.twitter.com/CLM8KdmzqR</a></p>&mdash; TRT World (@trtworld) <a href=\"https://twitter.com/trtworld/status/1776315617710166337?ref_src=twsrc%5Etfw\">April 5, 2024</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>Amir (12) and Fatima Ashour (10) are two of them. </p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>Having lost their parents and their five-year-old brother when their house was bombed by the Israeli forces almost a year ago, the siblings have been sheltering with their grandfathers in Khan Younis, southern Gaza. </p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>“In everything I remember them, I am unable to forget them. I did not see them when they were martyred, I did not see them to say goodbye to them,” says Amir.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>“The life of an orphan is very difficult,” their grandmother reflects. “When they see children with their mothers carrying them, you find them looking at them and sometimes you notice tears streaming down their cheeks.”</p>"
+          },
+          {
+            "blockType": "twitter",
+            "metadata": {
+              "url": "https://x.com/trtworld/status/1741100859130261767"
+            },
+            "value": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">A Palestinian orphan weeps silently as he caresses the soil that blankets his parents&#39; grave in besieged Gaza.<br><br>The streets of the Jabalia refugee camp in northern Gaza have become dotted with makeshift graves following Israeli air strikes which killed at least 90 Palestinians… <a href=\"https://t.co/kz5ZnVhIHo\">pic.twitter.com/kz5ZnVhIHo</a></p>&mdash; TRT World (@trtworld) <a href=\"https://twitter.com/trtworld/status/1741100859130261767?ref_src=twsrc%5Etfw\">December 30, 2023</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>Collective and generational trauma is deeply embedded in Palestinian history, where an enduring spirit of resistance has long existed against the backdrop of the widespread experience of loss, most importantly, of one’s freedom.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>By 2050, it is projected that one in every 142 Palestinians will have experienced the death of a parent, and one in 200 will have lost a child, according to the study.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>“What they need is a ceasefire. It’s the only way they can start to rebuild and regain hope,” Crickx from UNICEF says.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>Whatever the future holds, in Gaza, the collective memory of loss and grief is bound to linger long after the bombs fall silent.</p>"
           }
         ],
-        "path": "/middle-east/oxfam-strongly-condemns-killing-of-water-engineers-in-israeli-gaza-strike-18222609",
+        "path": "/magazine/beyond-gazas-death-toll-countless-stories-of-grieving-parents-children-18222771",
         "type": "article",
         "fields": {
           "search_title": {
-            "text": "Oxfam 'strongly condemns' killing of water engineers in Israeli Gaza strike"
+            "text": ""
           },
           "search_description": {
-            "text": "Dozens of engineers, civil servants and aid workers have been killed in Israeli air strikes during Tel Aviv's ongoing war, Oxfam says."
+            "text": ""
           },
           "topic_slug": {
-            "text": "middle-east"
+            "text": "magazine"
           },
           "mainImage": {
             "type": "image",
-            "assetId": 21069848,
-            "key": "trtworld/21069848_0-0-2355-1326.jpeg",
+            "assetId": 21071413,
+            "key": "trtworld/21071413_303-161-3936-2216.jpeg",
             "bucket": "port-prod-asset-public-image-v3",
             "cdnUrl": "https://images-cdn.trtworld.com/trtworld/",
-            "fileName": "21069848_0-0-2355-1326.jpeg",
-            "url": "https://images-cdn.trtworld.com/trtworld/21069848_0-0-2355-1326.jpeg",
-            "title": "Smoke rises in residential areas after Israeli attacks on town of Bani Suheila of Khan Younis, Gaza. / Photo: AA",
-            "width": 2355,
-            "height": 1570,
+            "fileName": "21071413_303-161-3936-2216.jpeg",
+            "url": "https://images-cdn.trtworld.com/trtworld/21071413_303-161-3936-2216.jpeg",
+            "title": "At least 25,973 children in Gaza are living without one or both parents according to Gaza's Governmental Media Office. / Photo: AA",
+            "width": 4240,
+            "height": 2832,
+            "source": "AA"
+          },
+          "coverImage": {
+            "type": "image",
+            "assetId": 21071403,
+            "key": "trtworld/21071403_301-394-3938-1692.jpeg",
+            "bucket": "port-prod-asset-public-image-v3",
+            "cdnUrl": "https://images-cdn.trtworld.com/trtworld/",
+            "fileName": "21071403_301-394-3938-1692.jpeg",
+            "url": "https://images-cdn.trtworld.com/trtworld/21071403_301-394-3938-1692.jpeg",
+            "title": "At least 25,973 children in Gaza are living without one or both parents according to Gaza's Governmental Media Office.",
+            "width": 4240,
+            "height": 2832,
             "source": "AA"
           },
           "authors": [
             {
               "firstName": {
-                "text": "Staff"
+                "text": "Berra "
               },
               "lastName": {
-                "text": "Reporter"
+                "text": "Ince"
               },
-              "twitter": {
-                "text": ""
+              "mainImage": {
+                "bucket": "port-prod-asset-public-image-v3",
+                "fileName": "20411684_0-0-1710-1710.jpeg",
+                "assetId": 20411684,
+                "cdnUrl": "https://images-cdn.trtworld.com/trtworld/",
+                "width": 1710,
+                "source": "Others",
+                "type": "image",
+                "title": "Berra Ince",
+                "key": "trtworld/20411684_0-0-1710-1710.jpeg",
+                "url": "https://images-cdn.trtworld.com/trtworld/20411684_0-0-1710-1710.jpeg",
+                "height": 1710
               },
               "bio": {
-                "text": ""
+                "text": "Berra Ince is a deputy producer at TRT World."
               },
-              "path": "/author/staff-reporter"
+              "path": "/author/berra-ince"
             }
           ],
           "relatedStory": {
-            "id": 12709492,
+            "id": 18219993,
             "type": "article",
-            "title": "At least 130 Palestinians hit by Israeli gunfire during Gaza protests",
-            "description": "About 200 Palestinians have been killed by Israeli forces since the protests started in late March, according to Palestinian Health Ministry figures. One Israeli soldier has been killed.",
-            "mainImageUrl": "https://cdn-i.pr.trt.com.tr/trtworld/0m_42792_PSE181019PalestinegazaprotestsReuters_1539971072147.JPG",
-            "overlayImageUrl": "",
+            "title": "A textbook genocide wiped out over 900 Gaza families. Others were destroyed",
+            "description": "Thousands of Palestinian families have been erased in Israel’s brutal war on Gaza. Here’s the story of one, the Radwans:",
+            "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21045438_0-157-5500-3099.jpeg",
+            "overlayImageUrl": "https://images-cdn.trtworld.com/trtworld/f_article_1190c7bf382a681a8e9f1d6dd0e82230.jpeg",
             "thumbnailSquare": "",
             "categories": [
               {
-                "contentId": 12683241,
-                "title": "Middle East"
-              },
-              {
                 "contentId": 12682254,
                 "title": "Home Page"
+              },
+              {
+                "contentId": 12683233,
+                "title": "Magazine"
+              },
+              {
+                "contentId": 12683241,
+                "title": "Middle East"
               }
             ],
             "metaTitle": "",
             "metaDescription": "",
             "showName": "",
             "showSlug": "",
-            "path": "/middle-east/at-least-130-palestinians-hit-by-israeli-gunfire-during-gaza-protests-12709492",
-            "publishedDate": "2018-10-19T18:29:54.000Z",
+            "path": "/magazine/a-textbook-genocide-wiped-out-over-900-gaza-families-others-were-destroyed-18219993",
+            "publishedDate": "2024-10-15T12:18:26.955Z",
             "authors": [
               {
-                "userName": "azaeraamza",
-                "firstName": "Azaera",
-                "lastName": "Amza",
-                "bio": "Azaera Amza is a producer at TRT World. ",
-                "twitter": "@azeamza",
-                "path": "/author/azaera-amza"
+                "mainImage": "https://cdn-i.pr.trt.com.tr/trtworld/16773435_0-0-2320-3088.jpeg",
+                "userName": "ZeynepConka1",
+                "firstName": "Zeynep ",
+                "lastName": "Conkar",
+                "bio": "Zeynep Conkar is a deputy producer at TRT World.",
+                "twitter": "@zeyneepconkar",
+                "path": "/author/zeynep-conkar"
+              },
+              {
+                "mainImage": "https://images-cdn.trtworld.com/trtworld/21041353_0-0-993-708.jpeg",
+                "userName": "Arafat Al-Barghouthi",
+                "firstName": "Arafat ",
+                "lastName": "Al-Barghouthi",
+                "bio": "Arafat Al-Barghouthi is a social researcher and writer based in Ramallah, occupied West Bank.",
+                "path": "/author/arafat-al-barghouthi"
               }
             ],
             "showAuthor": false,
@@ -1647,19 +1047,24 @@
               "slug": "home-page"
             },
             {
+              "contentId": 12683233,
+              "title": "Magazine",
+              "slug": "magazine"
+            },
+            {
               "contentId": 12683241,
               "title": "Middle East",
               "slug": "middle-east"
             }
           ],
           "team": {
-            "key": "news",
-            "value": "News",
+            "key": "features-and-opinion",
+            "value": "Features & Opinion",
             "metadata": {}
           },
           "contentFormat": {
-            "key": "news",
-            "value": "News",
+            "key": "features",
+            "value": "Features",
             "metadata": {}
           },
           "country": {
@@ -1673,8 +1078,313 @@
           },
           "tags": [
             {
-              "key": "palestine",
-              "value": "Palestine",
+              "key": "gaza",
+              "value": "Gaza",
+              "metadata": {}
+            },
+            {
+              "key": "grief",
+              "value": "Grief",
+              "metadata": {}
+            },
+            {
+              "key": "mourning-children",
+              "value": "Mourning Children",
+              "metadata": {}
+            },
+            {
+              "key": "mourning-parents",
+              "value": "Mourning Parents",
+              "metadata": {}
+            },
+            {
+              "key": "grieving-parents",
+              "value": "Grieving Parents",
+              "metadata": {}
+            },
+            {
+              "key": "grieving-children",
+              "value": "Grieving Children",
+              "metadata": {}
+            },
+            {
+              "key": "mourning",
+              "value": "mourning",
+              "metadata": {}
+            },
+            {
+              "key": "grieving",
+              "value": "Grieving",
+              "metadata": {}
+            },
+            {
+              "key": "loss",
+              "value": "Loss",
+              "metadata": {}
+            },
+            {
+              "key": "gaza-deaths",
+              "value": "Gaza Deaths ",
+              "metadata": {}
+            },
+            {
+              "key": "psychological-impact-of-grief",
+              "value": "Psychological Impact Of Grief",
+              "metadata": {}
+            },
+            {
+              "key": "depression",
+              "value": "Depression",
+              "metadata": {}
+            },
+            {
+              "key": "mental-health",
+              "value": "mental health",
+              "metadata": {}
+            }
+          ],
+          "overlayImage": {
+            "type": "image",
+            "key": "trtworld/f_article_a6b817d4bfa5f7121b60c100a1146e5a.jpeg",
+            "bucket": "port-prod-asset-public-image-v3",
+            "cdnUrl": "https://images-cdn.trtworld.com/trtworld/",
+            "fileName": "f_article_a6b817d4bfa5f7121b60c100a1146e5a.jpeg",
+            "url": "https://images-cdn.trtworld.com/trtworld/f_article_a6b817d4bfa5f7121b60c100a1146e5a.jpeg",
+            "width": 4240,
+            "height": 2832
+          }
+        },
+        "metadata": {
+          "show_bio": "true",
+          "show_byline": "true",
+          "show_sparkbox": "true"
+        },
+        "site": "trtworld",
+        "viewCount": 0,
+        "published": {
+          "date": "2024-10-21T09:36:59.866Z"
+        },
+        "paths": [
+          "/magazine/beyond-gazas-death-toll-countless-stories-of-grieving-parents-children-18222771"
+        ]
+      }
+    },
+    {
+      "id": 18222762,
+      "type": "article",
+      "title": "US deploys THAAD anti-missile system in Israel",
+      "description": "President Joe Biden said the THAAD's deployment, along with about 100 US soldiers, was meant to help \"defend\" Israel.",
+      "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21071463_0-0-1917-1080.jpeg",
+      "overlayImageUrl": "",
+      "thumbnailSquare": "",
+      "categories": [
+        {
+          "contentId": 12682254,
+          "title": "Home Page"
+        },
+        {
+          "contentId": 12682885,
+          "title": "Americas"
+        }
+      ],
+      "metaTitle": "",
+      "metaDescription": "",
+      "showName": "",
+      "showSlug": "",
+      "path": "/americas/us-deploys-thaad-anti-missile-system-in-israel-18222762",
+      "publishedDate": "2024-10-21T08:52:01.681Z",
+      "authors": [],
+      "showAuthor": false,
+      "showByLine": false,
+      "showSparkbox": false,
+      "content": {
+        "id": 18222762,
+        "title": "US deploys THAAD anti-missile system in Israel",
+        "description": "President Joe Biden said the THAAD's deployment, along with about 100 US soldiers, was meant to help \"defend\" Israel.",
+        "body": [
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>The US military has rushed its advanced anti-missile system to Israel and it is now \"in place\", Defense Secretary Lloyd Austin said.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>THAAD, or the Terminal High Altitude Area Defense system, is a critical part of the US military's layered air defense systems and adds to Israel's already formidable anti-missile defenses.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>\"The THAAD system is in place,\" Austin said, speaking to reporters before his arrival in Ukraine on Monday.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>He declined to say whether it was operational, but added: \"We have the ability to put it into operation very quickly and we're on pace with our expectations\". </p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>President Joe Biden said the THAAD's deployment, along with about 100 US soldiers, was meant to help defend Israel, which is weighing an expected retaliation against Iran after Tehran fired more than 180 missiles at Israel on October 1.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>The United States has been urging Israel to calibrate its response to avoid triggering a broader war in the Middle East, officials say, with Biden publicly voicing his opposition to an Israeli attack on Iran's nuclear sites and his concerns about a strike on its energy infrastructure.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>Responding to questions from reporters, Biden said last week he had a good understanding of when and how Israel would attack Iran. But he also said he saw an opportunity to end the two enemies' back-and-forth strikes.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>Austin was cautious.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>\"It's hard to say exactly what that (Israel's) strike will look like,\" Austin told reporters.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>\"At the end of the day, that's an Israeli decision, and whether or not the Israelis believe it's proportional and how the Iranians perceive it, I mean those may be two different things.\" </p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>\"We're going to do - continue to do - everything we can ... to dial down the tensions and hopefully get both parties to begin to de-escalate. So, we'll see what happens,\" he added.</p>"
+          }
+        ],
+        "path": "/americas/us-deploys-thaad-anti-missile-system-in-israel-18222762",
+        "type": "article",
+        "fields": {
+          "search_title": {
+            "text": ""
+          },
+          "search_description": {
+            "text": ""
+          },
+          "topic_slug": {
+            "text": "americas"
+          },
+          "mainImage": {
+            "type": "image",
+            "assetId": 21071463,
+            "key": "trtworld/21071463_0-0-1917-1080.jpeg",
+            "bucket": "port-prod-asset-public-image-v3",
+            "cdnUrl": "https://images-cdn.trtworld.com/trtworld/",
+            "fileName": "21071463_0-0-1917-1080.jpeg",
+            "url": "https://images-cdn.trtworld.com/trtworld/21071463_0-0-1917-1080.jpeg",
+            "title": "THAAD is a critical part of the US military's layered air defense systems [TRT WORLD]\n",
+            "width": 1920,
+            "height": 1080,
+            "source": "Others"
+          },
+          "authors": [
+            {
+              "firstName": {
+                "text": "Staff"
+              },
+              "lastName": {
+                "text": "Reporter"
+              },
+              "twitter": {
+                "text": ""
+              },
+              "bio": {
+                "text": ""
+              },
+              "path": "/author/staff-reporter"
+            }
+          ],
+          "relatedStory": {
+            "id": 18220386,
+            "type": "article",
+            "title": "What’s THAAD missile shield US has deployed in Israel and how it works",
+            "description": "The American defence system is expected to help Tel Aviv stave off potential ballistic missile attack by Iran as the Middle East bristles with tension amid the Gaza war.",
+            "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21045718_0-130-4928-2775.jpeg",
+            "overlayImageUrl": "https://images-cdn.trtworld.com/trtworld/f_article_3b16326475fe1e1de06a930384112ef9.jpeg",
+            "thumbnailSquare": "",
+            "categories": [
+              {
+                "contentId": 12682254,
+                "title": "Home Page"
+              },
+              {
+                "contentId": 12683233,
+                "title": "Magazine"
+              }
+            ],
+            "metaTitle": "",
+            "metaDescription": "",
+            "showName": "",
+            "showSlug": "",
+            "path": "/magazine/whats-thaad-missile-shield-us-has-deployed-in-israel-and-how-it-works-18220386",
+            "publishedDate": "2024-10-15T14:14:06.198Z",
+            "authors": [
+              {
+                "mainImage": "https://cdn-i.pr.trt.com.tr/trtworld/17943282_0-0-2048-2040.jpeg",
+                "userName": "Kazim_Alam",
+                "firstName": "Kazim",
+                "lastName": "Alam ",
+                "bio": "Kazim Alam is a staff writer at TRT World. ",
+                "path": "/author/kazim-alam"
+              }
+            ],
+            "showAuthor": false,
+            "showByLine": false,
+            "showSparkbox": false
+          },
+          "sources": [
+            {
+              "key": "trtworld-and-agencies",
+              "value": "TRTWorld and agencies",
+              "metadata": {}
+            }
+          ],
+          "topics": [
+            {
+              "contentId": 12682254,
+              "title": "Home Page",
+              "slug": "home-page"
+            },
+            {
+              "contentId": 12682885,
+              "title": "Americas",
+              "slug": "americas"
+            }
+          ],
+          "team": {
+            "key": "news",
+            "value": "News",
+            "metadata": {}
+          },
+          "contentFormat": {
+            "key": "news",
+            "value": "News",
+            "metadata": {}
+          },
+          "country": {
+            "key": "usa",
+            "value": "United States of America",
+            "metadata": {
+              "code": "USA",
+              "region": "Americas",
+              "subregion": "Northern America"
+            }
+          },
+          "tags": [
+            {
+              "key": "united-states",
+              "value": "United States",
+              "metadata": {}
+            },
+            {
+              "key": "thaad",
+              "value": "thaad",
               "metadata": {}
             },
             {
@@ -1683,40 +1393,30 @@
               "metadata": {}
             },
             {
-              "key": "gaza",
-              "value": "Gaza",
+              "key": "war",
+              "value": "War",
               "metadata": {}
             },
             {
-              "key": "gaza-war",
-              "value": "Gaza War",
+              "key": "conflict",
+              "value": "conflict",
               "metadata": {}
             },
             {
-              "key": "oxfam",
-              "value": "Oxfam",
-              "metadata": {}
-            },
-            {
-              "key": "hamas",
-              "value": "Hamas",
-              "metadata": {}
-            },
-            {
-              "key": "hezbollah",
-              "value": "Hezbollah",
+              "key": "joe-biden",
+              "value": "Joe Biden",
               "metadata": {}
             }
           ],
           "overlayImage": {
             "type": "image",
-            "key": "trtworld/f_article_b73735c6c21db39a40f1c697d1fb18b3.jpeg",
+            "key": "trtworld/f_article_1510f35763adbc4b8b31a934b57a2a1c.jpeg",
             "bucket": "port-prod-asset-public-image-v3",
             "cdnUrl": "https://images-cdn.trtworld.com/trtworld/",
-            "fileName": "f_article_b73735c6c21db39a40f1c697d1fb18b3.jpeg",
-            "url": "https://images-cdn.trtworld.com/trtworld/f_article_b73735c6c21db39a40f1c697d1fb18b3.jpeg",
-            "width": 2355,
-            "height": 1570
+            "fileName": "f_article_1510f35763adbc4b8b31a934b57a2a1c.jpeg",
+            "url": "https://images-cdn.trtworld.com/trtworld/f_article_1510f35763adbc4b8b31a934b57a2a1c.jpeg",
+            "width": 1920,
+            "height": 1080
           }
         },
         "metadata": {
@@ -1725,10 +1425,395 @@
         "site": "trtworld",
         "viewCount": 0,
         "published": {
-          "date": "2024-10-20T22:07:19.816Z"
+          "date": "2024-10-21T08:52:01.681Z"
         },
         "paths": [
-          "/middle-east/oxfam-strongly-condemns-killing-of-water-engineers-in-israeli-gaza-strike-18222609"
+          "/americas/us-says-thaad-anti-missile-system-is-in-place-in-israel-18222762",
+          "/americas/us-deploys-thaad-anti-missile-system-in-israel-18222762"
+        ]
+      }
+    },
+    {
+      "id": 18222737,
+      "type": "article",
+      "title": "Australian senator to King Charles: 'Give us what you stole from us'",
+      "description": "Indigenous independent Senator Lidia Thorpe was escorted out of a parliamentary reception for the royal couple after shouting that British colonizers have taken Indigenous land and bones.",
+      "mainImageUrl": "https://images-cdn.trtworld.com/trtworld/21071397_0-0-5882-3313.jpeg",
+      "overlayImageUrl": "",
+      "thumbnailSquare": "",
+      "categories": [
+        {
+          "contentId": 12682254,
+          "title": "Home Page"
+        },
+        {
+          "contentId": 12682881,
+          "title": "Australia"
+        },
+        {
+          "contentId": 12682883,
+          "title": "Europe"
+        }
+      ],
+      "metaTitle": "",
+      "metaDescription": "",
+      "showName": "",
+      "showSlug": "",
+      "path": "/australia/australian-senator-to-king-charles-give-us-what-you-stole-from-us-18222737",
+      "publishedDate": "2024-10-21T08:42:45.261Z",
+      "authors": [],
+      "showAuthor": false,
+      "showByLine": false,
+      "showSparkbox": false,
+      "content": {
+        "id": 18222737,
+        "title": "Australian senator to King Charles: 'Give us what you stole from us'",
+        "description": "Indigenous independent Senator Lidia Thorpe was escorted out of a parliamentary reception for the royal couple after shouting that British colonizers have taken Indigenous land and bones.",
+        "body": [
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>An Indigenous senator told King Charles III that Australia is not his land and Prime Minister Anthony Albanese has said the monarch is not needed as the country's head of state as the British royal visited Australia's parliament.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>On Monday, indigenous independent Senator Lidia Thorpe was escorted out of a parliamentary reception for the royal couple after shouting that British colonizers have taken Indigenous land and bones.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>“You committed genocide against our people,\" she shouted. “Give us what you stole from us — our bones, our skulls, our babies, our people. You destroyed our land. Give us a treaty. We want a treaty.”</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>King Charles spoke quietly with Prime Minister Anthony Albanese while security officials stopped Senator Thorpe from approaching.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>“This is not your land. You are not my king,” Thorpe yelled as she was ushered from the hall.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>Albanese, who wants the country to become a republic with an Australian head of state, also told the king it was time for his role to end.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>“You have shown great respect for Australians, even during times when we have debated the future of our own constitutional arrangements and the nature of our relationship with the Crown,” Albanese said. But, he said, “nothing stands still.”</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>Opposition leader Peter Dutton<a href=\"https://apnews.com/article/queen-elizabeth-ii-king-charles-iii-prince-philip-australia-government-and-politics-e3ae71c8ab6a368f52ff3e4e9ea8ae0e\">,</a> who wants to keep the British king as Australia’s monarch, noted that even supporters of a republic were honoured to attend a reception for the Charles and Queen Camilla at Parliament House in the capital Canberra.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>“People have had haircuts, people have shined shoes, suits have been pressed and that’s just the republicans,” Dutton quipped.</p>"
+          },
+          {
+            "blockType": "twitter",
+            "metadata": {
+              "url": "https://x.com/trtworld/status/1848261437162144225"
+            },
+            "value": "<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">&quot;You committed genocide against our people&quot;<br><br>King Charles was heckled by Australian senator, Lidia Thorpe, after he finished a speech at the country’s parliament house on October 21 <a href=\"https://t.co/lZ4FIpDqDi\">pic.twitter.com/lZ4FIpDqDi</a></p>&mdash; TRT World (@trtworld) <a href=\"https://twitter.com/trtworld/status/1848261437162144225?ref_src=twsrc%5Etfw\">October 21, 2024</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>"
+          },
+          {
+            "id": 13078777,
+            "type": "article",
+            "title": "Indigenous leaders demand King Charles apologise for 'legacy of genocide'",
+            "description": "Indigenous representatives from 12 Commonwealth nations call for financial reparations and return of stolen cultural treasures from Britain.",
+            "mainImageUrl": "https://cdn-i.pr.trt.com.tr/trtworld/16322211_0-159-5997-3377.jpeg",
+            "overlayImageUrl": "",
+            "thumbnailSquare": "",
+            "categories": [
+              {
+                "contentId": 12682254,
+                "title": "Home Page"
+              },
+              {
+                "contentId": 12683245,
+                "title": "Discrimination"
+              },
+              {
+                "contentId": 12682883,
+                "title": "Europe"
+              }
+            ],
+            "metaTitle": "",
+            "metaDescription": "",
+            "showName": "",
+            "showSlug": "",
+            "path": "/discrimination/indigenous-leaders-demand-king-charles-apologise-for-legacy-of-genocide-13078777",
+            "publishedDate": "2023-05-04T03:23:53.353Z",
+            "authors": [
+              {
+                "userName": "umar.baba",
+                "firstName": "Baba",
+                "lastName": "Umar",
+                "bio": "Baba Umar is an Executive Producer with TRT World ",
+                "twitter": "@Babaumarr",
+                "mainImage": "https://cdn-i.pr.trt.com.tr/trtworld/0u_28.jpg",
+                "path": "/author/baba-umar"
+              }
+            ],
+            "showAuthor": false,
+            "showByLine": false,
+            "showSparkbox": false,
+            "blockType": "content"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p><strong>A referendum</strong> </p><p>Australia's six state government leaders underscored the political divide on the country's constitutional relationship with Britain by declining invitations to attend the reception. All six would prefer an Australian citizen was Australia’s head of state. They each said they had more pressing engagements on Monday, but monarchists agreed the royals had been snubbed.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>Charles used the start of his speech to thank Canberra Indigenous elder Auntie Violet Sheridan for her traditional welcome to the king and queen.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>“Let me also say how deeply I appreciated this morning’s moving Welcome to Country ceremony, which offers me the opportunity to pay my respects to the traditional owners of the lands on which we meet, the Ngunnawal people, and all First Nations peoples who have loved and cared for this continent for 65,000 years,” Charles said.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>“Throughout my life, Australia’s First Nations peoples have done me the great honour of sharing so generously their stories and cultures. I can only say how much my own experience has been shaped and strengthened by such traditional wisdom,” Charles added.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>Australians decided in a referendum in 1999 to retain Queen Elizabeth II as head of state. That result is widely regarded to have been the consequence of disagreement about how a president would be chosen rather than majority support for a monarch.</p>"
+          },
+          {
+            "blockType": "text",
+            "metadata": {},
+            "value": "<p>Albanese has ruled out holding another referendum on the subject during his current three-year term in government. But it is a possibility if his center-left Labor Party is re-elected at elections due by May next year.</p>"
+          },
+          {
+            "id": 12798514,
+            "type": "article",
+            "title": "Explained: Australia's Indigenous Voice referendum",
+            "description": "Australians are set to go to polls later this year to say \"yes\" or \"no\" to a proposed law recognising the First Peoples of Australia by forming an Aboriginal and Torres Strait Islander Voice. But what exactly are they voting for?",
+            "mainImageUrl": "https://cdn-i.pr.trt.com.tr/trtworld/0m_152473_Aboriginal1_1679583909618.png",
+            "overlayImageUrl": "",
+            "thumbnailSquare": "",
+            "categories": [
+              {
+                "contentId": 12683233,
+                "title": "Magazine"
+              },
+              {
+                "contentId": 12682254,
+                "title": "Home Page"
+              }
+            ],
+            "metaTitle": "",
+            "metaDescription": "",
+            "showName": "",
+            "showSlug": "",
+            "path": "/magazine/explained-australias-indigenous-voice-referendum-12798514",
+            "publishedDate": "2023-03-23T15:48:59.000Z",
+            "authors": [
+              {
+                "userName": "melisalemdar",
+                "firstName": "Melis",
+                "lastName": "Alemdar",
+                "bio": "Melis Alemdar is a staff writer at TRT World.",
+                "twitter": "melis_alemdar_",
+                "mainImage": "https://cdn-i.pr.trt.com.tr/trtworld/0u_42.jpg",
+                "path": "/author/melis-alemdar"
+              }
+            ],
+            "showAuthor": false,
+            "showByLine": false,
+            "showSparkbox": false,
+            "blockType": "content"
+          }
+        ],
+        "path": "/australia/australian-senator-to-king-charles-give-us-what-you-stole-from-us-18222737",
+        "type": "article",
+        "fields": {
+          "search_title": {
+            "text": ""
+          },
+          "search_description": {
+            "text": ""
+          },
+          "topic_slug": {
+            "text": "australia"
+          },
+          "mainImage": {
+            "type": "image",
+            "assetId": 21071397,
+            "key": "trtworld/21071397_0-0-5882-3313.jpeg",
+            "bucket": "port-prod-asset-public-image-v3",
+            "cdnUrl": "https://images-cdn.trtworld.com/trtworld/",
+            "fileName": "21071397_0-0-5882-3313.jpeg",
+            "url": "https://images-cdn.trtworld.com/trtworld/21071397_0-0-5882-3313.jpeg",
+            "title": "Indigenous independent Senator Lidia Thorpe was escorted out of a parliamentary reception for the royal couple after shouting that British colonisers have taken Indigenous land and bones. / Photo: Reuters",
+            "width": 5882,
+            "height": 3783,
+            "source": "Reuters"
+          },
+          "authors": [
+            {
+              "firstName": {
+                "text": "Rabiul"
+              },
+              "lastName": {
+                "text": "Islam"
+              },
+              "twitter": {
+                "text": ""
+              },
+              "bio": {
+                "text": ""
+              },
+              "path": "/author/rabiul-islam"
+            }
+          ],
+          "relatedStory": {
+            "id": 12710037,
+            "type": "article",
+            "title": "Australia's PM apologises for institutional child abuse",
+            "description": "Australian Prime Minister Scott Morrison issues emotive apology to children who suffered sexual abuse, saying the state had failed to protect them from \"evil dark\" crimes.",
+            "mainImageUrl": "https://cdn-i.pr.trt.com.tr/trtworld/0m_42874_ScreenShot20181022at3_1540168938342.png",
+            "overlayImageUrl": "",
+            "thumbnailSquare": "",
+            "categories": [
+              {
+                "contentId": 12682879,
+                "title": "Asia"
+              },
+              {
+                "contentId": 12682254,
+                "title": "Home Page"
+              }
+            ],
+            "metaTitle": "",
+            "metaDescription": "",
+            "showName": "",
+            "showSlug": "",
+            "path": "/asia/australias-pm-apologises-for-institutional-child-abuse-12710037",
+            "publishedDate": "2018-10-22T00:48:59.000Z",
+            "authors": [
+              {
+                "userName": "umar.baba",
+                "firstName": "Baba",
+                "lastName": "Umar",
+                "bio": "Baba Umar is an Executive Producer with TRT World ",
+                "twitter": "@Babaumarr",
+                "mainImage": "https://cdn-i.pr.trt.com.tr/trtworld/0u_28.jpg",
+                "path": "/author/baba-umar"
+              }
+            ],
+            "showAuthor": false,
+            "showByLine": false,
+            "showSparkbox": false
+          },
+          "sources": [
+            {
+              "key": "trtworld-and-agencies",
+              "value": "TRTWorld and agencies",
+              "metadata": {}
+            }
+          ],
+          "topics": [
+            {
+              "contentId": 12682254,
+              "title": "Home Page",
+              "slug": "home-page"
+            },
+            {
+              "contentId": 12682881,
+              "title": "Australia",
+              "slug": "australia"
+            },
+            {
+              "contentId": 12682883,
+              "title": "Europe",
+              "slug": "europe"
+            }
+          ],
+          "team": {
+            "key": "news",
+            "value": "News",
+            "metadata": {}
+          },
+          "contentFormat": {
+            "key": "news",
+            "value": "News",
+            "metadata": {}
+          },
+          "country": {
+            "key": "aus",
+            "value": "Australia",
+            "metadata": {
+              "code": "AUS",
+              "region": "Oceania",
+              "subregion": "Australia and New Zealand"
+            }
+          },
+          "tags": [
+            {
+              "key": "australia",
+              "value": "Australia",
+              "metadata": {}
+            },
+            {
+              "key": "europe",
+              "value": "europe",
+              "metadata": {}
+            },
+            {
+              "key": "king-charles",
+              "value": "King Charles",
+              "metadata": {}
+            },
+            {
+              "key": "indigenous",
+              "value": "Indigenous",
+              "metadata": {}
+            },
+            {
+              "key": "anthony-albanese",
+              "value": "Anthony Albanese",
+              "metadata": {}
+            },
+            {
+              "key": "lidia-thorpe",
+              "value": "Lidia Thorpe",
+              "metadata": {}
+            }
+          ],
+          "overlayImage": {
+            "type": "image",
+            "key": "trtworld/f_article_23db432f486e8cae1da0955662c5da9e.jpeg",
+            "bucket": "port-prod-asset-public-image-v3",
+            "cdnUrl": "https://images-cdn.trtworld.com/trtworld/",
+            "fileName": "f_article_23db432f486e8cae1da0955662c5da9e.jpeg",
+            "url": "https://images-cdn.trtworld.com/trtworld/f_article_23db432f486e8cae1da0955662c5da9e.jpeg",
+            "width": 5882,
+            "height": 3783
+          }
+        },
+        "metadata": {
+          "show_sparkbox": "true"
+        },
+        "site": "trtworld",
+        "viewCount": 0,
+        "published": {
+          "date": "2024-10-21T08:42:45.261Z"
+        },
+        "paths": [
+          "/australia/australian-senator-to-king-charles-give-us-what-you-stole-from-us-18222737"
         ]
       }
     },
@@ -1771,243 +1856,7 @@
       "showAuthor": false,
       "showByLine": false,
       "showSparkbox": false,
-      "content": {
-        "id": 12977396,
-        "title": "South Africa's Ramaposa rows back from pledge to quit ICC",
-        "description": "South African President Cyril Ramaphosa a day earlier said his ANC party had resolved that his country should quit the ICC, which last month issued an arrest warrant against Russian President Vladimir Putin.",
-        "body": [
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>South African President Cyril Ramaphosa has rowed back from a pledge to quit the International Criminal Court, months before he is due to host Russia's Vladimir Putin who is wanted by the ICC for suspected war crimes.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>Ramaphosa had said on Tuesday that the ruling African National Congress would aim to repeal South Africa's membership of the Hague-based court, which hears cases of genocide, war crimes and crimes against humanity. </p><p>But on Wednesday, Ramaphosa's office said he had made a mistake.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>\"South Africa remains a signatory to the ICC in line with a resolution of the 55th National Conference of the ANC – held in December 2022 – to rescind an earlier decision to withdraw from the ICC,\" the presidency said in a statement on Wednesday.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>\"The December resolution was reaffirmed at a meeting of the National Executive Committee of the ANC during the weekend of 21 to 24 April 2023.\"</p><p>The presidency said that South Africa would work towards establishing an African continental criminal court that would complement the ICC as a court of last resort. </p><p>The ANC decided at its national conference in December that South Africa should abandon a legislative process to pull out of the ICC and try to effect changes to the organisation from within. </p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p><strong>READ MORE:</strong> <em><a href=\"https://www.trtworld.com/europe/icc-issues-arrest-warrant-for-putin-over-alleged-war-crimes-in-ukraine-66231\">ICC issues arrest warrant for Putin over alleged war crimes in Ukraine</a></em> </p><p> </p>"
-          },
-          {
-            "blockType": "youtube",
-            "metadata": {
-              "url": "https://www.youtube.com/watch?v=EUlzBtxBzNE"
-            },
-            "value": "<iframe width=\"200\" height=\"113\" src=\"https://www.youtube.com/embed/EUlzBtxBzNE?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen title=\"Putin indicted by the ICC: what does that actually mean?\"></iframe>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p><strong>Putin's arrest warrant</strong> </p><p>The ICC issued an arrest warrant in March for Putin, accusing him of the war crime of forcibly deporting children from Russian-occupied territory in Ukraine. Moscow denies committing war crimes including forced deportations of children, and says the ICC has no authority as Russia is not a member.</p><p>Putin is due to visit South Africa in August for a summit of the BRICS group of emerging economies comprising Brazil, Russia, India, China and South Africa. As an ICC member, South Africa would be required to detain him.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p>Putin has not travelled abroad since the ICC warrant was issued. He has made only one trip outside the former Soviet Union - to Iran - since launching the attack against Ukraine last year.</p>"
-          },
-          {
-            "blockType": "text",
-            "metadata": {},
-            "value": "<p><strong>READ MORE:</strong> <a href=\"https://www.trtworld.com/europe/live-blog-un-backed-inquiry-accuses-russia-of-war-crimes-in-ukraine-66168\" data-ved=\"2ahUKEwiX94GPruP9AhXeS_EDHSQxCNEQFnoECAgQAQ\"><em>UN-backed inquiry accuses Russia of war crimes in Ukraine</em></a>  </p>"
-          }
-        ],
-        "path": "/africa/south-africas-ramaposa-rows-back-from-pledge-to-quit-icc-12977396",
-        "type": "article",
-        "fields": {
-          "search_title": {
-            "text": "South Africa backs from pledge to quit war crimes court"
-          },
-          "search_description": {
-            "text": "ICC issued arrest warrant against Vladimir Putin who is expected to visit South Africa in August for BRICS conference."
-          },
-          "topic_slug": {
-            "text": "africa"
-          },
-          "mainImage": {
-            "type": "image",
-            "assetId": 16275004,
-            "key": "trtworld/16275004_0-183-4498-2533.jpeg",
-            "bucket": "port-production-asset-public-image",
-            "cdnUrl": "https://cdn-i.pr.trt.com.tr/trtworld/",
-            "fileName": "16275004_0-183-4498-2533.jpeg",
-            "url": "https://cdn-i.pr.trt.com.tr/trtworld/16275004_0-183-4498-2533.jpeg",
-            "title": "South Africa now says it would work towards establishing an African continental criminal court that would complement the ICC as a court of last resort. / Photo: AA",
-            "width": 4500,
-            "height": 2999,
-            "source": "AA"
-          },
-          "authors": [
-            {
-              "firstName": {
-                "text": "Meryem"
-              },
-              "lastName": {
-                "text": "Demirhan"
-              },
-              "twitter": {
-                "text": ""
-              },
-              "bio": {
-                "text": ""
-              },
-              "path": "/author/meryem-demirhan"
-            }
-          ],
-          "relatedStory": {
-            "id": 12763559,
-            "type": "article",
-            "title": "South Africa's president visits epicentre of unrest, says it was 'planned'",
-            "description": "South African President Cyril Ramaphosa says deadly violence and looting that have shaken the country over the past week were planned as death toll mounts to 212.",
-            "mainImageUrl": "https://cdn-i.pr.trt.com.tr/trtworld/0m_110073_ZAF20210716presidentcyrilramaphosavisitscenterunrestdurbanRTR_1626434603140.jpeg",
-            "overlayImageUrl": "",
-            "thumbnailSquare": "",
-            "categories": [
-              {
-                "contentId": 12682877,
-                "title": "Africa"
-              },
-              {
-                "contentId": 12682254,
-                "title": "Home Page"
-              }
-            ],
-            "metaTitle": "",
-            "metaDescription": "",
-            "showName": "",
-            "showSlug": "",
-            "path": "/africa/south-africas-president-visits-epicentre-of-unrest-says-it-was-planned-12763559",
-            "publishedDate": "2021-07-16T11:17:24.000Z",
-            "authors": [
-              {
-                "userName": "ezgi.toper",
-                "firstName": "Ezgi",
-                "lastName": "Toper",
-                "bio": "Ezgi Toper is a digital producer at TRT World.",
-                "twitter": "Ezgi_Toper",
-                "mainImage": "https://cdn-i.pr.trt.com.tr/trtworld/0u_1077.jpg",
-                "path": "/author/ezgi-toper"
-              }
-            ],
-            "showAuthor": false,
-            "showByLine": false,
-            "showSparkbox": false
-          },
-          "sources": [
-            {
-              "key": "trtworld-and-agencies",
-              "value": "TRTWorld and agencies",
-              "metadata": {}
-            }
-          ],
-          "topics": [
-            {
-              "contentId": 12682254,
-              "title": "Home Page",
-              "slug": "home-page"
-            },
-            {
-              "contentId": 12682877,
-              "title": "Africa",
-              "slug": "africa"
-            },
-            {
-              "contentId": 12682883,
-              "title": "Europe",
-              "slug": "europe"
-            }
-          ],
-          "team": {
-            "key": "news",
-            "value": "News",
-            "metadata": {}
-          },
-          "contentFormat": {
-            "key": "news",
-            "value": "News",
-            "metadata": {}
-          },
-          "country": {
-            "key": "zaf",
-            "value": "South Africa",
-            "metadata": {
-              "code": "ZAF",
-              "region": "Africa",
-              "subregion": "Southern Africa"
-            }
-          },
-          "tags": [
-            {
-              "key": "south-africa",
-              "value": "South Africa",
-              "metadata": {}
-            },
-            {
-              "key": "russia",
-              "value": "Russia",
-              "metadata": {}
-            },
-            {
-              "key": "putin",
-              "value": "Putin",
-              "metadata": {}
-            },
-            {
-              "key": "icc",
-              "value": "ICC",
-              "metadata": {}
-            },
-            {
-              "key": "war-crimes",
-              "value": "War Crimes",
-              "metadata": {}
-            },
-            {
-              "key": "international-criminal-court-of-justice",
-              "value": "International Criminal Court Of Justice",
-              "metadata": {}
-            },
-            {
-              "key": "anc",
-              "value": "ANC",
-              "metadata": {}
-            },
-            {
-              "key": "ukraine-war",
-              "value": "Ukraine War",
-              "metadata": {}
-            },
-            {
-              "key": "russia-ukraine-conflict",
-              "value": "Russia Ukraine Conflict",
-              "metadata": {}
-            }
-          ]
-        },
-        "metadata": {
-          "show_sparkbox": "true"
-        },
-        "site": "trtworld",
-        "viewCount": 0,
-        "published": {
-          "date": "2023-04-26T10:25:42.760Z"
-        },
-        "paths": [
-          "/africa/south-africas-ramaposa-rows-back-from-pledge-to-quit-icc-12977396"
-        ]
-      }
+      "content": null
     }
   ]
 }

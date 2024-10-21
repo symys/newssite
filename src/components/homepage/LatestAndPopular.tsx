@@ -11,7 +11,7 @@ const LatestAndPopular = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch("../../../db.json", {cache: "no-cache"});
+        const response = await fetch("../../../../db.json", {cache: "no-cache"});
         const json = await response.json();
         console.log(json);
         setData(json);
@@ -22,9 +22,9 @@ const LatestAndPopular = () => {
     fetchData();
   }, []);
 
-  // Data'nın yüklendiğinden emin ol
+
   if (!data) {
-    return <div>Loading...</div>; // Veriler yüklenene kadar yükleniyor mesajı göster
+    return <div>Loading...</div>; // Veriler yüklenene kadar yükleniyor mesajı
   }
 
   const topics: string[] = [

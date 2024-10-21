@@ -21,28 +21,19 @@ function SingleArticlePage() {
     }), // Tarihi özel formatta saklıyoruz
   };
 
+  // check youtube url, if exist format it
+  let embedUrl:any = "";
   const YOUTUBE_OBJ = formattedArticle.content.body.find(
     (item: any) => item.blockType === "youtube"
   );
-  const YOUTUBE_URL = YOUTUBE_OBJ.metadata.url;
-  const embedUrl = YOUTUBE_URL.replace(
-    /(?:https:\/\/youtu\.be\/|https:\/\/www\.youtube\.com\/watch\?v=)([^&]+)/,
-    "https://www.youtube.com/embed/$1"
-  );
-  const mainURL = parse(YOUTUBE_OBJ.value);
+  if(YOUTUBE_OBJ && YOUTUBE_OBJ.metadata?.url){
+     const YOUTUBE_URL = YOUTUBE_OBJ.metadata?.url;
+     embedUrl = YOUTUBE_URL.replace(
+      /(?:https:\/\/youtu\.be\/|https:\/\/www\.youtube\.com\/watch\?v=)([^&]+)/,
+      "https://www.youtube.com/embed/$1"
+    );
+  }
 
-  let cleanedArticleArray: any[] = [];
-  formattedArticle.content.body.map((item: any) => {
-    const cleanedText =
-      item.blockType === "text" && item.value.replace(/^<p>|<\/p>$/g, "");
-    item.blockType === "text" && cleanedArticleArray.push(cleanedText);
-  });
-
-  // if the length longer than 8 it returns true
-  const articleLength = cleanedArticleArray.length;
-  const shouldAddSecondReadMore = articleLength > 8;
-
-  console.log("******1", formattedArticle);
 
   return (
     <div className="flex flex-col w-screen p-8">
