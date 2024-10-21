@@ -2,7 +2,6 @@
 import Image from "next/image";
 import { useArticle } from "../../context/ArticleContext";
 import React from "react";
-import parse from "html-react-parser";
 import ArticleDesignByLength from "@/components/singlearticlepage/ArticleDesignByLength";
 import RelatedArticles from "@/components/singlearticlepage/RelatedArticles";
 
@@ -24,7 +23,7 @@ function SingleArticlePage() {
   // check youtube url, if exist format it
   let embedUrl: any = "";
   const YOUTUBE_OBJ = formattedArticle.content.body.find(
-    (item: any) => item.blockType === "youtube"
+    (item: {blockType:any}) => item.blockType === "youtube"
   );
   if (YOUTUBE_OBJ && YOUTUBE_OBJ.metadata?.url) {
     const YOUTUBE_URL = YOUTUBE_OBJ.metadata?.url;
@@ -59,7 +58,7 @@ function SingleArticlePage() {
               <Image
                 src={formattedArticle.mainImageUrl}
                 alt="latest news"
-                layout="fill"
+                fill
                 objectFit="cover"
                 priority
               />

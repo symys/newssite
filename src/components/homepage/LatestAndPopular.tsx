@@ -1,5 +1,5 @@
 "use client";
-import Image from "next/image";
+
 import React, { useEffect, useState } from "react";
 import PopularToday from "./PopularToday";
 import MainInLatestNews from "./MainInLatestNews";
@@ -41,12 +41,12 @@ const LatestAndPopular = () => {
       <div className=" flex-row  text-sm  gap-8 roboto mt-4 screen768:hidden flex">
         {topics.map((topic, index) => {
           return (
-            <div
+            <div key={index}
               className={`flex flex-row gap-8 ${
                 topic != "TOPICS" ? "text-customGray" : "text-black"
               }`}
             >
-              <div>{topic}</div>
+              <div key={index}>{topic}</div>
               {index < topics.length - 1 && (
                 <div className="border-l-2 border-lightGray h-full "></div>
               )}

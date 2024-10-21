@@ -18,8 +18,8 @@ const ArticleDesignByLength = ({ articleArr, embedUrl }: any) => {
     return (
       <>
         <div className="gap-4 flex flex-col px-28 screen768:px-10 pt-10">
-          {articleArr.content.body.slice(0, 2).map((item: any) => {
-            return item.blockType === "text" && parse(item.value);
+          {articleArr.content.body.slice(0, 2).map((item: any, index:number) => {
+            return item.blockType === "text" && <div key={index}>{parse(item.value)}</div>
           })}
         </div>
         {isYoutubeLinkExist && (
@@ -36,8 +36,8 @@ const ArticleDesignByLength = ({ articleArr, embedUrl }: any) => {
           </div>
         )}
         <div className="gap-4 flex flex-col px-28 screen768:px-10 pt-10">
-          {articleArr.content.body.slice(2, 4).map((item: any) => {
-            return item.blockType === "text" && parse(item.value);
+          {articleArr.content.body.slice(2, 4).map((item:any, index:number) => {
+            return item.blockType === "text" && <div key={index}>{parse(item.value)}</div>
           })}
         </div>
         
@@ -52,8 +52,8 @@ const ArticleDesignByLength = ({ articleArr, embedUrl }: any) => {
         )}
 
         <div className="gap-4 flex flex-col px-28 screen768:px-10 pt-10">
-          {articleArr.content.body.slice(4, 6).map((item: any) => {
-            return item.blockType === "text" && parse(item.value);
+          {articleArr.content.body.slice(4, 6).map((item: any,index:number) => {
+            return item.blockType === "text" && <div key={index}>{parse(item.value)}</div>
           })}
         </div>
        {(findSubArticles.length >= 2) && <div className="gap-4 flex flex-col px-28 screen768:px-10 pt-10">
@@ -64,8 +64,8 @@ const ArticleDesignByLength = ({ articleArr, embedUrl }: any) => {
           />
         </div>}
         <div className="gap-4 flex flex-col px-28 screen768:px-10 pt-10">
-          {articleArr.content.body.slice(6).map((item: any) => {
-            return item.blockType === "text" && parse(item.value);
+          {articleArr.content.body.slice(6).map((item: any, index:number) => {
+            return item.blockType === "text" && <div key={index}>{parse(item.value)}</div>
           })}
         </div>
         {embedUrl && (
@@ -102,8 +102,8 @@ const ArticleDesignByLength = ({ articleArr, embedUrl }: any) => {
   } else if (isArticleLong && articleArr.content.body.length > 5) {
     <>
       <div className="gap-4 flex flex-col px-28 screen768:px-10 pt-10">
-        {articleArr.content.body.slice(0, 2).map((item: any) => {
-          return item.blockType === "text" && parse(item.value);
+        {articleArr.content.body.slice(0, 2).map((item: any,index:number) => {
+          return item.blockType === "text" && <div key={index}>{parse(item.value)}</div>
         })}
       </div>
       {isYoutubeLinkExist && (
@@ -120,8 +120,8 @@ const ArticleDesignByLength = ({ articleArr, embedUrl }: any) => {
         </div>
       )}
       <div className="gap-4 flex flex-col px-28 screen768:px-10 pt-10">
-        {articleArr.content.body.slice(2, 4).map((item: any) => {
-          return item.blockType === "text" && parse(item.value);
+        {articleArr.content.body.slice(2, 4).map((item: any,index:number) => {
+          return item.blockType === "text" && <div key={index}>{parse(item.value)}</div>
         })}
       </div>
 
@@ -135,8 +135,8 @@ const ArticleDesignByLength = ({ articleArr, embedUrl }: any) => {
           </div>
         )}
       <div className="gap-4 flex flex-col px-28 screen768:px-10 pt-10">
-        {articleArr.content.body.slice(4).map((item: any) => {
-          return item.blockType === "text" && parse(item.value);
+        {articleArr.content.body.slice(4).map((item: any, index:number) => {
+          return item.blockType === "text" && <div key={index}>{parse(item.value)}</div>
         })}
       </div>
       {embedUrl && (
@@ -172,8 +172,8 @@ const ArticleDesignByLength = ({ articleArr, embedUrl }: any) => {
   } else {
     <>
       <div className="gap-4 flex flex-col px-28 screen768:px-10 pt-10">
-        {articleArr.content.body.slice(0, 2).map((item: any) => {
-          return item.blockType === "text" && parse(item.value);
+        {articleArr.content.body.slice(0, 2).map((item: any, index:number) => {
+          return item.blockType === "text" && <div key={index}>{parse(item.value)}</div>
         })}
       </div>
       {isYoutubeLinkExist && (
@@ -190,8 +190,8 @@ const ArticleDesignByLength = ({ articleArr, embedUrl }: any) => {
         </div>
       )}
       <div className="gap-4 flex flex-col px-28 screen768:px-10 pt-10">
-        {articleArr.content.body.slice(2).map((item: any) => {
-          return item.blockType === "text" && parse(item.value);
+        {articleArr.content.body.slice(2).map((item: any, index:number) => {
+          return item.blockType === "text" && <div key={index}>{parse(item.value)}</div>
         })}
       </div>
 
