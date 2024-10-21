@@ -88,8 +88,8 @@ function SingleArticlePage() {
             <ArticleDesignByLength embedUrl={embedUrl} articleArr={formattedArticle}/>
           </div>
         </div>
-        <div className="block screen992:hidden w-1/5 bg-yellow-200">
-        <RelatedArticles />
+        <div className="block screen992:hidden w-1/5">
+        <RelatedArticles relatedArticleData={formattedArticle.content.fields.relatedStory}/>
         </div>
       </div>
     </div>
