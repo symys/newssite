@@ -3,9 +3,8 @@ import Image from "next/image";
 import { useArticle } from "../../context/ArticleContext";
 import React from "react";
 import parse from "html-react-parser";
-import ArticlePageReadMore from "@/components/ArticlePageReadMore";
-import Tags from "@/components/Tags";
-import ArticleDesignByLength from "@/components/ArticleDesignByLength";
+import ArticleDesignByLength from "@/components/singlearticlepage/ArticleDesignByLength";
+import RelatedArticles from "@/components/singlearticlepage/RelatedArticles";
 
 function SingleArticlePage() {
   const { article } = useArticle();
@@ -89,7 +88,9 @@ function SingleArticlePage() {
             <ArticleDesignByLength embedUrl={embedUrl} articleArr={formattedArticle}/>
           </div>
         </div>
-        <div className="block screen992:hidden w-1/5">yan haber</div>
+        <div className="block screen992:hidden w-1/5 bg-yellow-200">
+        <RelatedArticles />
+        </div>
       </div>
     </div>
   );

@@ -1,4 +1,4 @@
-import LatestAndPopular from "../../../components/LatestAndPopular";
+import LatestAndPopular from "../../../components/homepage/LatestAndPopular";
 
 export default function HomePage() {
   return (

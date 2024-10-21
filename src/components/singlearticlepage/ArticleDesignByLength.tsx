@@ -1,3 +1,4 @@
+'use client';
 import parse from "html-react-parser";
 import ArticlePageReadMore from "./ArticlePageReadMore";
 import Tags from "./Tags";
@@ -41,7 +42,7 @@ const ArticleDesignByLength = ({ articleArr, embedUrl }: any) => {
           })}
         </div>
         
-        {(findSubArticles.length > 1) && (
+        {(findSubArticles.length >= 1) && (
           <div className="gap-4 flex flex-col px-28 screen768:px-10 pt-10">
             <ArticlePageReadMore
               isReadMore={true}
@@ -56,7 +57,7 @@ const ArticleDesignByLength = ({ articleArr, embedUrl }: any) => {
             return item.blockType === "text" && parse(item.value);
           })}
         </div>
-       {(findSubArticles.length > 2) && <div className="gap-4 flex flex-col px-28 screen768:px-10 pt-10">
+       {(findSubArticles.length >= 2) && <div className="gap-4 flex flex-col px-28 screen768:px-10 pt-10">
           <ArticlePageReadMore
             isReadMore={true}
             img={findSubArticles[1].mainImageUrl}

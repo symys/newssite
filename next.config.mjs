@@ -2,7 +2,7 @@
 const nextConfig = {
     // provides to upload images from outsource
     images: {
-        domains: ['images-cdn.trtworld.com']
+        domains: ['images-cdn.trtworld.com', 'cdn-i.pr.trt.com.tr']
     }
 };
 
