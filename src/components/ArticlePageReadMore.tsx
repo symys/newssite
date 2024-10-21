@@ -17,7 +17,7 @@ const ArticlePageReadMore = ({ img, title, isReadMore }: any) => {
           <div className="uppercase roboto tracking-wider text-xs text-customGray">
             Read More
           </div>
-          <div className="font-bold text lg">{title}</div>
+          {<div className="font-bold text lg">{title}</div>}
         </div>
       </div>
     );

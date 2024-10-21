@@ -5,6 +5,7 @@ import React from "react";
 import parse from "html-react-parser";
 import ArticlePageReadMore from "@/components/ArticlePageReadMore";
 import Tags from "@/components/Tags";
+import ArticleDesignByLength from "@/components/ArticleDesignByLength";
 
 function SingleArticlePage() {
   const { article } = useArticle();
@@ -84,80 +85,7 @@ function SingleArticlePage() {
 
           {/* article text container */}
           <div className="min-h-screen">
-            <div className="gap-4 flex flex-col px-28 screen768:px-10 pt-10">
-              {formattedArticle.content.body.slice(0, 3).map((item:any) => {
-                return item.blockType === "text" && parse(item.value);
-              })}
-            </div>
-            <div className="pt-6 flex justify-center w-full h-[40vh] px-28 screen768:px-10">
-              <div className="w-full justify-center flex">
-                <iframe
-                  src={embedUrl}
-                  className="w-full h-full"
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                  referrerPolicy="strict-origin-when-cross-origin"
-                  allowFullScreen
-                ></iframe>
-              </div>
-            </div>
-            <div className="gap-4 flex flex-col px-28 screen768:px-10 pt-10">
-              {formattedArticle.content.body.slice(4, 8).map((item:any) => {
-                return item.blockType === "text" && parse(item.value);
-              })}
-            </div>
-        
-                <div className="gap-4 flex flex-col px-28 screen768:px-10 pt-10">
-                  <ArticlePageReadMore
-                    isReadMore={true}
-                    img={formattedArticle.mainImageUrl}
-                    title={formattedArticle.title}
-                  />
-                </div>
-                <div className="gap-4 flex flex-col px-28 screen768:px-10 pt-10">
-                  {formattedArticle.content.body.slice(9, 11).map((item:any) => {
-                    return item.blockType === "text" && parse(item.value);
-                  })}
-                </div>
-            <div className="gap-4 flex flex-col px-28 screen768:px-10 pt-10">
-              <ArticlePageReadMore
-                isReadMore={true}
-                img={formattedArticle.mainImageUrl}
-                title={formattedArticle.title}
-              />
-            </div>
-            <div className="gap-4 flex flex-col px-28 screen768:px-10 pt-10">
-              {cleanedArticleArray.slice(11)?.map((item, i) => {
-                // there is a tag <strong>
-                return !item.startsWith("<") && <p key={i}>{item}</p>;
-              })}
-            </div>
-            <div className="pt-6 flex justify-center w-full h-[40vh] px-28 screen768:px-10">
-              <div className="w-full justify-center flex">
-                <iframe
-                  src={embedUrl}
-                  className="w-full h-full"
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                  referrerPolicy="strict-origin-when-cross-origin"
-                  allowFullScreen
-                ></iframe>
-              </div>
-            </div>
-            <div className="roboto text-xs uppercase tracking-wider px-28 screen768:px-10 pt-2">
-              <span className="text-customGray">SOURCE :</span>
-              {formattedArticle.content.fields.sources[0].value}
-            </div>
-            <div className=" border-b-2 border-lightGray h-auto mx-2 mr-4 mt-6"></div>
-            <div className="pt-8 flex flex-col gap-2 px-28 screen768:px-10">
-              <h5 className="text-xs roboto tracking-wider">TAGS</h5>
-              <Tags tagArray={formattedArticle.content.fields.tags} />
-            </div>
-            <div className="gap-4 flex flex-col px-28 screen768:px-10 pt-10">
-              <ArticlePageReadMore
-                isReadMore={false}
-                img={formattedArticle.mainImageUrl}
-                title={formattedArticle.title}
-              />
-            </div>
+            <ArticleDesignByLength embedUrl={embedUrl} articleArr={formattedArticle}/>
           </div>
         </div>
         <div className="block screen992:hidden w-1/5">yan haber</div>
