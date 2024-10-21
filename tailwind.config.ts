@@ -21,6 +21,10 @@ const config: Config = {
         tagText: '#777C80',
 
       },
+      fontSize:{
+        size42 : '42px',
+        size28: '28px',
+      },
       fontFamily: {
         noto: ['Noto Serif', 'serif'], 
       },

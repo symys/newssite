@@ -47,21 +47,22 @@ function SingleArticlePage() {
 
   return (
     <div className="flex flex-col w-screen p-8">
-      <div>
+      
+      <div className="flex flex-row justify-between min-h-screen ">
+        {/* main news content */}
+        <div className="w-4/5 h-full ">
+        <div className="flex flex-col gap-4">
         <div className="flex flex-row gap-2 text-xs roboto uppercase">
           <div className="text-trtBlue">
             {formattedArticle.categories[1]?.title}
           </div>
           <div className="font-normal text-customGray">1 hour ago</div>
         </div>
-        <h2 className="text-xl font-bold">{formattedArticle.title}</h2>
-        <h3 className="text-sm text-customGray">
+        <h2 className="text-size42 screen992:text-4xl screen320:text-size28 font-bold">{formattedArticle.title}</h2>
+        <h3 className="text-2xl screen992:text-xl screen320:text-base  text-customGray pb-4">
           {formattedArticle.description}
         </h3>
       </div>
-      <div className="flex flex-row justify-between min-h-screen ">
-        {/* main news content */}
-        <div className="w-4/5 h-full">
           {/* main image container */}
           <div>
             <div className="relative w-[95%] h-0 pb-[50%] overflow-hidden mx-5">
