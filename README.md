@@ -29,11 +29,8 @@ pnpm dev
 # or
 bun dev
 ```
-You should see a view like this:
 
-
-If everything works fine, the terminal will look like this and you will see the project on your localhost. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
+If everything works fine you will see the project on your localhost. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Learn More
 
